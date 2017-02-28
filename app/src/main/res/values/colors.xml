@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- The default background of the menu. -->
+    <color name="bottombar_nomarl">#0099ff</color>
+    <color name="self_black">#000</color>
+    <color name="light_white">#cfd8dc</color>
+    <color name="self_blue">#0099ff</color>
+    <color name="self_gray">#4D4D4D</color>
+    <color name="self_empty">#6D6D6D</color>
+    <color name="self_white">#FFFFFF</color>
+    <color name="self_common">#F2F2F2</color>
+    <color name="self_grey">#808080</color>
+    <color name="self_grey_light">#e4e4e4</color>
+    <color name="self_background">#d9d9d9</color>
+    <color name="self_yellow">#ff9900</color>
+    <color name="hc_blue">#007aff</color>
+    <color name="GREEN">#008000</color>
+    <color name="ic_blue">#039BE5</color>
+    <color name="ic_red">#FF3333</color>
+    <color name="ic_orange">#fbbc05</color>
+    <color name="ic_green">#43A047</color>
+
+    <color name="help_check_pending">#f8b551</color>
+    <color name="check_task_finish">#43a047</color>
+    <color name="hc_orange">#ff3c23</color>
+
+    <color name="black_80">#80000000</color>
+    <color name="BLACK">#000000</color>
+    <color name="orange">#F59F77</color>
+    <color name="self_faint_yellow">#fefadc</color>
+    <color name="transfer_item_gray">#cccccc</color>
+    <color name="hc_red">#D52800</color>
+    <color name="possible_result_points">#c0ffbd21</color>
+    <!-- Android standard ICS color -->
+    <!-- Android standard ICS color -->
+    <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="red">#ff0000</color>
+    <color name="gray">#dddddd</color>
+    <color name="image_selected_color">#7f000000</color>
+    <color name="hc_self_transparent">#00000000</color>
+    <color name="line_dark">#d7d7d7</color>
+
+    <!-- progress黑色背景 -->
+
+    <!-- 白色被点击 -->
+
+    <!-- yangming -->
+    <color name="side_bar">#999999</color>
+    <!-- yangming end -->
+
+    <color name="white_B0">#B0B0B0</color>
+    <color name="success_green">#00EE00</color>
+
+    <color name="hc_half_trans">#50000000</color>
+
+    <!-- new -->
+    <!--界面主题背景色-->
+    <color name="hc_self_gray_bg">#eceff1</color>
+    <color name="hc_self_gray_hint">#9f9f9f</color>
+    <color name="hc_self_gray_right">#b0bec5</color>
+    <color name="hc_backgroud_black">#374248</color>
+    <color name="hc_backgroud_black_2">#0eFFFFFF</color>
+    <color name="hc_self_black">#263238</color>
+    <color name="hc_titlebar_black">#1a2226</color>
+    <color name="hc_self_white">#FFFFFF</color>
+    <color name="hc_self_white_noright">#33FFFFFF</color>
+    <color name="hc_self_red">#ff3333</color>
+    <color name="hc_self_gray">#9f9f9f</color>
+    <color name="hc_clicked_white">#74c8ff</color>
+    <color name="hc_label_white">#eeeeee</color>
+    <color name="hc_right_click_gray">#335464</color>
+    <color name="hc_indicator">#06c1ae</color>
+    <color name="light_indicator">#01caae</color>
+    <color name="hc_edit_bg">#f5f8fa</color>
+    <color name="hc_vehicle_model_bg">#f5f5f5</color>
+    <color name="hc_self_gray_line">#cfd8dc</color>
+    <color name="hc_self_input_border">#90a4ae</color>
+    <color name="hc_self_input_bg">#f5f8fa</color>
+    <color name="reminder_red">#dd0000</color>
+    <color name="light_reminder_red">#80dd0000</color>
+    <color name="letter_bar_color">#80BEBEBE</color>
+    <color name="zy_click_gray">#faf7f7</color>
+    <!-- 浅灰色 品牌筛选右边竖直字母栏背景色 选中灰色矩形背景 -->
+    <color name="letter_toast">#7F7F7F</color>
+    <!-- 灰色间隔线 -->
+    <color name="promote_black">#333333</color>
+    <!-- new -->
+    <color name="hc_self_solid">#FAFAFA</color>
+    <color name="hc_transaction_fail_reason_select">#f7fafc</color>
+    <!--支付全款-->
+    <color name="hc_task_fullpay">#43A047</color>
+    <color name="hc_light_green">#63a219</color>
+    <!--搜索蒙板-->
+    <color name="hc_half_black">#55000000</color>
+    <color name="hc_upload_text">#90a4ae</color>
+    <color name="hc_check_uploading">#55c4f4</color>
+    <color name="hc_dark_blue">#009999</color>
+    <color name="hc_prepay_bottom_btn_yellow">#ff6d00</color>
+    <color name="hc_prepay_bottom_btn_grey">#bdbdbd</color>
+    <color name="hc_hostling_add_item">#179998</color>
+    <color name="hc_self_orange">#fc6c21</color>
+    <color name="transparent">#000000</color>
+    <color name="color_bg_selected">#06C1AE</color>
+    <color name="color_bg_normal">#e7e7e8</color>
+    <color name="hc_recycling_finished">#fc2d33</color>
+    <!-- 分隔行颜色 -->
+    <color name="divider_row">#EBEBEB</color>
+</resources>

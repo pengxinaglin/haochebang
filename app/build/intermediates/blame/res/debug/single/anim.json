@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/push_bottom_in.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/push_bottom_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/snackbar_in.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/anim/snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/push_up_out.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/push_up_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/ll_grow_from_topright_to_bottomleft.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/anim/ll_grow_from_topright_to_bottomleft.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/slide_right_out.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/slide_right_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/anim_slide_down_out.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/anim_slide_down_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/slide_in_right.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/slide_in_right.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/ll_casher_search_bt.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/anim/ll_casher_search_bt.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/snackbar_out.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/anim/snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/ll_slide_out_to_right.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/anim/ll_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/fab_in.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/anim/fab_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/ll_slide_out_to_left.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/anim/ll_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/ll_shrink_from_bottomleft_to_topright.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/anim/ll_shrink_from_bottomleft_to_topright.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/slide_left_in.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/slide_left_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/anim_slide_up_in.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/anim_slide_up_in.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/ll_slide_in_from_right.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/anim/ll_slide_in_from_right.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/slide_out_right.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/slide_out_right.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/pull_bottom_out.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/pull_bottom_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/fab_out.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/anim/fab_out.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/ll_slide_in_from_left.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/anim/ll_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/anim/fade_ins.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/anim/fade_ins.xml"
+    }
+]

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+    
+    <TextView
+        style="@style/hc_vehicle_name"
+        android:paddingTop="@dimen/margin_30dp"
+        android:text="@string/hc_invalid_formate"/>
+    <TextView
+        style="@style/hc_vehicle_name"
+        android:textSize="@dimen/font_14"
+        android:textColor="@color/hc_self_red"
+        android:text="@string/hc_invalid_qrcode_help"/>
+    <Button
+        android:id="@+id/btn_repeat"
+        style="@style/hc_bottom_one"
+        android:layout_margin="@dimen/margin_20dp"
+        android:padding="@dimen/margin_20dp"
+        android:textColor="@color/hc_self_white"
+        android:text="@string/hc_repeat_scan"
+         />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_margin="@dimen/margin_20dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hc_qrcode_content"/>
+        <TextView
+            android:id="@+id/tv_qrcode_content"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+        </LinearLayout>
+</LinearLayout>

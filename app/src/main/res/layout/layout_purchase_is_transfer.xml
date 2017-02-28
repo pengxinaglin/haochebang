@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:orientation="vertical">
+
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_is_tansfer"/>
+
+        <CheckBox
+            android:id="@+id/cb_need_tansfer"
+            style="@style/cb_carbody"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:text="@string/hc_need_transfer"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_which_pay"
+        style="@style/hc_ll_transfer_info"
+        android:layout_marginTop="0dp"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_which_pay"/>
+
+
+        <RadioGroup
+            android:id="@+id/rg_which_pay"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_company"
+                style="@style/cb_carbody"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                android:text="@string/hc_company_payment"/>
+
+            <RadioButton
+                android:id="@+id/rb_owner"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="wrap_content"
+                style="@style/cb_carbody"
+                android:text="@string/hc_owner_payment"/>
+        </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_transfer_fee"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_transfer_fee"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_transfer_fee"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="number"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:inputType="numberDecimal"
+                android:textColor="@color/hc_self_gray_hint"
+                android:text="@string/hc_yuan"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

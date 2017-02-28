@@ -1,0 +1,7 @@
+#Tue Feb 14 21:40:28 CST 2017
+base.0=/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55643140e980aa42ab14aecee92fb31c6779d177
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8014074b6ca171de68212e2c466620091e093990/classes.dex
+base.1=/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_8014074b6ca171de68212e2c466620091e093990
+file.0=/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_55643140e980aa42ab14aecee92fb31c6779d177/classes.dex

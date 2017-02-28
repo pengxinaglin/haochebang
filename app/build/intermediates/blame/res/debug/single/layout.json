@@ -1,0 +1,1702 @@
+[
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_price.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_price.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hostling_project.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hostling_project.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_bottom_confirm_cancel.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_bottom_confirm_cancel.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_determine_and_cancel.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_determine_and_cancel.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_checktask_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_checktask_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_filter_title.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_filter_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_brand_list_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_brand_list_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_get_checker.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_get_checker.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_evaluate_comment.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_evaluate_comment.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_uploadtask_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_uploadtask_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_balance_rule_dialog.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_balance_rule_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_video_player.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_video_player.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_image_pager.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/layout/fragment_image_pager.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_download_progress.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_download_progress.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_info.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_photo_pager.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/layout/activity_photo_pager.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_dialog_message.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_dialog_message.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_video_list.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_video_list.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_vehicle_sub_condition.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_vehicle_sub_condition.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_checktask_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_checktask_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_uploadtask_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_uploadtask_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_cancel_task_gvitem.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_cancel_task_gvitem.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_task.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_task.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_input_sbmit.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_input_sbmit.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_qr_scan.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_qr_scan.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_sdk_index.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_sdk_index.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_cancel_task.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_cancel_task.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_car_tag.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_car_tag.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_fill_exam_report_header.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_fill_exam_report_header.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_stock_regist.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_stock_regist.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pos_pay_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pos_pay_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_merchant_operate.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_merchant_operate.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_qrshart_introduction.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_qrshart_introduction.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_helpcheck_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_helpcheck_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_channel_filter.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_channel_filter.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_business_bind_bt.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_business_bind_bt.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_home_page.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_filter_result.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_filter_result.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_central.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_central.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_change_pwd.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_change_pwd.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_complete_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_complete_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/music_player_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/music_player_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_dialog_confirm_phone_money.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pay_dialog_confirm_phone_money.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_detail_bottom_btn_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_detail_bottom_btn_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_input_remark.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_input_remark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_brand.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_brand.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_is_transfer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_is_transfer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_crm_web_view.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_crm_web_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_spinner.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_spinner.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_confirm_back_money.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_confirm_back_money.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_merchant_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_merchant_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_check_task_vehicle_name.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_check_task_vehicle_name.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_detail_bottom.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_detail_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_immediate_on.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_immediate_on.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_offlinesold_main.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_offlinesold_main.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_add_buyer_clue.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_add_buyer_clue.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_stockingscan_result.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_stockingscan_result.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_selected_photo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_selected_photo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_is_pay.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_is_pay.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_auto_update_content.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_auto_update_content.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_purchase_success.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_purchase_success.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_feature.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_feature.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_vehicle_sub_brand_add.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_vehicle_sub_brand_add.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_titlebar_search_more.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_titlebar_search_more.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_tire_stat_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_tire_stat_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_query_report.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_query_report.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/umeng_update_dialog.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/umeng_update_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_sub_brand.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_sub_brand.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_covering_panel.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_covering_panel.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hostling_vehicleinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hostling_vehicleinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/toolbar.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/popupwindow_select_carphototag.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/popupwindow_select_carphototag.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_ask.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_ask.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_buyback_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_buyback_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offer_refer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offer_refer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_dialog_btn_gray.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_dialog_btn_gray.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_channel_business_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_channel_business_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/__leak_canary_ref_top_row.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_ref_top_row.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_detail_cash_confirm_dialog.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_detail_cash_confirm_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_addbuyer_lead_phone.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_addbuyer_lead_phone.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_check_report_save_btn.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_check_report_save_btn.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_message.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_message.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_check_uplod.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_check_uplod.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_sdk_index_preauth.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_sdk_index_preauth.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_user_login.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_user_login.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_bottom_confirm.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_bottom_confirm.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_pay_back_balance.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_pay_back_balance.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_recheck.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_recheck.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_sdk_index_not_preauth.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_sdk_index_not_preauth.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_pay_record.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_pay_record.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_second_hand_car_offer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_second_hand_car_offer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/__leak_canary_display_leak.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_display_leak.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_purchaseclues_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_purchaseclues_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_recog_result.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_recog_result.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_second_hand_car_offer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_second_hand_car_offer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_commit_c2c_sold.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_commit_c2c_sold.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_button.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_button.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_market_condition.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_market_condition.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_add_pay_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_add_pay_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_message_list.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_message_list.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_titlebar_temp.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_titlebar_temp.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_directory.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/layout/item_directory.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_bottom_match.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_bottom_match.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_businesslist.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_businesslist.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_source.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_source.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_video_list.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_video_list.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_modify_check_address.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_modify_check_address.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_composite.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_composite.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_input_reason.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_input_reason.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_seting.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_seting.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_trans_task.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_trans_task.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_glass.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_glass.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hostling_add_item_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hostling_add_item_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_market_condition.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_market_condition.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_business_bt_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_business_bt_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_trunk.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_trunk.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_order.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_order.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_personal.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_personal.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_title_bar.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_title_bar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_merchant_vehicle_source_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_merchant_vehicle_source_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_buyer_name.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_buyer_name.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_buyback_progress.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_buyback_progress.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_user_welcome.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_user_welcome.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_info_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_info_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/vehicle_subscribe_condition_emission_select_pop_window_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/vehicle_subscribe_condition_emission_select_pop_window_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_tire_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_tire_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_common.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_common.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_snackbar_include.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_transaction_option.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_transaction_option.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_detail_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_detail_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_add_vehicle_source.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_add_vehicle_source.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_commit_photos.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_commit_photos.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_standard.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_standard.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_appointment_baseinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_appointment_baseinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_check_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_check_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_check_add_task_check_info.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_check_add_task_check_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_roof.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_roof.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_add_temp_task.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_add_temp_task.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hostling_baseinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hostling_baseinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_dialog_confirm_phone.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_dialog_confirm_phone.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_out_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_out_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/divider.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.jungly/gridPasswordView/0.3/res/layout/divider.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/popupwindow_base_car_tags.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/popupwindow_base_car_tags.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_source_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_source_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_user_face.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_user_face.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_titlebar_search_more_filter.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_titlebar_search_more_filter.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_stock_baseinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_stock_baseinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_find_car.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_find_car.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_photo_picker.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/layout/activity_photo_picker.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_pull_to_refresh.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_pull_to_refresh.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_result.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_result.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_update_confirm_dialog.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_update_confirm_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_channel_main.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_channel_main.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_list_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_list_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_fill_exam_report.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_fill_exam_report.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hostling_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hostling_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_vehicle_year.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_vehicle_year.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_type.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_type.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_result_view.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_result_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_break_contract.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_break_contract.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_recommend_lead.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_recommend_lead.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_detail_payment_list_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_detail_payment_list_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/__leak_canary_leak_row.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_leak_row.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_apply_adjust_price.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_apply_adjust_price.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_remark.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_remark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_recog_result.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_recog_result.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_check_popup.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_check_popup.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_transfer_photos.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_transfer_photos.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_balance_detail_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_balance_detail_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchasetask_more.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchasetask_more.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_apply_payment.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_apply_payment.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/asset_list_footer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/asset_list_footer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_feature.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_feature.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_select_revisit_date.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_select_revisit_date.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_source_operate.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_source_operate.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_validate_dialog_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_validate_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_city_select.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_city_select.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_filter_brand_headerview.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_filter_brand_headerview.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_purchase_success.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_purchase_success.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_sub_structure_pop_window.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_sub_structure_pop_window.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_bottom_cancel_determine.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_bottom_cancel_determine.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_new_car_offer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_new_car_offer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_add_dealer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_add_dealer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_checker_list.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_checker_list.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_result_view.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_result_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_check_popup.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_check_popup.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_quji_vehicles.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_quji_vehicles.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_stock_sale.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_stock_sale.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_hostling_complete.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_hostling_complete.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_vin_success.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_vin_success.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_addbuyer_lead_commment.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_addbuyer_lead_commment.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_success.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_success.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_common_smarttab.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_common_smarttab.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_light.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_smell_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_smell_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_offer_refer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_offer_refer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_snackbar.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_vehicle_type.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_vehicle_type.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_qrshart_app_download.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_qrshart_app_download.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_startup.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_startup.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_info.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_report_price.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_report_price.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_phone_record_list_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_phone_record_list_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_sub_customer_info.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_sub_customer_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hostling_photo_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hostling_photo_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/cube_ptr_simple_loading.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/in.srain.cube/ultra-ptr/1.0.10/res/layout/cube_ptr_simple_loading.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_audio_record.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_audio_record.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/cube_ptr_classic_default_header.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/in.srain.cube/ultra-ptr/1.0.10/res/layout/cube_ptr_classic_default_header.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_second_hand_car.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_second_hand_car.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_home_page.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_home_page.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_buyback_btn.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_buyback_btn.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_pillar.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_pillar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_carbin.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_carbin.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/__leak_canary_ref_row.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/layout/__leak_canary_ref_row.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_order_to_door.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_order_to_door.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_merch_vehiclesource.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_merch_vehiclesource.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_revisit_record.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_revisit_record.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_loading_view.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_loading_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_glass_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_glass_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_web_content.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_web_content.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_calendar.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_bottom_2btn.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_bottom_2btn.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_revisit_record.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_revisit_record.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_safe.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_safe.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_purchase_main.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_purchase_main.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_titlebar_save.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_titlebar_save.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_seat.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_seat.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hour_picker.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hour_picker.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_check_transfer_info.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_check_transfer_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_seller_info.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_seller_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_door.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_door.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_loading.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_loading.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_detail_payment_info_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_detail_payment_info_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_merchant_baseinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_merchant_baseinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_recycling_progress_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_recycling_progress_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_appointment_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_appointment_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_evaluation.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_evaluation.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/vehicle_subcribe_series_list_item_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/vehicle_subcribe_series_list_item_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_stock_btn.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_stock_btn.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_sub_bottom_button.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_sub_bottom_button.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_check_upload.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_check_upload.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_offlinesold_confirm_transfer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_offlinesold_confirm_transfer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_mainpager_popup_menu.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_mainpager_popup_menu.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_input_vincode.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_input_vincode.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_modify_price.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_modify_price.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offline_sold_is_transfer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offline_sold_is_transfer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_auto_update.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_auto_update.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_stock_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_stock_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_vehicle_brand.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_vehicle_brand.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_dialog_base.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_dialog_base.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_cancel_task.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_cancel_task.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/textview.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.jungly/gridPasswordView/0.3/res/layout/textview.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_web_title.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_web_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_casher_swiping_card.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_casher_swiping_card.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_qa.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_qa.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_check_add_task_vehicle_info.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_check_add_task_vehicle_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_checktask_main.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_checktask_main.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_buyerclues_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_buyerclues_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_recycling_progress.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_recycling_progress.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_buyback_baseinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_buyback_baseinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_modify_vincode.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_modify_vincode.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_audio_list.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_audio_list.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_check_task.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_check_task.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_titlebar.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_titlebar.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_quji_vehicle_title.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_quji_vehicle_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_vehicle_class.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_vehicle_class.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_notification_content.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_notification_content.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_break_contract.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_break_contract.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_payment_info.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_payment_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_task_failed.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_task_failed.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_add_revisit_record.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_add_revisit_record.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_procedure.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_procedure.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_detail_amt.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_detail_amt.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_add_buyer_clue_city.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_add_buyer_clue_city.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_photo_picker.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/layout/fragment_photo_picker.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_checktask_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_checktask_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/widget_elastic_listview_head.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/widget_elastic_listview_head.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_common_status.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_common_status.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pulldown_footer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pulldown_footer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_vcode_send_dialog.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_vcode_send_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offlinesold_transfer_method.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offlinesold_transfer_method.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/tab_base_selectphoto_pager.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/tab_base_selectphoto_pager.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_covering_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_covering_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/task_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/task_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_task_title.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_task_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_baseinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_baseinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_repurchase_approve.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_repurchase_approve.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_find_car.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_find_car.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_add_vehicle_recommend.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_add_vehicle_recommend.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_vehicle_recom.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_vehicle_recom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_recommend_main.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_recommend_main.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_detail_bottom.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_detail_bottom.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_trim_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_trim_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_inner.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_inner.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_device.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_device.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_business_unbind_bt.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_business_unbind_bt.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_hostling_complete.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_hostling_complete.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_detail_payment_list_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_detail_payment_list_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_second_hand_car_order.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_second_hand_car_order.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_vehicle_source_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_vehicle_source_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_plus_tag.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_plus_tag.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_transmit_checktask.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_transmit_checktask.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_list_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_list_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_apply_payment.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_apply_payment.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/week.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/hctimepicker/unspecified/res/layout/week.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_stock_attention.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_stock_attention.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_offlinesold_confirm_photo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_offlinesold_confirm_photo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_casher_qrcode.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_casher_qrcode.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_purchasetask_pending_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_purchasetask_pending_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_submit_hostling.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_submit_hostling.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_check_add_task.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_check_add_task.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_casher_card_success.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_casher_card_success.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_compredetection_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_compredetection_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hostling_task_title.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hostling_task_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_part_info.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_part_info.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_no_tag.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_no_tag.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_find_car.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_find_car.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_checker_add_clue.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_checker_add_clue.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/message_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/message_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_vehicle_sub_condition.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_vehicle_sub_condition.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_notfound_report.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_notfound_report.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_tire.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_tire.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_attention_remark.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_attention_remark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_dialog_btn_bright.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_dialog_btn_bright.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/popupwindow_select_defects_position.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/popupwindow_select_defects_position.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_transfer_modify_time_address.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_transfer_modify_time_address.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/vehicle_subscribe_condition_emission_select_pop_window_layout_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/vehicle_subscribe_condition_emission_select_pop_window_layout_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_title_bar_search.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_title_bar_search.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/liyang_vehicle_filter_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/liyang_vehicle_filter_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/gridpasswordview.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.jungly/gridPasswordView/0.3/res/layout/gridpasswordview.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hostling_add_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hostling_add_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_checker.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_checker.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_balance_query_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_balance_query_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_price.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_price.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_pager.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/layout/item_pager.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_hostling_fee.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_hostling_fee.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_checktask_baseinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_checktask_baseinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_appointment_failed.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_appointment_failed.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_offlinesold_commit.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_offlinesold_commit.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_offlinesold_stock_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_offlinesold_stock_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_outer_part.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_outer_part.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/vehicle_subscribe_series_list_fragment.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/vehicle_subscribe_series_list_fragment.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_pay_record.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_pay_record.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/ll_common_title.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/layout/ll_common_title.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_attention_baseinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_attention_baseinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_location_popup.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_location_popup.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_engine.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/item_engine.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_qrcode_share.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_qrcode_share.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_engine_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_engine_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_hostling_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_hostling_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_error_result.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_error_result.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_apply_refund_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_apply_refund_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_phone_record_list.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_phone_record_list.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_user_setting.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_user_setting.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/flaw_selected.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/flaw_selected.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_list_totalcount.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_list_totalcount.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_uploadtask_progress.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_uploadtask_progress.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_offer_price.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_offer_price.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_hosting_main.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_hosting_main.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_common_titlebar_add.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_common_titlebar_add.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_image_upload_activity.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_image_upload_activity.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_startup.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_startup.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_break_contract.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_break_contract.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pay_pulldown_footer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/layout/pay_pulldown_footer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/dialog_select_date.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/dialog_select_date.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_tags_checkbox.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_tags_checkbox.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/tab_media_files_pager.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/tab_media_files_pager.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_approve.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_approve.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/layout_purchase_baseinfo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/layout_purchase_baseinfo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_purchase_add_clue.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_purchase_add_clue.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/vehicele_subscribe_carbody_select_pop_window_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/vehicele_subscribe_carbody_select_pop_window_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_outer.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_outer.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_purchase_buyback_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_purchase_buyback_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/pop_startup_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/pop_startup_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/item_photo.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/layout/item_photo.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_offlinesold_sale_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_offlinesold_sale_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/hc_smart_tab_layout.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/hc_smart_tab_layout.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/month.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/hctimepicker/unspecified/res/layout/month.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/activity_find_car_detail.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/activity_find_car_detail.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/fragment_recommend_check.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/fragment_recommend_check.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/layout/timepicker.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/layout/timepicker.xml"
+    }
+]

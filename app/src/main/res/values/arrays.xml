@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="filter_standard">
+        <item>不限</item>
+        <item>国二及以上 </item>
+        <item>国三及以上</item>
+        <item>国四及以上</item>
+        <item>国五</item>
+    </string-array>
+
+    <string-array name="filter_gearbox">
+        <item>请选择</item>
+        <item>未知</item>
+        <item>手动 </item>
+        <item>自动</item>
+    </string-array>
+
+    <string-array name="filter_level">
+        <item>D级：无效</item>
+        <item>C级：不跟进 </item>
+        <item>B级：普通</item>
+        <item>A级：独家</item>
+        <item>H级：独家重点</item>
+    </string-array>
+
+
+    <string-array name="filter_vehicle_source_online">
+        <item>请选择</item>
+        <item>上线</item>
+        <item>下线</item>
+    </string-array>
+
+</resources>

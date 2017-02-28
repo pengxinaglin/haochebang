@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/self_white"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="@dimen/margin_20dp"
+        android:layout_marginRight="@dimen/margin_10dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/self_black"
+            android:textSize="18dp"
+            android:text="品牌:"/>
+
+        <ImageView
+            android:id="@+id/iv_barnd_logo"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="5dp"
+            android:contentDescription="@null"
+            />
+
+        <TextView
+            android:id="@+id/tv_brand_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/self_black"
+            android:textSize="18dp"
+            android:text="--"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="@dimen/margin_20dp"
+        android:layout_marginRight="@dimen/margin_10dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/self_black"
+            android:textSize="18dp"
+            android:text="车系:"/>
+
+        <TextView
+            android:id="@+id/tv_class_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:textColor="@color/self_black"
+            android:textSize="18dp"
+            android:text="--"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="@dimen/margin_20dp"
+        android:layout_marginRight="@dimen/margin_10dp"
+        >
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:textColor="@color/self_black"
+            android:textSize="18dp"
+            android:text="年款:"/>
+
+        <TextView
+            android:id="@+id/tv_year_name"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:gravity="center"
+            android:textColor="@color/self_black"
+            android:textSize="18dp"
+            android:text="--"/>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/line_carseries"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginLeft="@dimen/margin_10dp"
+        android:layout_marginRight="@dimen/margin_10dp"
+        android:layout_centerHorizontal="true"
+        android:background="@color/promote_black"
+        />
+
+    <RelativeLayout
+        android:id="@+id/rl_year_parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/hc_self_white"
+        >
+
+        <ListView
+            android:layout_centerHorizontal="true"
+            android:id="@+id/lv_vehicle_year"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="@dimen/margin_10dp"
+            android:layout_marginRight="@dimen/margin_10dp"
+            android:divider="@color/promote_black"
+            android:dividerHeight="0.5dp"
+            android:fastScrollEnabled="false"
+            android:listSelector="@drawable/selector_common_click"
+            android:overScrollMode="never"
+            android:scrollbars="none"
+            />
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_match"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/hc_self_gray_bg"
+    android:orientation="vertical">
+
+    <ScrollView
+        style="@style/wh_match"
+        android:layout_weight="10">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <include layout="@layout/layout_purchase_task_title"/>
+
+            <include layout="@layout/layout_purchase_buyback_baseinfo"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="@color/hc_self_gray_bg"
+                />
+
+            <include
+                android:id="@+id/ll_purchase_progress"
+                layout="@layout/layout_purchase_buyback_progress"/>
+
+            <include
+                android:id="@+id/ll_purchase_amt"
+                layout="@layout/layout_purchase_detail_amt"/>
+
+            <include
+                android:id="@+id/ll_break_contract"
+                layout="@layout/layout_purchase_break_contract"
+                />
+
+            <include
+                android:id="@+id/ll_failed_info"
+                layout="@layout/layout_purchase_appointment_failed"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="@color/hc_self_gray_bg"
+                />
+
+            <include
+                android:id="@+id/ll_operate_btn"
+                layout="@layout/layout_purchase_buyback_btn"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="10dp"
+                android:background="@color/hc_self_gray_bg"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+    <include
+        android:id="@+id/ll_btn"
+        layout="@layout/layout_bottom_confirm"/>
+</LinearLayout>

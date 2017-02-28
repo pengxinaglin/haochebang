@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="HCLoginTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/hc_self_black</item>
+        <!--输入文本的字体颜色-->
+        <item name="android:textColorPrimary">@color/hc_self_black</item>
+        <item name="android:windowBackground">@color/hc_self_gray_bg</item>
+        <item name="colorPrimaryDark">@color/hc_self_gray_bg</item>
+    </style>
+    <style name="HCTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/hc_self_black</item>
+        <item name="android:windowBackground">@color/hc_self_gray_bg</item>
+        <item name="android:popupMenuStyle">@style/HCTheme.PopupMenu</item>
+        <!--输入文本的字体颜色-->
+        <item name="android:textColorPrimary">@color/hc_self_black</item>
+        <item name="colorPrimaryDark">@color/hc_titlebar_black</item>
+        <!--设置系统默认的popMenu、spinner等的背景色-->
+        <item name="android:colorBackground">@color/hc_self_gray_bg</item>
+    </style>
+    <style name="HCTheme.MainPager" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textColor">@color/hc_self_black</item>
+        <item name="android:windowBackground">@color/hc_self_gray_bg</item>
+        <item name="android:popupMenuStyle">@style/HCTheme.PopupMenu</item>
+        <!--输入文本的字体颜色-->
+        <item name="android:textColorPrimary">@color/hc_self_black</item>
+        <item name="colorPrimaryDark">@color/hc_self_gray_bg</item>
+    </style>
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <RadioGroup
+        android:id="@+id/pop_glass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_tire_no"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/pop_check_selector"
+            android:button="@null"
+            android:checked="true"
+            android:gravity="center"
+            android:text="无"
+            android:textColor="@drawable/text_selector"/>
+
+        <RadioButton
+            android:id="@+id/rb_tire_new"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/pop_check_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:text="全新"
+            android:textColor="@drawable/text_selector"/>
+
+        <RadioButton
+            android:id="@+id/rb_tire_normal_wear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/pop_check_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:text="正常磨损"
+            android:textColor="@drawable/text_selector"/>
+
+        <RadioButton
+            android:id="@+id/rb_tire_heavy_wear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/pop_check_selector"
+            android:button="@null"
+            android:gravity="center"
+            android:text="严重磨损"
+            android:textColor="@drawable/text_selector"/>
+    </RadioGroup>
+
+</LinearLayout>

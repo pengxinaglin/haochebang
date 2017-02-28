@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_mw"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal">
+
+    <Button
+        android:id="@+id/bt_left"
+        style="@style/hc_transfer_bottom_1"
+        android:background="@color/hc_self_red"
+        android:padding="@dimen/margin_15dp"
+        android:visibility="gone"
+        android:text="--"
+        android:textColor="@color/self_white"
+        android:textSize="@dimen/font_16"/>
+
+    <Button
+        android:id="@+id/bt_right"
+        style="@style/hc_transfer_bottom_1"
+        android:background="@color/self_white"
+        android:padding="@dimen/margin_15dp"
+        android:visibility="gone"
+        android:text="--"
+        android:textColor="@color/hc_self_black"
+        android:textSize="@dimen/font_16"/>
+
+   <!-- <Button
+        android:id="@+id/bt_right"
+        style="@style/hc_transfer_bottom_1"
+        android:background="@color/transfer_item_gray"
+        android:padding="@dimen/margin_15dp"
+        android:text="&#45;&#45;&#45;&#45;"
+        android:textColor="@color/hc_self_red"
+        android:textSize="@dimen/font_16"/>-->
+
+</LinearLayout>

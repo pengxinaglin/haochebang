@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="#0000"
+              android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/hc_self_white"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_popup_menu_appraisal"
+            style="@style/HCTheme.TextMain"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:padding="20dp"
+            android:text="@string/hc_popup_menu_titlebar_appraisal"
+            android:textSize="@dimen/hc_text_size_middle"
+            />
+
+        <TextView
+            android:id="@+id/tv_popup_menu_receipt"
+            style="@style/HCTheme.TextMain"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:text="@string/hc_popup_menu_titlebar_receipt"
+            android:textSize="@dimen/hc_text_size_middle"
+            />
+
+        <TextView
+            android:id="@+id/tv_in_danger_record"
+            style="@style/HCTheme.TextMain"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:text="@string/hc_in_danger_record"
+            android:textSize="@dimen/hc_text_size_middle"
+            />
+
+        <TextView
+            android:id="@+id/tv_popup_menu_setting"
+            style="@style/HCTheme.TextMain"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:paddingBottom="20dp"
+            android:text="@string/hc_popup_menu_titlebar_setting"
+            android:textSize="@dimen/hc_text_size_middle"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="@dimen/margin_15dp"
+        android:layout_height="match_parent"
+        android:background="#0000"/>
+
+
+</LinearLayout>

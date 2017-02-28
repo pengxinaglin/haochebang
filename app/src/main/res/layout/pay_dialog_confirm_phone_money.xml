@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/pay_white"
+              android:orientation="vertical"
+              android:paddingTop="30dp"
+    >
+
+    <TextView
+        android:id="@+id/content1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center_horizontal"
+        android:text="----"
+        android:textColor="@color/pay_black"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/phone"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center_horizontal"
+        android:text="----"
+        android:textColor="@color/pay_red"
+        android:textSize="26dp"
+        />
+
+    <TextView
+        android:id="@+id/content2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="@dimen/margin_10dp"
+        android:gravity="center_horizontal"
+        android:text="----"
+        android:textColor="@color/pay_black"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/money"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center_horizontal"
+        android:text="----"
+        android:textColor="@color/pay_red"
+        android:textSize="26dp"
+        />
+
+    <TextView
+        android:id="@+id/content3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="@dimen/margin_10dp"
+        android:gravity="center_horizontal"
+        android:text="----"
+        android:textColor="@color/pay_black"
+        android:textSize="18dp"
+        />
+
+    <TextView
+        android:id="@+id/trans_fee"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:gravity="center_horizontal"
+        android:text="----"
+        android:textColor="@color/pay_red"
+        android:textSize="26dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/pay_divider_line"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/pay_button_height"
+        android:orientation="horizontal"
+        >
+
+        <Button
+            android:id="@+id/left_button"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/pay_selector_white_turn_gray"
+            android:textColor="@color/pay_black"
+            android:textSize="16dp"
+            />
+
+        <View
+            android:layout_width="0.5dp"
+            android:layout_height="match_parent"
+            android:background="@color/pay_divider_line"
+            />
+
+        <Button
+            android:id="@+id/right_button"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@drawable/pay_selector_white_turn_gray"
+            android:textColor="@color/pay_black"
+            android:textSize="16dp"
+            />
+    </LinearLayout>
+</LinearLayout>

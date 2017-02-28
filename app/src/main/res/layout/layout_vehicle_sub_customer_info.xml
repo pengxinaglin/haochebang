@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:id="@+id/ll_activity_vehicle_sub_customer_info"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/HCTheme.VehicleSubBlock"
+        android:layout_height="@dimen/margin_80dp"
+        android:layout_marginTop="@dimen/margin_10dp"
+        android:orientation="horizontal"
+        android:visibility="visible">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/margin_40dp"
+            android:layout_weight="1">
+
+            <TextView
+                style="@style/HCTheme.TextHint.Lable"
+                android:text="客户级别" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="@dimen/margin_40dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical|left">
+
+            <Spinner
+                android:id="@+id/sp_layout_vehicle_sub_level"
+                style="@style/HCTheme.VehicleSubBlock.Spinner"
+                android:entries="@array/filter_level"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:id="@+id/view_remark_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/hc_self_gray_line" />
+
+    <!--客户备注-->
+    <LinearLayout
+
+        style="@style/HCTheme.VehicleSubBlock"
+        android:orientation="vertical">
+
+        <!--客户备注lable-->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/margin_50dp"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/HCTheme.TextMain"
+                android:text="@string/vehicle_subscribe_condition_remark_lable"
+                android:textSize="@dimen/hc_text_size_normal" />
+
+            <View
+                android:layout_width="@dimen/margin_0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"></View>
+
+            <TextView
+                android:id="@+id/tv_layout_vehicle_sub_remark_count"
+                style="@style/HCTheme.TextHint"
+                android:layout_height="match_parent"
+                android:text="50"
+                android:textSize="@dimen/hc_text_size_normal" />
+        </LinearLayout>
+
+        <EditText
+            android:id="@+id/et_vehicle_sub_remark"
+            style="@style/HCTheme.VehicleSubBlock.Remark"
+            android:layout_width="match_parent"
+            android:layout_height="80dp"
+            android:layout_marginBottom="@dimen/margin_20dp"
+
+            />
+    </LinearLayout>
+</LinearLayout>

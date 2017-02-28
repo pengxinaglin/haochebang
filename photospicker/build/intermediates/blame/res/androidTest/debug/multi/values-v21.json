@@ -1,0 +1,1683 @@
+[
+    {
+        "outputFile": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v21/values-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/bundles/debug/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 48,
+                        "endOffset": 99
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 104,
+                    "endColumn": 61,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 285,
+                        "endColumn": 61,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 90,
+                    "endOffset": 252
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 301,
+                        "endColumn": 90,
+                        "endOffset": 387
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 257,
+                    "endColumn": 102,
+                    "endOffset": 355
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 392,
+                        "endColumn": 102,
+                        "endOffset": 490
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 360,
+                    "endColumn": 102,
+                    "endOffset": 458
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 495,
+                        "endColumn": 102,
+                        "endOffset": 593
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 463,
+                    "endColumn": 104,
+                    "endOffset": 563
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 598,
+                        "endColumn": 104,
+                        "endOffset": 698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 568,
+                    "endColumn": 106,
+                    "endOffset": 670
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 703,
+                        "endColumn": 106,
+                        "endOffset": 805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 675,
+                    "endColumn": 108,
+                    "endOffset": 779
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 810,
+                        "endColumn": 108,
+                        "endOffset": 914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 784,
+                    "endColumn": 108,
+                    "endOffset": 888
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 919,
+                        "endColumn": 108,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 893,
+                    "endColumn": 108,
+                    "endOffset": 997
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 108,
+                        "endOffset": 1132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1002,
+                    "endColumn": 108,
+                    "endOffset": 1106
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1137,
+                        "endColumn": 108,
+                        "endOffset": 1241
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1111,
+                    "endColumn": 108,
+                    "endOffset": 1215
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1246,
+                        "endColumn": 108,
+                        "endOffset": 1350
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1220,
+                    "endColumn": 106,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1355,
+                        "endColumn": 106,
+                        "endOffset": 1457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 102,
+                    "endOffset": 1425
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1462,
+                        "endColumn": 102,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1430,
+                    "endColumn": 118,
+                    "endOffset": 1544
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 118,
+                        "endOffset": 1679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1549,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1699
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1925,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 2075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1704,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1854
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2080,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 2230
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1859,
+                    "endColumn": 104,
+                    "endOffset": 1959
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2481,
+                        "endColumn": 104,
+                        "endOffset": 2581
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1964,
+                    "endColumn": 120,
+                    "endOffset": 2080
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2586,
+                        "endColumn": 120,
+                        "endOffset": 2702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2085,
+                    "endColumn": 100,
+                    "endOffset": 2181
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2707,
+                        "endColumn": 100,
+                        "endOffset": 2803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2186,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 2328
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3049,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 3191
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2333,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 2469
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3196,
+                        "endLine": 33,
+                        "endColumn": 12,
+                        "endOffset": 3332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2474,
+                    "endColumn": 102,
+                    "endOffset": 2572
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 3583,
+                        "endColumn": 102,
+                        "endOffset": 3681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2577,
+                    "endColumn": 118,
+                    "endOffset": 2691
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 3686,
+                        "endColumn": 118,
+                        "endOffset": 3800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2696,
+                    "endColumn": 106,
+                    "endOffset": 2798
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 3805,
+                        "endColumn": 106,
+                        "endOffset": 3907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2803,
+                    "endColumn": 102,
+                    "endOffset": 2901
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 3912,
+                        "endColumn": 102,
+                        "endOffset": 4010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2906,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 3048
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 4256,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 4398
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3053,
+                    "endLine": 35,
+                    "endColumn": 12,
+                    "endOffset": 3203
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 4403,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3208,
+                    "endLine": 37,
+                    "endColumn": 12,
+                    "endOffset": 3374
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4558,
+                        "endLine": 47,
+                        "endColumn": 12,
+                        "endOffset": 4724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3379,
+                    "endLine": 39,
+                    "endColumn": 12,
+                    "endOffset": 3523
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 4729,
+                        "endLine": 49,
+                        "endColumn": 12,
+                        "endOffset": 4873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 3528,
+                    "endLine": 41,
+                    "endColumn": 12,
+                    "endOffset": 3688
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 4878,
+                        "endLine": 51,
+                        "endColumn": 12,
+                        "endOffset": 5038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3693,
+                    "endLine": 43,
+                    "endColumn": 12,
+                    "endOffset": 3845
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 5043,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 5195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3850,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3996
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 5200,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 5346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4001,
+                    "endLine": 47,
+                    "endColumn": 12,
+                    "endOffset": 4145
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 5351,
+                        "endLine": 57,
+                        "endColumn": 12,
+                        "endOffset": 5495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4150,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 4294
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 5500,
+                        "endLine": 59,
+                        "endColumn": 12,
+                        "endOffset": 5644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4299,
+                    "endColumn": 111,
+                    "endOffset": 4406
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 5895,
+                        "endColumn": 111,
+                        "endOffset": 6002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4411,
+                    "endColumn": 146,
+                    "endOffset": 4553
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 6248,
+                        "endColumn": 146,
+                        "endOffset": 6390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4558,
+                    "endLine": 53,
+                    "endColumn": 12,
+                    "endOffset": 4706
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 6395,
+                        "endLine": 67,
+                        "endColumn": 12,
+                        "endOffset": 6543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4711,
+                    "endLine": 55,
+                    "endColumn": 12,
+                    "endOffset": 4853
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 6548,
+                        "endLine": 69,
+                        "endColumn": 12,
+                        "endOffset": 6690
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4858,
+                    "endColumn": 74,
+                    "endOffset": 4928
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 6936,
+                        "endColumn": 74,
+                        "endOffset": 7006
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4933,
+                    "endColumn": 88,
+                    "endOffset": 5017
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 7011,
+                        "endColumn": 88,
+                        "endOffset": 7095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5022,
+                    "endColumn": 86,
+                    "endOffset": 5104
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 7100,
+                        "endColumn": 86,
+                        "endOffset": 7182
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5109,
+                    "endColumn": 100,
+                    "endOffset": 5205
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 7187,
+                        "endColumn": 100,
+                        "endOffset": 7283
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5210,
+                    "endLine": 108,
+                    "endColumn": 12,
+                    "endOffset": 8689
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 7288,
+                        "endLine": 124,
+                        "endColumn": 12,
+                        "endOffset": 10767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8694,
+                    "endLine": 111,
+                    "endColumn": 12,
+                    "endOffset": 8875
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 10772,
+                        "endLine": 127,
+                        "endColumn": 12,
+                        "endOffset": 10953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8880,
+                    "endLine": 160,
+                    "endColumn": 12,
+                    "endOffset": 12371
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 10958,
+                        "endLine": 176,
+                        "endColumn": 12,
+                        "endOffset": 14449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 161,
+                    "startColumn": 4,
+                    "startOffset": 12376,
+                    "endLine": 163,
+                    "endColumn": 12,
+                    "endOffset": 12569
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 177,
+                        "startColumn": 4,
+                        "startOffset": 14454,
+                        "endLine": 179,
+                        "endColumn": 12,
+                        "endOffset": 14647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 164,
+                    "startColumn": 4,
+                    "startOffset": 12574,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 12692
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 182,
+                        "startColumn": 4,
+                        "startOffset": 14893,
+                        "endLine": 183,
+                        "endColumn": 12,
+                        "endOffset": 15011
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12697,
+                    "endLine": 167,
+                    "endColumn": 12,
+                    "endOffset": 12815
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 15016,
+                        "endLine": 185,
+                        "endColumn": 12,
+                        "endOffset": 15134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 168,
+                    "startColumn": 4,
+                    "startOffset": 12820,
+                    "endLine": 169,
+                    "endColumn": 12,
+                    "endOffset": 12928
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 186,
+                        "startColumn": 4,
+                        "startOffset": 15139,
+                        "endLine": 187,
+                        "endColumn": 12,
+                        "endOffset": 15247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 170,
+                    "startColumn": 4,
+                    "startOffset": 12933,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 13111
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 15252,
+                        "endLine": 190,
+                        "endColumn": 12,
+                        "endOffset": 15430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 173,
+                    "startColumn": 4,
+                    "startOffset": 13116,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 13242
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 191,
+                        "startColumn": 4,
+                        "startOffset": 15435,
+                        "endLine": 192,
+                        "endColumn": 12,
+                        "endOffset": 15561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 175,
+                    "startColumn": 4,
+                    "startOffset": 13247,
+                    "endColumn": 116,
+                    "endOffset": 13359
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 193,
+                        "startColumn": 4,
+                        "startOffset": 15566,
+                        "endColumn": 116,
+                        "endOffset": 15678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 176,
+                    "startColumn": 4,
+                    "startOffset": 13364,
+                    "endColumn": 88,
+                    "endOffset": 13448
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 194,
+                        "startColumn": 4,
+                        "startOffset": 15683,
+                        "endColumn": 88,
+                        "endOffset": 15767
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 177,
+                    "startColumn": 4,
+                    "startOffset": 13453,
+                    "endColumn": 110,
+                    "endOffset": 13559
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 195,
+                        "startColumn": 4,
+                        "startOffset": 15772,
+                        "endColumn": 110,
+                        "endOffset": 15878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 178,
+                    "startColumn": 4,
+                    "startOffset": 13564,
+                    "endColumn": 126,
+                    "endOffset": 13686
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 196,
+                        "startColumn": 4,
+                        "startOffset": 15883,
+                        "endColumn": 126,
+                        "endOffset": 16005
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 179,
+                    "startColumn": 4,
+                    "startOffset": 13691,
+                    "endColumn": 100,
+                    "endOffset": 13787
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 197,
+                        "startColumn": 4,
+                        "startOffset": 16010,
+                        "endColumn": 100,
+                        "endOffset": 16106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 180,
+                    "startColumn": 4,
+                    "startOffset": 13792,
+                    "endColumn": 94,
+                    "endOffset": 13882
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 16111,
+                        "endColumn": 94,
+                        "endOffset": 16201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 181,
+                    "startColumn": 4,
+                    "startOffset": 13887,
+                    "endColumn": 122,
+                    "endOffset": 14005
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 199,
+                        "startColumn": 4,
+                        "startOffset": 16206,
+                        "endColumn": 122,
+                        "endOffset": 16324
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 182,
+                    "startColumn": 4,
+                    "startOffset": 14010,
+                    "endColumn": 128,
+                    "endOffset": 14134
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 200,
+                        "startColumn": 4,
+                        "startOffset": 16329,
+                        "endColumn": 128,
+                        "endOffset": 16453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 14139,
+                    "endColumn": 116,
+                    "endOffset": 14251
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 201,
+                        "startColumn": 4,
+                        "startOffset": 16458,
+                        "endColumn": 116,
+                        "endOffset": 16570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 14256,
+                    "endLine": 185,
+                    "endColumn": 12,
+                    "endOffset": 14386
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 202,
+                        "startColumn": 4,
+                        "startOffset": 16575,
+                        "endLine": 203,
+                        "endColumn": 12,
+                        "endOffset": 16705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 186,
+                    "startColumn": 4,
+                    "startOffset": 14391,
+                    "endLine": 187,
+                    "endColumn": 12,
+                    "endOffset": 14529
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 204,
+                        "startColumn": 4,
+                        "startOffset": 16710,
+                        "endLine": 205,
+                        "endColumn": 12,
+                        "endOffset": 16848
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 188,
+                    "startColumn": 4,
+                    "startOffset": 14534,
+                    "endLine": 189,
+                    "endColumn": 12,
+                    "endOffset": 14664
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 206,
+                        "startColumn": 4,
+                        "startOffset": 16853,
+                        "endLine": 207,
+                        "endColumn": 12,
+                        "endOffset": 16983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 190,
+                    "startColumn": 4,
+                    "startOffset": 14669,
+                    "endLine": 191,
+                    "endColumn": 12,
+                    "endOffset": 14783
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 208,
+                        "startColumn": 4,
+                        "startOffset": 16988,
+                        "endLine": 209,
+                        "endColumn": 12,
+                        "endOffset": 17102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14788,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14984
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 210,
+                        "startColumn": 4,
+                        "startOffset": 17107,
+                        "endLine": 213,
+                        "endColumn": 12,
+                        "endOffset": 17303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 196,
+                    "startColumn": 4,
+                    "startOffset": 14989,
+                    "endLine": 197,
+                    "endColumn": 12,
+                    "endOffset": 15103
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 214,
+                        "startColumn": 4,
+                        "startOffset": 17308,
+                        "endLine": 215,
+                        "endColumn": 12,
+                        "endOffset": 17422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 198,
+                    "startColumn": 4,
+                    "startOffset": 15108,
+                    "endColumn": 92,
+                    "endOffset": 15196
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 216,
+                        "startColumn": 4,
+                        "startOffset": 17427,
+                        "endColumn": 92,
+                        "endOffset": 17515
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 199,
+                    "startColumn": 4,
+                    "startOffset": 15201,
+                    "endColumn": 110,
+                    "endOffset": 15307
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 17520,
+                        "endColumn": 110,
+                        "endOffset": 17626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 200,
+                    "startColumn": 4,
+                    "startOffset": 15312,
+                    "endColumn": 55,
+                    "endOffset": 15363
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 218,
+                        "startColumn": 4,
+                        "startOffset": 17631,
+                        "endColumn": 55,
+                        "endOffset": 17682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 201,
+                    "startColumn": 4,
+                    "startOffset": 15368,
+                    "endLine": 202,
+                    "endColumn": 12,
+                    "endOffset": 15470
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 17687,
+                        "endLine": 220,
+                        "endColumn": 12,
+                        "endOffset": 17789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15475,
+                    "endLine": 206,
+                    "endColumn": 12,
+                    "endOffset": 15665
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 17794,
+                        "endLine": 224,
+                        "endColumn": 12,
+                        "endOffset": 17984
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 15670,
+                    "endLine": 208,
+                    "endColumn": 12,
+                    "endOffset": 15776
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 225,
+                        "startColumn": 4,
+                        "startOffset": 17989,
+                        "endLine": 226,
+                        "endColumn": 12,
+                        "endOffset": 18095
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 15781,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 15909
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 227,
+                        "startColumn": 4,
+                        "startOffset": 18100,
+                        "endLine": 228,
+                        "endColumn": 12,
+                        "endOffset": 18228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 15914,
+                    "endColumn": 94,
+                    "endOffset": 16004
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 229,
+                        "startColumn": 4,
+                        "startOffset": 18233,
+                        "endColumn": 94,
+                        "endOffset": 18323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 16009,
+                    "endColumn": 90,
+                    "endOffset": 16095
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 230,
+                        "startColumn": 4,
+                        "startOffset": 18328,
+                        "endColumn": 90,
+                        "endOffset": 18414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 16100,
+                    "endLine": 217,
+                    "endColumn": 12,
+                    "endOffset": 16404
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 231,
+                        "startColumn": 4,
+                        "startOffset": 18419,
+                        "endLine": 235,
+                        "endColumn": 12,
+                        "endOffset": 18723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 16409,
+                    "endColumn": 112,
+                    "endOffset": 16517
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 236,
+                        "startColumn": 4,
+                        "startOffset": 18728,
+                        "endColumn": 112,
+                        "endOffset": 18836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 16522,
+                    "endColumn": 116,
+                    "endOffset": 16634
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 237,
+                        "startColumn": 4,
+                        "startOffset": 18841,
+                        "endColumn": 116,
+                        "endOffset": 18953
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 16639,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 16773
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 238,
+                        "startColumn": 4,
+                        "startOffset": 18958,
+                        "endLine": 239,
+                        "endColumn": 12,
+                        "endOffset": 19092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 16778,
+                    "endLine": 228,
+                    "endColumn": 12,
+                    "endOffset": 17126
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 242,
+                        "startColumn": 4,
+                        "startOffset": 19338,
+                        "endLine": 248,
+                        "endColumn": 12,
+                        "endOffset": 19686
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 17131,
+                    "endLine": 235,
+                    "endColumn": 12,
+                    "endOffset": 17491
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 249,
+                        "startColumn": 4,
+                        "startOffset": 19691,
+                        "endLine": 255,
+                        "endColumn": 12,
+                        "endOffset": 20051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 17496,
+                    "endLine": 245,
+                    "endColumn": 12,
+                    "endOffset": 18176
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 256,
+                        "startColumn": 4,
+                        "startOffset": 20056,
+                        "endLine": 265,
+                        "endColumn": 12,
+                        "endOffset": 20736
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 18181,
+                    "endLine": 255,
+                    "endColumn": 12,
+                    "endOffset": 18862
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 266,
+                        "startColumn": 4,
+                        "startOffset": 20741,
+                        "endLine": 275,
+                        "endColumn": 12,
+                        "endOffset": 21422
+                    }
+                }
+            }
+        ]
+    }
+]

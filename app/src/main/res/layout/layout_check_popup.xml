@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/gray_block_shape"
+              android:orientation="vertical"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="5dp"
+        android:text="我的业绩："
+        android:textColor="@color/self_black"
+        android:textSize="14dp"/>
+
+    <ListView
+        android:id="@+id/lv_check_popup"
+        android:fastScrollEnabled="true"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:dividerHeight="0dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_remark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:gravity="center_vertical"
+        android:text="@string/hc_check_popup_remark"
+        android:lines="6"
+        android:ellipsize="end"
+        android:textColor="@color/red"
+        android:textSize="12dp"/>
+</LinearLayout>

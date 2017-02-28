@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/letter_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/self_grey_light"
+        android:gravity="center_vertical"
+        android:paddingBottom="8dp"
+        android:paddingLeft="12dp"
+        android:paddingTop="8dp"
+        android:text="A"
+        android:textColor="#333333"
+        android:textSize="@dimen/margin_14dp"/>
+
+
+    <RelativeLayout
+        style="@style/wh_match"
+        android:padding="@dimen/margin_10dp">
+
+        <TextView
+            android:id="@+id/checker_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="A"
+            android:textColor="#333333"
+            android:textSize="18sp"/>
+
+        <TextView
+            android:id="@+id/choose"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:text="√"
+            android:layout_marginRight="@dimen/margin_15dp"
+            android:textColor="@color/red"
+            android:textSize="18sp"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+</LinearLayout>

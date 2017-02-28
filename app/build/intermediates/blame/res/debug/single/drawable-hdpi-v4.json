@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_black_24dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_black_24dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/login_btn_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-hdpi/login_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_ic_preauth.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_ic_preauth.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_black_36dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_black_36dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_white_48dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_white_48dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_ic_alipay.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_ic_alipay.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_marked.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/checkbox_marked.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/addpic.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/addpic.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_ic_applepay.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_ic_applepay.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_white_18dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_white_18dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_grey600_24dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_white_36dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_white_36dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_ic_qrcode_text.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_ic_qrcode_text.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/wheel_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-hdpi/wheel_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_white_24dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_white_24dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_camera_black_48dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_camera_black_48dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_grey600_18dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_grey600_18dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_black_18dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_black_18dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_photo_black_48dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_photo_black_48dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_casher_swiping_bt.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_casher_swiping_bt.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_ic_shuaka.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_ic_shuaka.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_grey600_48dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_grey600_48dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_common_title_back.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_common_title_back.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_ic_weixin.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_ic_weixin.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_ic_launcher.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ll_ic_nopos_bind.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable-hdpi-v4/ll_ic_nopos_bind.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_grey600_36dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_grey600_36dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_broken_image_black_48dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_broken_image_black_48dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_template.jpg",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-hdpi/default_template.jpg"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/popwindow_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-hdpi/popwindow_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_delete_black_48dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_delete_black_48dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_checkbox_blank_grey600_24dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_checkbox_blank_grey600_24dp.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cursor.jpg",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-hdpi/cursor.jpg"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_camera_grey600_48dp.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable-hdpi-v4/ic_camera_grey600_48dp.png"
+    }
+]

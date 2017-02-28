@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_wrap"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/self_white"
+    android:orientation="vertical"
+    android:padding="@dimen/height_10dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/height_40dp">
+
+        <Button
+            android:id="@+id/cancel"
+            style="@style/hc_weight1_horizontal"
+            android:background="@color/self_white"
+            android:gravity="center"
+            android:text="@string/soft_update_cancel"
+            android:textColor="@color/hc_indicator"
+            android:textSize="@dimen/margin_16dp"/>
+
+        <TextView
+            style="@style/hc_weight1_horizontal"
+            android:layout_weight="6"
+            android:gravity="center"
+            android:text="@string/select_time"
+            android:textSize="@dimen/margin_16dp"/>
+
+        <Button
+            android:id="@+id/determine"
+            style="@style/hc_weight1_horizontal"
+            android:background="@color/self_white"
+            android:gravity="center"
+            android:text="@string/action_ok"
+            android:textColor="@color/hc_indicator"
+            android:textSize="@dimen/margin_16dp"
+            />
+    </LinearLayout>
+
+    <com.haoche51.hctimepickerlibrary.CalendarPickerView
+        android:id="@+id/calendar_view"
+        style="@style/wh_match"
+        android:background="@color/self_white"
+        android:clipToPadding="false"
+        android:scrollbars="none"
+        android:scrollbarStyle="outsideOverlay"
+        />
+</LinearLayout>

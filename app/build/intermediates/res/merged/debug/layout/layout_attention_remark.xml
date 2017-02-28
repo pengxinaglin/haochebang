@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/self_white"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/height_10dp">
+
+    <TextView
+        style="@style/tv_attention"
+        android:text="提高关注度的方法："
+        android:textSize="@dimen/hc_text_size_middle"/>
+
+    <TextView
+        style="@style/tv_attention"
+        android:text="1、对车辆进行整备，保证车况良好"/>
+
+    <TextView
+        style="@style/tv_attention"
+        android:text="2、对车辆重新拍照，提高车辆“颜值”"/>
+
+    <TextView
+        style="@style/tv_attention"
+        android:text="3、跟主管申请，加强车辆推广"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_attention"
+            android:layout_width="wrap_content"
+            android:layout_marginRight="5dp"
+            android:text="4、适当调整车辆报价"/>
+
+        <TextView
+            android:id="@+id/tv_adjust_price"
+            style="@style/tv_attention"
+            android:visibility="gone"
+            android:layout_width="wrap_content"
+            android:text="@string/click_to_adjust_price"
+            android:textColor="@color/ic_blue"/>
+    </LinearLayout>
+</LinearLayout>

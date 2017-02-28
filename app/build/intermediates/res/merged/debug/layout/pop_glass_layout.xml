@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <RadioGroup
+        android:id="@+id/pop_glass"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center" >
+
+        <RadioButton
+            android:id="@+id/glass_normal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:checked="true"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:background="@drawable/pop_check_selector"
+            android:textColor="@drawable/text_selector"
+            android:text="正常" />
+
+        <RadioButton
+            android:id="@+id/glass_cracks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/pop_check_selector"
+            android:textColor="@drawable/text_selector"
+            android:text="轻微裂痕" />
+
+        <RadioButton
+            android:id="@+id/glass_broken"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/pop_check_selector"
+            android:textColor="@drawable/text_selector"
+            android:text="严重破损" />
+        <RadioButton
+            android:id="@+id/glass_change"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:button="@null"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@drawable/pop_check_selector"
+            android:textColor="@drawable/text_selector"
+            android:text="更换" />
+    </RadioGroup>
+
+</LinearLayout>

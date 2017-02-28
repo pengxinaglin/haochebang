@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/self_white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/margin_15dp"
+        android:paddingLeft="@dimen/margin_20dp"
+        android:paddingRight="@dimen/margin_20dp"
+        android:paddingTop="@dimen/margin_15dp">
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginBottom="@dimen/margin_5dp"
+            android:text="@string/hc_checker_evaluate"
+            android:textColor="@color/hc_self_black"
+            android:textSize="@dimen/margin_12dp"/>
+
+        <EditText
+            android:id="@+id/ed_checker_comment"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:padding="@dimen/margin_5dp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/margin_80dp"
+            android:gravity="left">
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/margin_15dp"
+        android:paddingLeft="@dimen/margin_20dp"
+        android:paddingRight="@dimen/margin_20dp">
+
+        <LinearLayout
+            android:id="@+id/hc_tag_layout"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/margin_30dp"
+            android:layout_weight="9"
+            android:orientation="vertical"/>
+
+        <RelativeLayout
+            android:id="@+id/rl_open_tags"
+            style="@style/wh_mw"
+            android:layout_width="@dimen/margin_30dp"
+            android:layout_height="@dimen/margin_30dp"
+            android:layout_marginLeft="@dimen/margin_5dp"
+            android:background="@drawable/shape_more_tag"
+            >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:orientation="horizontal">
+
+                <View
+                    android:layout_width="@dimen/height_2dp"
+                    android:layout_height="@dimen/height_2dp"
+                    android:background="@drawable/shape_point"
+                    />
+
+                <View
+                    android:layout_width="@dimen/height_2dp"
+                    android:layout_height="@dimen/height_2dp"
+                    android:layout_marginLeft="@dimen/margin_3dp"
+                    android:layout_marginRight="@dimen/margin_3dp"
+                    android:background="@drawable/shape_point"
+                    />
+
+                <View
+                    android:layout_width="@dimen/height_2dp"
+                    android:layout_height="@dimen/height_2dp"
+                    android:background="@drawable/shape_point"
+                    />
+            </LinearLayout>
+        </RelativeLayout>
+
+    </LinearLayout>
+</LinearLayout>

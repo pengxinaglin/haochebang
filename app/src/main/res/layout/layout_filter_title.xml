@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:background="@color/hc_backgroud_black">
+
+    <TextView
+        android:id="@+id/tv_clear"
+        style="@style/hc_filter_title_label"
+        android:layout_alignParentLeft="true"
+        android:text="清除结果"/>
+
+    <TextView
+        android:id="@+id/tv_dofilter"
+        style="@style/hc_filter_title_label"
+        android:layout_alignParentRight="true"
+        android:text="确定"/>
+</RelativeLayout>

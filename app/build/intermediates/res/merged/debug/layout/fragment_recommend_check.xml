@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/px_1"
+        android:background="@color/hc_self_gray_bg"/>
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:background="@color/self_white"-->
+        <!--android:orientation="horizontal"-->
+        <!--android:paddingBottom="17dp"-->
+        <!--android:paddingTop="17dp">-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:gravity="center_horizontal"-->
+            <!--android:orientation="vertical">-->
+
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_curr_month_lable"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/curr_month_bonus"-->
+                <!--android:textColor="@color/hc_self_gray_hint"-->
+                <!--android:textSize="12dp"/>-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_curr_month_bonus"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="&#45;&#45;"-->
+                <!--android:textColor="@color/self_black"-->
+                <!--android:textSize="27dp"-->
+                <!--android:textStyle="bold"/>-->
+
+        <!--</LinearLayout>-->
+
+        <!--<View-->
+            <!--android:layout_width="1dp"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:background="@color/divider_row"-->
+            <!--/>-->
+
+        <!--<LinearLayout-->
+            <!--android:layout_width="0dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_weight="1"-->
+            <!--android:gravity="center_horizontal"-->
+            <!--android:orientation="vertical">-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_history_lable"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="@string/history_bonus"-->
+                <!--android:textColor="@color/hc_self_gray_hint"-->
+                <!--android:textSize="12dp"/>-->
+
+            <!--<TextView-->
+                <!--android:id="@+id/tv_history_bonus"-->
+                <!--android:layout_width="wrap_content"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:text="&#45;&#45;"-->
+                <!--android:textColor="@color/self_black"-->
+                <!--android:textSize="27dp"-->
+                <!--android:textStyle="bold"/>-->
+
+
+        <!--</LinearLayout>-->
+    <!--</LinearLayout>-->
+
+    <com.haoche51.checker.custom.HCPullToRefresh
+        android:id="@+id/pull_to_refresh"
+        style="@style/wh_match"/>
+
+</LinearLayout>

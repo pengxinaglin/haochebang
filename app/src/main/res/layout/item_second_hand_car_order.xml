@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+    <TextView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/tv_order_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/self_white"
+        android:padding="15dp"
+        android:text="--"
+        android:textColor="@color/hc_self_black"
+        android:textSize="@dimen/hc_text_size_middle"/>

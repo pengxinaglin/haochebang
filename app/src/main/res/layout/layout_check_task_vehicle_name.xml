@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView
+    android:id="@+id/tv_vehicle_name"
+    style="@style/hc_tv_name"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_alignParentLeft="true"
+    android:layout_width="match_parent"
+    android:background="@color/self_white"
+    android:paddingBottom="@dimen/margin_20dp"
+    android:paddingLeft="@dimen/margin_15dp"
+    android:paddingRight="@dimen/margin_15dp"
+    android:paddingTop="@dimen/margin_20dp"
+    android:text="---"
+    android:textSize="@dimen/margin_18dp"
+    />

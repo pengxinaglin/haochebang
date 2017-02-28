@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/self_white"
+    android:orientation="vertical">
+
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_is_payment"/>
+
+        <CheckBox
+            android:id="@+id/cb_need_payment"
+            style="@style/cb_carbody"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:text="@string/hc_need_payment"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/ll_payment_money"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="0dp"
+        android:orientation="horizontal"
+        android:visibility="gone"
+        >
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_payment_money"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_payment_money"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:focusableInTouchMode="true"
+                android:inputType="numberDecimal"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:inputType="numberDecimal"
+                android:textColor="@color/hc_self_gray_hint"
+                android:text="@string/hc_wanyuan"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_final_payment"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="0dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_final_payment"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <TextView
+                android:id="@+id/tv_final_payment"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="numberDecimal"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:inputType="numberDecimal"
+                android:textColor="@color/hc_self_gray_hint"
+                android:text="@string/hc_wanyuan"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

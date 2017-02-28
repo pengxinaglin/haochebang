@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center">
+
+        <TextView
+            android:id="@+id/tv_project_number"
+            style="@style/tv_hostling_serial_number"
+            android:text="1"/>
+
+        <TextView
+            android:id="@+id/tv_project_name"
+            style="@style/hc_tv_title_16"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            android:padding="@dimen/margin_10dp"
+            android:text="全车部分喷漆"/>
+
+        <CheckBox
+            android:id="@+id/cb_not_finish"
+            style="@style/cb_carbody"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:text="@string/hc_not_hostling"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_hostling_project"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout style="@style/ll_hostling_sub2">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="40dp"
+                android:layout_marginRight="40dp"
+                >
+
+                <EditText
+                    android:id="@+id/ed_hostling_money"
+                    style="@style/ed_hostling"
+                    android:focusable="true"
+                    android:focusableInTouchMode="true"
+                    android:hint="@string/hc_hostling_item_remark"
+                    android:paddingLeft="4dp"
+                    android:textColorHint="@color/hc_self_gray_hint"/>
+
+                <TextView
+                    android:id="@+id/tv_hostling_unit"
+                    style="@style/wh_wrap"
+                    android:layout_gravity="center_vertical|right"
+                    android:layout_marginRight="@dimen/margin_5dp"
+                    android:text="@string/hc_yuan"
+                    android:textColor="@color/hc_self_gray_hint"
+                    android:textSize="14dp"/>
+            </FrameLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/hc_purchase_photo"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <com.haoche51.checker.custom.CGridView
+                android:id="@+id/cgv_hostling"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/margin_10dp"
+                android:horizontalSpacing="@dimen/margin_5dp"
+                android:numColumns="3"
+                android:scrollbars="none"
+                android:verticalSpacing="5dp"
+                />
+        </LinearLayout>
+
+        <View style="@style/v_hostling_dash_line"/>
+
+        <LinearLayout
+            style="@style/hc_purchase_photo"
+            android:layout_marginBottom="20dp"
+            android:layout_marginLeft="40dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+
+            <LinearLayout
+                android:id="@+id/ll_hostling_add"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dp">
+
+                <FrameLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="80dp"
+                        android:background="@drawable/photo_shape"/>
+
+                    <TextView
+                        style="@style/tv_hostling_photo"
+                        android:text="@string/hc_add_hostling_photo"/>
+                </FrameLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dp"></LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="5dp">
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

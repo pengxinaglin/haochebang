@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ScrollView
+        style="@style/wh_match"
+        android:layout_weight="20">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/self_white"
+            android:orientation="vertical">
+
+            <LinearLayout
+                style="@style/hc_ll_transfer_info"
+                android:layout_height="@dimen/height_35dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    style="@style/HCTheme.TextHint.Lable"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="@string/hc_idle_time"/>
+               <LinearLayout
+                   android:layout_width="0dp"
+                   android:layout_weight="4"
+                   android:layout_height="match_parent">
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left">
+
+                    <TextView
+                        android:id="@+id/tv_idle_start_time"
+                        style="@style/HCTheme.VehicleSubBlock.Spinner"
+                        android:entries="@array/filter_vehicle_source_online"
+                        android:gravity="center"
+                        />
+
+                    <ImageView
+                        style="@style/wh_wrap"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/margin_5dp"
+                        android:src="@drawable/ic_hc_spinner_arrow"/>
+                </RelativeLayout>
+
+                <TextView
+                    style="@style/HCTheme.TextHint.Lable"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="@string/to"/>
+
+                <RelativeLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left">
+
+                    <TextView
+                        android:id="@+id/tv_idle_end_time"
+                        style="@style/HCTheme.VehicleSubBlock.Spinner"
+                        android:entries="@array/filter_vehicle_source_online"
+                        android:gravity="center"
+                        />
+
+                    <ImageView
+                        style="@style/wh_wrap"
+                        android:layout_alignParentRight="true"
+                        android:layout_centerVertical="true"
+                        android:layout_marginRight="@dimen/margin_5dp"
+                        android:src="@drawable/ic_hc_spinner_arrow"/>
+                </RelativeLayout>
+               </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/hc_ll_transfer_info"
+                android:layout_height="@dimen/height_35dp"
+                android:layout_marginBottom="35dp"
+                android:orientation="horizontal"
+                >
+
+                <TextView
+                    style="@style/HCTheme.TextHint.Lable"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:text="@string/hc_suitable_place"/>
+
+                <AutoCompleteTextView
+                    android:id="@+id/act_suitable_place"
+                    style="@style/HCTheme.VehicleSubBlock.Input"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="4"
+                    android:inputType="text"
+                    android:textCursorDrawable="@null"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:layout_weight="0.1">
+
+        <Button
+            android:id="@+id/btn_save"
+            style="@style/hc_transfer_bottom_1"
+            android:background="@color/hc_self_red"
+            android:padding="@dimen/margin_15dp"
+            android:text="@string/hc_common_save"
+            android:textColor="@color/self_white"
+            android:textSize="@dimen/font_16"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:orientation="vertical">
+    <!--第1行-->
+    <LinearLayout
+        style="@style/hc_purchase_photo"
+        android:layout_height="120dp"
+        android:layout_marginBottom="20dp"
+        android:layout_marginTop="20dp"
+        >
+
+        <FrameLayout
+            android:id="@+id/fl_buyer_id_card"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            >
+
+            <RelativeLayout
+                android:id="@+id/rl_buyer_id_card"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="@drawable/photo_shape"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/hc_buyer_id_card"
+                    android:textColor="@color/hc_dark_blue"
+                    android:textSize="14dp"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_buyer_id_card_new"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                >
+
+                <com.haoche51.checker.custom.RoundImageView
+                    android:id="@+id/iv_buyer_id_card_new"
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    app:borderRadius="5dp"
+                    app:type="round"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/iv_buyer_id_card_new"
+                    android:layout_centerHorizontal="true"
+                    android:textColor="@color/hc_dark_blue"
+                    android:text="@string/hc_buyer_id_card"/>
+            </RelativeLayout>
+        </FrameLayout>
+
+
+        <FrameLayout
+            android:id="@+id/fl_contract"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            >
+
+            <RelativeLayout
+                android:id="@+id/rl_contract"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="@drawable/photo_shape"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/hc_contract"
+                    android:textColor="@color/hc_dark_blue"
+                    android:textSize="14dp"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_contract_new"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                >
+
+                <com.haoche51.checker.custom.RoundImageView
+                    android:id="@+id/iv_contract_new"
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    app:borderRadius="5dp"
+                    app:type="round"/>
+
+                <TextView
+                    android:id="@+id/tv_contract_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/iv_contract_new"
+                    android:textColor="@color/hc_dark_blue"
+                    android:layout_centerInParent="true"
+                    android:text="@string/hc_contract"/>
+            </RelativeLayout>
+        </FrameLayout>
+
+
+        <FrameLayout
+            android:id="@+id/fl_three_people"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            >
+
+            <RelativeLayout
+                android:id="@+id/rl_three_people"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                >
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="@drawable/photo_shape"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:text="@string/hc_three_people"
+                    android:textColor="@color/hc_dark_blue"
+                    android:textSize="14dp"/>
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_three_people_new"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:visibility="gone"
+                >
+
+                <com.haoche51.checker.custom.RoundImageView
+                    android:id="@+id/iv_three_people_new"
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    app:borderRadius="5dp"
+                    app:type="round"/>
+
+                <TextView
+                    android:id="@+id/tv_three_people_new"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/iv_three_people_new"
+                    android:layout_centerInParent="true"
+                    android:textColor="@color/hc_dark_blue"
+                    android:text="@string/hc_three_people"/>
+            </RelativeLayout>
+        </FrameLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

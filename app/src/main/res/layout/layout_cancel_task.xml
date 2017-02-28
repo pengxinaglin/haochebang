@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/self_white"
+    android:orientation="vertical"
+    android:paddingBottom="10dp">
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            android:id="@+id/tv_cancel_reason"
+            style="@style/tv_normal_label"
+            android:text="@string/p_cancel_reason"
+            android:textSize="18dp"/>
+
+        <Spinner
+            android:id="@+id/spn_cancel_reason"
+            style="@style/spanner_normal"
+            android:entries="@array/array_cancel_reason"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_second_desc"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:visibility="gone"
+        >
+
+        <TextView
+            android:id="@+id/tv_cancel_desc"
+            style="@style/tv_normal_label"
+            android:text="@string/p_cancel_desc"
+            android:textSize="18dp"/>
+
+        <Spinner
+            android:id="@+id/spn_cancel_desc"
+            style="@style/spanner_normal"
+            android:entries="@array/array_cancel_desc"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp">
+
+        <TextView
+            android:id="@+id/tv_onsite_title"
+            style="@style/tv_normal_label"
+            android:text="@string/p_onsite_title"
+            android:textSize="18dp"/>
+
+        <RadioGroup
+            android:id="@+id/rg_onsite"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:checkedButton="@+id/rb_not_onsite"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/rb_onsite"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@drawable/radio_button_selector"
+                android:text="@string/ya"/>
+
+            <RadioButton
+                android:id="@+id/rb_not_onsite"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@drawable/radio_button_selector"
+                android:text="@string/n"/>
+        </RadioGroup>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_warning"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:text="*warning"
+        android:textColor="@color/hc_orange"
+        android:textSize="@dimen/font_18"
+        android:visibility="gone"/>
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <GridView
+            android:id="@+id/gv_photo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:numColumns="5"
+            android:scrollbars="none"/>
+
+        <ImageView
+            android:id="@+id/iv_photo"
+            android:layout_width="@dimen/width_55dp"
+            android:layout_height="@dimen/width_55dp"
+            android:layout_marginTop="@dimen/margin_10dp"
+            android:src="@drawable/select_photo"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:text="@string/select_photo_show"
+            android:textColor="@color/red"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="10dp"
+            android:layout_height="@dimen/height_35dp">
+
+            <TextView
+                style="@style/tv_normal_label"
+                android:text="@string/sgcar_remark"
+                android:textSize="18dp"/>
+
+            <EditText
+                android:id="@+id/edt_remark"
+                style="@style/ed_normal"
+                android:hint="@string/hint_remark"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:id="@+id/linear_changedtime_reason"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="@string/p_change_reason"
+            android:textSize="18dp"/>
+
+        <EditText
+            android:id="@+id/et_changedtime_reason"
+            style="@style/ed_normal"
+            android:hint="@string/hc_please_input_reservation"
+            android:maxLines="5"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/linear_changedtime"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:layout_marginBottom="10dp"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="@string/change_time_titile"
+            android:textSize="18dp"/>
+
+        <TextView
+            android:id="@+id/tv_changedtime"
+            style="@style/tv_normal"
+            android:hint="@string/please_input_change_time"
+            android:singleLine="true"/>
+    </LinearLayout>
+
+</LinearLayout>

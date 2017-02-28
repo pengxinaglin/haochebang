@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+    <com.haoche51.checker.custom.FlawView
+        android:id="@+id/flawView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        />
+
+    <TextView
+        android:id="@+id/tv_show_location"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/flawView"
+        android:layout_centerHorizontal="true"
+        android:text="标记位置"
+        android:textSize="@dimen/hc_text_size_middle"/>
+
+    <Button
+        android:id="@+id/btn_cancel_location"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/flawView"
+        android:layout_below="@+id/flawView"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/btn_bg_selector"
+        android:padding="10dp"
+        android:text="无法标记"
+        android:textColor="@color/hc_indicator"
+        android:textSize="@dimen/hc_text_size_middle"/>
+
+    <Button
+        android:id="@+id/btn_confirm_location"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/flawView"
+        android:layout_below="@+id/flawView"
+        android:layout_marginTop="2dp"
+        android:background="@drawable/selector_upload_report"
+        android:padding="10dp"
+        android:text=" 确 定 "
+        android:textColor="@color/self_white"
+        android:textSize="@dimen/hc_text_size_middle"/>
+
+</RelativeLayout>

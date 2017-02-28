@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/self_white"
+              android:orientation="vertical"
+              android:paddingBottom="@dimen/margin_15dp">
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_check_city"/>
+
+
+        <TextView
+            android:id="@+id/tv_check_city"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="0dp"
+            android:layout_weight="2"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_check_address"/>
+
+        <AutoCompleteTextView
+            android:id="@+id/ed_check_address"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_height="@dimen/height_35dp"
+            android:layout_weight="2"
+            android:hint="@string/hc_check_address_hint"
+            android:imeOptions="actionSearch"
+            android:textColor="@color/hc_self_red"
+            android:textColorHint="@color/self_grey"
+            android:textCursorDrawable="@drawable/hc_et_cursor"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_check_vehicle_date"/>
+
+        <TextView
+            android:id="@+id/tv_check_vehicle_date"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:paddingRight="@dimen/margin_25dp"
+            android:textColorHint="@color/hc_self_gray_hint"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_checker_note"/>
+
+
+        <EditText
+            android:id="@+id/ed_check_note"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:hint="@string/hc_checker_note_hint"
+            android:inputType="text"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_checker"/>
+
+        <TextView
+            android:id="@+id/tv_checker"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:paddingRight="@dimen/margin_25dp"
+            android:textColorHint="@color/hc_self_gray_hint"/>
+    </LinearLayout>
+
+</LinearLayout>

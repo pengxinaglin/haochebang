@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ScrollView
+        style="@style/wh_match"
+        android:layout_weight="20">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- 买家姓名-->
+            <include
+                layout="@layout/layout_offlinesold_buyer_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <!-- 是否过户-->
+            <include
+                layout="@layout/layout_offline_sold_is_transfer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:background="@color/self_white"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    style="@style/hc_ll_transfer_info"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="5dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/HCTheme.TextHint.Lable"
+                        android:layout_width="wrap_content"
+                        android:layout_height="match_parent"
+                        android:text="@string/hc_task_remark2"/>
+                </LinearLayout>
+                <EditText
+                    android:id="@+id/ed_offline_remarks"
+                    style="@style/hc_ed_remark"
+                    android:hint="@string/hc_offlinesold_commit_remark"
+                    />
+
+            </LinearLayout>
+
+            <!-- 照片-->
+            <include
+                layout="@layout/layout_offlinesold_commit_photos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"/>
+
+            <!-- 备注-->
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="15dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_marginTop="5dp"
+                android:text="@string/hc_offlinesold_remark"
+                android:textColor="@color/hc_self_black"
+                android:textSize="14dp"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:layout_weight="0.1">
+
+        <Button
+            android:id="@+id/btn_commit"
+            style="@style/hc_transfer_bottom_1"
+            android:background="@color/hc_self_red"
+            android:padding="@dimen/margin_15dp"
+            android:text="@string/confirm_go_settlement"
+            android:textColor="@color/self_white"
+            android:textSize="@dimen/font_16"/>
+    </LinearLayout>
+</LinearLayout>

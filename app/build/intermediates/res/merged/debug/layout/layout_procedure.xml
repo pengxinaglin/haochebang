@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:focusable="true"
+              android:focusableInTouchMode="true"
+              android:orientation="vertical">
+
+    <TextView
+        style="@style/tv_fill_exam_report"
+        android:text="手续检查"/>
+
+    <View style="@style/view_normal"/>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="VIN码"/>
+
+        <EditText
+            android:id="@+id/et_vin"
+            style="@style/ed_normal"
+            android:hint="@string/input_vin"
+            android:maxLength="17"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="车牌号"/>
+
+        <EditText
+            android:id="@+id/ed_carnumber"
+            style="@style/ed_normal"
+            android:hint="请输入车牌号"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="备用电话"/>
+
+        <EditText
+            android:id="@+id/ed_phonenum"
+            style="@style/ed_normal"
+            android:hint="请输入手机号码或座机号"
+            android:inputType="phone"
+            android:maxLength="11"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="登记时间"/>
+
+        <TextView
+            android:id="@+id/regist_time"
+            style="@style/tv_normal"
+            android:clickable="true"
+            android:hint="请选择登记时间"
+            android:onClick="selectTime"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="年检到期"/>
+
+        <TextView
+            android:id="@+id/anual_check_time"
+            style="@style/tv_normal"
+            android:clickable="true"
+            android:hint="选择年检到期时间"
+            android:onClick="selectTime"
+            />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="交强险到期"/>
+
+        <TextView
+            android:id="@+id/traffic_insurance_time"
+            style="@style/tv_normal"
+            android:clickable="true"
+            android:hint="选择交强险到期时间"
+            android:onClick="selectTime"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="商业险到期"/>
+
+        <CheckBox
+            android:id="@+id/no_custom_insurance"
+            style="@style/rb_normal"
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:button="@drawable/radio_button_selector"
+            android:checked="true"
+            android:text="无"/>
+
+        <TextView
+            android:id="@+id/custom_insurance_time"
+            style="@style/tv_normal"
+            android:layout_width="0dp"
+            android:layout_weight="1.5"
+            android:clickable="true"
+            android:hint="选择商业险到期时间"
+            android:onClick="selectTime"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="过户记录"/>
+
+        <Switch
+            android:id="@+id/trasfer_record"
+            style="@style/switch_normal"
+            android:switchPadding="10dp"
+            android:textStyle="bold"
+            android:typeface="normal"
+            android:showText="true"
+            android:checked="true"
+            android:textSize="@dimen/hc_text_size_normal"
+            android:textColor="@color/self_white"
+            android:textOff="无"
+            android:textOn="有"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="最后过户时间"/>
+
+        <TextView
+            android:id="@+id/transfer_year"
+            style="@style/tv_normal"
+            android:layout_width="0dp"
+            android:layout_weight="1.2"
+            android:hint="选择最后过户时间"
+            android:onClick="selectTime"/>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.8">
+
+            <Spinner
+                android:id="@+id/transfer_times"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:entries="@array/array_transfer_counts"
+                />
+
+            <TextView
+                android:id="@+id/transfer_times_lab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@id/transfer_times"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="见到登记证"/>
+
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <RadioGroup
+                android:id="@+id/rg_registration"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center_vertical"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/view_registration"
+                    style="@style/rb_normal"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:button="@drawable/radio_button_selector"
+                    android:text="是"/>
+
+                <RadioButton
+                    android:id="@+id/no_view_registration"
+                    style="@style/rb_normal"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:button="@drawable/radio_button_selector"
+                    android:text="否"/>
+            </RadioGroup>
+
+            <TextView
+                android:id="@+id/registration_lab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@id/rg_registration"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+</LinearLayout>

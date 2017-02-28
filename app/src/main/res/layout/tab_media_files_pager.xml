@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/self_grey_light"
+              android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_15dp"
+        android:background="@color/self_white"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/height_10dp"
+        android:paddingLeft="@dimen/margin_15dp"
+        android:paddingRight="@dimen/margin_15dp"
+        android:paddingTop="@dimen/height_10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_35dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="发动机视频："/>
+
+            <TextView
+                android:id="@+id/tv_video"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="请选择"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="@dimen/margin_5dp"
+            >
+
+            <Button
+                android:id="@+id/bt_video"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/height_35dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_choose_media_button"
+                android:gravity="center"
+                android:text="选择视频"
+                android:textColor="@color/hc_indicator"/>
+
+            <Button
+                android:id="@+id/bt_video_del"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/height_35dp"
+                android:layout_marginLeft="@dimen/margin_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_delete_media_button"
+                android:gravity="center"
+                android:text="删除视频"
+                android:textColor="@color/hc_self_red"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_15dp"
+        android:background="@color/self_white"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/height_10dp"
+        android:paddingLeft="@dimen/margin_15dp"
+        android:paddingRight="@dimen/margin_15dp"
+        android:paddingTop="@dimen/height_10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_35dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="车主音频："/>
+
+            <TextView
+                android:id="@+id/tv_audio"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="请选择"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="@dimen/margin_5dp"
+            android:orientation="horizontal"
+            >
+
+            <Button
+                android:id="@+id/bt_audio"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/height_35dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_choose_media_button"
+                android:gravity="center"
+                android:text="选择音频"
+                android:textColor="@color/hc_indicator"/>
+
+            <Button
+                android:id="@+id/bt_audio_del"
+                android:layout_width="0dp"
+                android:layout_height="@dimen/height_35dp"
+                android:layout_marginLeft="@dimen/margin_10dp"
+                android:layout_weight="1"
+                android:background="@drawable/shape_delete_media_button"
+                android:gravity="center"
+                android:text="删除音频"
+                android:textColor="@color/hc_self_red"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

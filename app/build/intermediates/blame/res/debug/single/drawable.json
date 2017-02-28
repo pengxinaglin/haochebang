@@ -1,0 +1,622 @@
+[
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/select_recycling_isfinished.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/select_recycling_isfinished.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/dash_plus_sign.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/dash_plus_sign.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/checktext_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/checktext_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_shape_border_dashed.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_shape_border_dashed.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_tap.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_thumb.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_thumb.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/checklistview_background.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/checklistview_background.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/progressbar_blue.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/progressbar_blue.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/bg_material_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable/bg_material_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_spinner_small.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_spinner_small.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_selector_red_turn_deep.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_selector_red_turn_deep.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ic_back.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/ic_back.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_check_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/camera.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable/camera.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/selector_vehicle_sub_checkbox_text_color.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/selector_vehicle_sub_checkbox_text_color.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/text_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/text_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_qrcode_loding.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_qrcode_loding.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/dash_gray_line.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/dash_gray_line.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/gray_block_shape.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/gray_block_shape.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_spinner_small_02_black.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_spinner_small_02_black.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/user_coupons_dialog_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/user_coupons_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_selector_white_turn_gray.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_selector_white_turn_gray.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_focused.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_track_on.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_track_on.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_bg_qrcode.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_bg_qrcode.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_spinner_small_03_black.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_spinner_small_03_black.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/info_item_shape_noboarder.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/info_item_shape_noboarder.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_red_oval.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_red_oval.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_ksw_md_thumb.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_ksw_md_thumb.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/image_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/image_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_bg_print_text.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_bg_print_text.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_track_off.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_track_off.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/seekbar_style.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/seekbar_style.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/calendar_bg_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/hctimepicker/unspecified/res/drawable/calendar_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_choose_media_button.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_choose_media_button.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_upload_reported.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_upload_reported.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/bg_btn_pressed.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/bg_btn_pressed.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_title_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/selector_dialog_button.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/selector_dialog_button.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_close_bg_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/circle_serial_number.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/circle_serial_number.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/progressbar_red.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/progressbar_red.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_spinner_small_08_black.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_spinner_small_08_black.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/info_item_shape.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/info_item_shape.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_spinner_small_05_black.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_spinner_small_05_black.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_shape_common_input_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_shape_common_input_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_delete_media_button.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_delete_media_button.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_point.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_point.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_dialog_button_click.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_dialog_button_click.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_wifi_disable.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_line.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_line.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/white_line.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/white_line.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/bg_btn.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/bg_btn.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_button_enable.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_button_enable.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/common_customer_level_red_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/common_customer_level_red_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_tag_normal.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_tag_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/photo_position_point.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/photo_position_point.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_bg_bluetooth_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_bg_bluetooth_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_dialog_button_default.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_dialog_button_default.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_spinner_small_06_black.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_spinner_small_06_black.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/selector_upload_report.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/selector_upload_report.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_confirm_dialog_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_confirm_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_upload_report.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_upload_report.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/progressbar_loading.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/progressbar_loading.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/radio_button_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/radio_button_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_select_extinfo_radio_yes.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_select_extinfo_radio_yes.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/common_side_bar_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/common_side_bar_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/track_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/track_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/common_content_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/common_content_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_shape_common_input_bolck_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_shape_common_input_bolck_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/bottom_line_light_blue.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/bottom_line_light_blue.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_spinner_small_07_black.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_spinner_small_07_black.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_red.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/photo_checkbox_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable/photo_checkbox_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/spinner_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/spinner_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_spinner_small_04_black.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_spinner_small_04_black.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/bg_btn_normal.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/bg_btn_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/photo_shape.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/photo_shape.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/refresh_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/refresh_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_spinner_small_01_black.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_spinner_small_01_black.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/siderbar_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/siderbar_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_normal.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/select_photo.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/select_photo.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_ok_bg_normal.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/hc_quit_buy_reason_rb.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/hc_quit_buy_reason_rb.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/progressbar_green.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/progressbar_green.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/select_tasklistcall.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/select_tasklistcall.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_edit_quit_buy_reason.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_edit_quit_buy_reason.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/snackbar_background.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/drawable/snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_select_extinfo_radio_no.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_select_extinfo_radio_no.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_tag_checked.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_tag_checked.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_focused.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/login_btn_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/login_btn_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/hc_rb_quit_buy_reason_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/hc_rb_quit_buy_reason_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ic_channel_tip.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/ic_channel_tip.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_hc_dashed.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_hc_dashed.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_bg_dialog.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_bg_dialog.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/rect_red.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/rect_red.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/photo_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/drawable/photo_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/btn_bg_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/btn_bg_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_selector_right_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_selector_right_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/hostling_add_item_point.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/hostling_add_item_point.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_balance_button_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_balance_button_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/fab_background.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/res/drawable/fab_background.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_green_oval.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_green_oval.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/dash_graylight_line.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/dash_graylight_line.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_check_help.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_check_help.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_sava_report.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_sava_report.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_selector_transparent_turn_black.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_selector_transparent_turn_black.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/selector_common_click.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/selector_common_click.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_right_tip.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_right_tip.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_dialog_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/edittext_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/edittext_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_more_tag.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_more_tag.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_button_no_enable.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_button_no_enable.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ll_bg_next_button_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/res/drawable/ll_bg_next_button_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/selector_right_item.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/selector_right_item.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pop_check_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/pop_check_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_back_drawable.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_back_drawable.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/pay_et_cursor.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/res/drawable/pay_et_cursor.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_update_button_cancel_bg_tap.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_blue_oval.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_blue_oval.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/dash_line.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/dash_line.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/ic_add_recommend.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/ic_add_recommend.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/item_selector.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/item_selector.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/delete.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/delete.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/umeng_common_gradient_orange.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_main_edit.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_main_edit.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_divider.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_divider.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/selector_carbody.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/selector_carbody.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/hc_et_cursor.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/hc_et_cursor.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_common_input_bolck_bg.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_common_input_bolck_bg.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable/shape_toast.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable/shape_toast.xml"
+    }
+]

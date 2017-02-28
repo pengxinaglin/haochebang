@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_vehicle_offer"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_offer_price"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="numberDecimal"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:text="@string/hc_wanyuan"
+                android:textColor="@color/hc_self_gray_hint"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_vehicle_low_price"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_low_price"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="phone"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:inputType="numberDecimal"
+                android:text="@string/hc_wanyuan"
+                android:textColor="@color/hc_self_gray_hint"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/hc_self_white"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="15dp"
+        >
+
+        <TextView
+            android:id="@+id/tv_buyer_name"
+            style="@style/hc_tv_buyer_name"
+            android:layout_centerVertical="true"
+            android:text="---"
+            />
+
+        <TextView
+            android:id="@+id/tv_buyer_phone"
+            style="@style/hc_tv_phone"
+            android:layout_toRightOf="@id/tv_buyer_name"
+            android:layout_centerVertical="true"
+            android:text="----"/>
+
+        <TextView
+            android:id="@+id/tv_status"
+            style="@style/hc_tv_status"
+            android:layout_centerVertical="true"
+            android:textSize="@dimen/hc_text_size_middle"
+            android:layout_toRightOf="@id/tv_buyer_phone"
+            android:text="---"
+            />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tv_vehicle"
+        style="@style/hc_tv_content"
+        android:text="宝马、奥迪"/>
+</LinearLayout>

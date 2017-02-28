@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/menu/menu_preview.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/menu/menu_preview.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/menu/menu_picker.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/res/menu/menu_picker.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/ffmpeg/unspecified/res/menu/main.xml"
+    }
+]

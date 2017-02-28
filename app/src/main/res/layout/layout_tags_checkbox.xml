@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Button
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/wh_wrap"
+    android:background="@drawable/shape_tag_normal"
+    android:button="@null"
+    android:layout_height="30dp"
+    android:gravity="center"
+    android:text="----"
+    android:textColor="@color/hc_indicator">
+</Button>

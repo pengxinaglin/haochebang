@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="vertical"
+              android:background="@color/self_white">
+
+    <TextView
+        android:id="@+id/tv_real_repair_free"
+        style="@style/hc_tv_label_final_price"
+        android:text="--"/>
+
+    <LinearLayout
+        style="@style/wh_wrap"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:padding="@dimen/margin_15dp"
+        >
+
+        <TextView
+            android:id="@+id/tv_repair_free"
+            style="@style/wh_wrap"
+            android:text="------"
+            android:textColor="@color/hc_self_red"
+            android:textSize="@dimen/font_32"
+            />
+
+        <TextView
+            android:layout_marginLeft="@dimen/margin_5dp"
+            style="@style/wh_wrap"
+            android:text="@string/hc_yuan"
+            />
+    </LinearLayout>
+</LinearLayout>

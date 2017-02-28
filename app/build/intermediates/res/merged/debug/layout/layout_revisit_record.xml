@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:paddingBottom="@dimen/margin_15dp"
+              android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal"
+        >
+
+        <TextView
+            style="@style/tv_add_revisit_label"
+            android:text="@string/next_revisit_time"/>
+
+
+        <TextView
+            android:id="@+id/tv_next_revisit_time"
+            style="@style/ed_add_revisit_content"
+            android:hint="点击选择时间"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_add_revisit_label"
+            android:text="@string/sell_reason"/>
+
+        <EditText
+            android:id="@+id/ed_sell_reason"
+            style="@style/ed_add_revisit_content"
+            android:hint="卖车原因"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_add_revisit_label"
+            android:text="@string/sell_time"/>
+
+        <EditText
+            android:id="@+id/ed_sell_time"
+            style="@style/ed_add_revisit_content"
+            android:hint="不急卖、本月急卖"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_add_revisit_label"
+            android:text="@string/sell_decider"/>
+
+        <EditText
+            android:id="@+id/ed_sell_decider"
+            style="@style/ed_add_revisit_content"
+            android:hint="谁能做主卖车"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_add_revisit_label"
+            android:text="@string/expected_price"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_heart_price"
+                android:hint="车主心里价位"
+                style="@style/ed_add_revisit_content"
+                android:layout_width="match_parent"
+                android:inputType="numberDecimal"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:textColor="@color/hc_self_gray_hint"
+                android:text="@string/hc_wanyuan"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_add_revisit_label"
+            android:text="@string/offer_price"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_max_offer_price"
+                style="@style/ed_add_revisit_content"
+                android:layout_width="match_parent"
+                android:hint="同行收此车最高报价"
+                android:inputType="numberDecimal"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:textColor="@color/hc_self_gray_hint"
+                android:text="@string/hc_wanyuan"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_add_revisit_label"
+            android:text="@string/other"/>
+
+        <EditText
+            android:id="@+id/ed_other"
+            style="@style/ed_add_revisit_content"
+            android:hint="记录本次回访其他信息"/>
+    </LinearLayout>
+</LinearLayout>

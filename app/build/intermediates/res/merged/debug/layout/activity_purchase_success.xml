@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ScrollView
+        style="@style/wh_match"
+        android:layout_weight="20">
+
+        <LinearLayout
+            android:id="@+id/ll_head"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- 车辆款型-->
+            <include
+                layout="@layout/layout_vehicle_type"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <!-- 收购价格-->
+            <include
+                 layout="@layout/layout_purchase_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"/>
+
+            <!-- 报价、低价-->
+            <include
+                layout="@layout/layout_offer_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"/>
+
+            <include layout="@layout/layout_remark"/>
+
+            <!-- 照片-->
+            <include
+                layout="@layout/layout_purchase_success"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/ll_bottom"
+        style="@style/wh_mw"
+        android:layout_weight="0.1">
+
+        <Button
+            android:id="@+id/btn_commit"
+            style="@style/hc_transfer_bottom_1"
+            android:background="@color/hc_self_red"
+            android:padding="@dimen/margin_15dp"
+            android:text="@string/hc_commit_purchase_info"
+            android:textColor="@color/self_white"
+            android:textSize="@dimen/font_16"/>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_mw"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/hc_self_white"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/hc_self_gray_line"
+        />
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/hc_self_white"
+        android:orientation="horizontal">
+
+
+        <Button
+            android:id="@+id/btn_layout_vehicle_sub_cancle"
+            style="@style/hc_transaction_bottom"
+            android:background="@color/self_white"
+            android:text="@string/common_title_cancel"/>
+
+        <Button
+            android:id="@+id/btn_layout_vehicle_sub_save"
+            style="@style/hc_transaction_bottom"
+            android:background="@color/hc_self_red"
+            android:text="@string/hc_common_save"
+            android:textColor="@color/hc_self_white"/>
+    </LinearLayout>
+</LinearLayout>

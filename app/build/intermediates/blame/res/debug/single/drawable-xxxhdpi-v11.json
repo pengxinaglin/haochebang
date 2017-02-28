@@ -1,0 +1,6 @@
+[
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v11/__leak_canary_notification.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/drawable-xxxhdpi-v11/__leak_canary_notification.png"
+    }
+]

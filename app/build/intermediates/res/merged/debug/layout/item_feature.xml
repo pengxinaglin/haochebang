@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/item_selector"
+              android:gravity="center"
+              android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/eq_label"
+        style="@style/item_label_normal"
+        android:text="机油位不正常"
+        />
+
+    <Switch
+        android:id="@+id/sw_has"
+        android:layout_width="wrap_content"
+        android:layout_height="60dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="10dp"
+        android:focusable="false"
+        android:textColor="@color/self_gray"
+        android:textOff="无"
+        android:textOn="有"
+        android:thumb="@drawable/shape_thumb"
+        android:thumbTextPadding="15dp"
+        android:track="@drawable/track_selector"/>
+
+    <TextView
+        android:id="@+id/eq_item_status"
+        style="@style/item_content_normal"
+        android:text="正常"/>
+
+
+</LinearLayout>

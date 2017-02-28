@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:background="@color/hc_titlebar_black"
+              android:gravity="center">
+
+    <TextView
+        android:id="@+id/tv_item_home_page"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/selector_right_item"
+        android:drawablePadding="3dp"
+        android:drawableTop="@drawable/ic_vehicle_check"
+        android:gravity="center_horizontal"
+        android:text="@string/hc_right_vehicle_check"
+        android:textColor="@color/hc_label_white"
+        android:textSize="@dimen/hc_text_size_middle"
+        />
+</LinearLayout>

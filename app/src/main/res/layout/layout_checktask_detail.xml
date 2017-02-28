@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_mw"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/self_white"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_15dp">
+
+    <RadioGroup
+        style="@style/wh_mw"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_check_comment"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_edite_checkercomment"
+            android:text="@string/modify_remark"
+            />
+
+        <RadioButton
+            android:id="@+id/rb_check_listen_record"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_call_record"
+            android:text="@string/hc_call_record"
+            android:checked="false"/>
+
+        <RadioButton
+            android:id="@+id/rb_check_query_vinrecord"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_vehicle_revisit"
+            android:text="@string/hc_check_vehicle_maintenance_record"
+            />
+    </RadioGroup>
+
+    <RadioGroup
+        style="@style/wh_mw"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_check_transmit"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_transmit_task"
+            android:text="@string/p_transmit"
+            />
+
+        <RadioButton
+            android:id="@+id/rb_check_modify_address"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_edite_checkercomment"
+            android:text="@string/p_modify_address"
+            />
+
+        <RadioButton
+            android:id="@+id/rb_check_navigation"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_vehicle"
+            android:text="@string/p_navigation"
+            android:checked="false"/>
+    </RadioGroup>
+
+    <RadioGroup
+        style="@style/wh_mw"
+        android:layout_gravity="center_vertical"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_record"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_sound"
+            android:text="录音"
+            />
+        <RadioButton
+            android:id="@+id/rb_creat_recycling"
+            style="@style/hc_tv_transaction_detail"
+            android:drawablePadding="6dp"
+            android:drawableTop="@drawable/ic_car"
+            android:text="@string/p_creat_recycling"
+            />
+        <RadioButton
+            style="@style/hc_tv_transaction_detail"
+            />
+    </RadioGroup>
+</LinearLayout>

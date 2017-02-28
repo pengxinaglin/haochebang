@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/popwindow_selector"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tire_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="10dp"
+        android:text="轮胎参数"
+        android:textColor="@color/self_gray"
+        android:textSize="@dimen/hc_text_size_xlarge"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <EditText
+            android:id="@+id/et_lf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/edittext_selector"
+            android:ems="10"
+            android:hint="左前"
+            android:inputType="numberDecimal"
+            android:textColor="@color/self_black"
+            android:textSize="@dimen/hc_text_size_middle">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/et_rf"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/edittext_selector"
+            android:ems="10"
+            android:hint="右前"
+            android:inputType="numberDecimal"
+            android:textColor="@color/self_black"
+            android:textSize="@dimen/hc_text_size_middle"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <EditText
+            android:id="@+id/et_lr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="@drawable/edittext_selector"
+            android:ems="10"
+            android:hint="左后"
+            android:inputType="numberDecimal"
+            android:textColor="@color/self_black"
+            android:textSize="@dimen/hc_text_size_middle">
+
+        </EditText>
+
+        <EditText
+            android:id="@+id/et_rr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/edittext_selector"
+            android:ems="10"
+            android:hint="右后"
+            android:inputType="numberDecimal"
+            android:textColor="@color/self_black"
+            android:textSize="@dimen/hc_text_size_middle"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_margin="10dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/tire_cancel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1"
+            android:background="@drawable/btn_bg_selector"
+            android:text="取消"
+            android:textColor="@color/hc_indicator"/>
+
+        <Button
+            android:id="@+id/tire_confirm"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_upload_report"
+            android:text="确定"
+            android:textColor="@color/self_white"/>
+    </LinearLayout>
+</LinearLayout>

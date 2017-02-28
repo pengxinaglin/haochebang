@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_mw"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/self_white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/margin_20dp"
+        android:paddingRight="@dimen/margin_20dp"
+        android:paddingTop="@dimen/margin_15dp">
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginBottom="@dimen/margin_5dp"
+            android:text="@string/hc_check_buy_pt"
+            android:textColor="@color/hc_self_gray_hint"
+            android:textSize="@dimen/margin_12dp"/>
+
+        <EditText
+            android:id="@+id/ed_buycomment"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_35dp"
+            android:gravity="left|center_vertical">
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/margin_20dp"
+        android:paddingRight="@dimen/margin_20dp"
+        android:paddingTop="@dimen/margin_15dp">
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginBottom="@dimen/margin_5dp"
+            android:text="@string/hc_check_vehicle_advantage"
+            android:textColor="@color/hc_self_gray_hint"
+            android:textSize="@dimen/margin_12dp"/>
+
+        <EditText
+            android:id="@+id/ed_advantage"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_35dp"
+            android:gravity="left|center_vertical">
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/margin_20dp"
+        android:paddingRight="@dimen/margin_20dp"
+        android:paddingTop="@dimen/margin_15dp">
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginBottom="@dimen/margin_5dp"
+            android:text="@string/hc_check_vehicle_use"
+            android:textColor="@color/hc_self_gray_hint"
+            android:textSize="@dimen/margin_12dp"/>
+
+        <EditText
+            android:id="@+id/ed_vehicle_usage"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_35dp"
+            android:gravity="left|center_vertical">
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/margin_20dp"
+        android:paddingRight="@dimen/margin_20dp"
+        android:paddingTop="@dimen/margin_15dp">
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginBottom="@dimen/margin_5dp"
+            android:text="@string/hc_check_vehicle_maintenance"
+            android:textColor="@color/hc_self_gray_hint"
+            android:textSize="@dimen/margin_12dp"/>
+
+        <EditText
+            android:id="@+id/ed_vehicle_maintenance"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_35dp"
+            android:gravity="left|center_vertical">
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:orientation="vertical"
+        android:paddingLeft="@dimen/margin_20dp"
+        android:paddingRight="@dimen/margin_20dp"
+        android:paddingTop="@dimen/margin_15dp">
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginBottom="@dimen/margin_5dp"
+            android:text="@string/hc_check_vehicle_oil_consumption"
+            android:textColor="@color/hc_self_gray_hint"
+            android:textSize="@dimen/margin_12dp"/>
+
+        <EditText
+            android:id="@+id/ed_oil_consumption"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_35dp"
+            android:gravity="left|center_vertical">
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/margin_15dp"
+        android:paddingLeft="@dimen/margin_20dp"
+        android:paddingRight="@dimen/margin_20dp"
+        android:paddingTop="@dimen/margin_15dp">
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginBottom="@dimen/margin_5dp"
+            android:text="@string/hc_check_additional_configuration"
+            android:textColor="@color/hc_self_gray_hint"
+            android:textSize="@dimen/margin_12dp"/>
+
+        <EditText
+            android:id="@+id/ed_additional_configuration"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_35dp"
+            android:gravity="left|center_vertical">
+        </EditText>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_whychangename"
+        style="@style/wh_mw"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/margin_15dp"
+        android:paddingLeft="@dimen/margin_20dp"
+        android:paddingRight="@dimen/margin_20dp"
+        android:visibility="gone">
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginBottom="@dimen/margin_5dp"
+            android:text="@string/hc_check_why_changename"
+            android:textColor="@color/hc_self_gray_hint"
+            android:textSize="@dimen/margin_12dp"/>
+
+        <EditText
+            android:id="@+id/ed_why_changename"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/height_35dp"
+            android:gravity="left|center_vertical">
+        </EditText>
+    </LinearLayout>
+
+</LinearLayout>

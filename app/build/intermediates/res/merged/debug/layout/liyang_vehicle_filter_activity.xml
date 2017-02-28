@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        >
+
+        <GridLayout
+            android:id="@+id/grid_layout_liyang_vehicle_filter_params"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="2"
+            android:orientation="horizontal">
+
+        </GridLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/ll_liyang_vehicle_filter_empty_view"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:visibility="gone">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="没有该车型"
+            android:textSize="20sp"/>
+    </LinearLayout>
+
+    <com.haoche51.checker.custom.HCPullToRefresh
+        android:id="@+id/hc_pull_to_refresh_liyang_vehicle_filter"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:divider="@color/transfer_item_gray"
+        android:dividerHeight="1px"
+        />
+
+</LinearLayout>

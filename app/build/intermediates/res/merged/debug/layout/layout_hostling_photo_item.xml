@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="100dp"
+    android:layout_height="80dp">
+
+
+    <TextView
+        android:id="@+id/tv_add_image"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:visibility="gone"
+        android:text="添加\n整备前照片"
+        android:textColor="@color/hc_dark_blue"
+        android:textSize="14dp"/>
+
+    <com.haoche51.checker.custom.RoundImageView
+        android:id="@+id/iv_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:borderRadius="5dp"
+        app:type="round"
+        android:background="@drawable/photo_shape"/>
+
+
+    <ImageView
+        android:id="@+id/iv_delete"
+        android:layout_width="15dp"
+        android:layout_height="15dp"
+        android:layout_gravity="right"
+        android:src="@drawable/delete_photo"
+        />
+
+</FrameLayout>

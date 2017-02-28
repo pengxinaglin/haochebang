@@ -1,0 +1,1428 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:2:1-729:12
+	package
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:5:5-51
+	xmlns:android
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:4:5-63
+	android:versionCode
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+	android:installLocation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:6:5-43
+uses-sdk
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:8:5-10:40
+MERGED from [com.android.support:multidex:1.0.1] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/AndroidManifest.xml:18:5-42
+MERGED from [android_studio_checker:qiniu:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/qiniu/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [android_studio_checker:mp3recorder:1.0.2] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/mp3recorder/1.0.2/AndroidManifest.xml:7:5-9:41
+MERGED from [android_studio_checker:hctimepicker:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/hctimepicker/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [android_studio_checker:ffmpeg:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/ffmpeg/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [android_studio_checker:photospicker:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/photospicker/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:22.2.0] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:22.2.0] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:21.0.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/AndroidManifest.xml:15:5-42
+MERGED from [com.ogaclejapan.smarttablayout:library:1.4.1] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.ogaclejapan.smarttablayout/library/1.4.1/AndroidManifest.xml:8:5-10:41
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:8:5-10:41
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:7:5-9:41
+MERGED from [in.srain.cube:ultra-ptr:1.0.10] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/in.srain.cube/ultra-ptr/1.0.10/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jungly:gridPasswordView:0.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.jungly/gridPasswordView/0.3/AndroidManifest.xml:8:5-10:41
+MERGED from [org.xutils:xutils:3.3.36] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/org.xutils/xutils/3.3.36/AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:10:9-38
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:9:9-35
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:12:5-68
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:12:5-69
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:22:5-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:12:22-66
+uses-permission#android.permission.GET_TASKS
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:13:5-67
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:14:5-80
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:14:5-81
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:15:5-72
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:15:5-73
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:15:22-70
+uses-permission#android.permission.ACCESS_DOWNLOAD_MANAGER
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:16:5-81
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:16:5-82
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:16:22-79
+uses-permission#android.permission.DOWNLOAD_WITHOUT_NOTIFICATION
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:17:5-87
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:17:5-88
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:17:22-85
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:18:5-74
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:18:22-72
+uses-permission#android.permission.CAMERA
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:19:5-64
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:19:22-62
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:22:5-80
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:24:5-78
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:26:5-75
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:26:5-76
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:26:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:28:5-78
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:28:5-79
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:28:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:30:5-75
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:30:5-76
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:30:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:32:5-74
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:32:5-75
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:32:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:34:5-80
+MERGED from [android_studio_checker:qiniu:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/qiniu/unspecified/AndroidManifest.xml:12:5-81
+MERGED from [android_studio_checker:mp3recorder:1.0.2] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/mp3recorder/1.0.2/AndroidManifest.xml:12:5-81
+MERGED from [android_studio_checker:ffmpeg:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/ffmpeg/unspecified/AndroidManifest.xml:11:5-81
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:34:5-81
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:34:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:36:5-66
+MERGED from [android_studio_checker:qiniu:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/qiniu/unspecified/AndroidManifest.xml:11:5-67
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:36:5-67
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:36:22-64
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:38:5-83
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:38:5-84
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:26:5-84
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:38:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:40:5-67
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:40:5-68
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:21:5-68
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:40:22-65
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:42:5-71
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:42:5-72
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:59:5-72
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:42:22-69
+uses-permission#android.permission.WRITE_CONTACTS
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:43:5-72
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:43:5-73
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:60:5-73
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:43:22-70
+uses-feature#android.hardware.camera
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:45:5-59
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:45:5-60
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:45:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:46:5-69
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:46:5-70
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:46:19-67
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:48:5-68
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:48:5-69
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:20:5-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:48:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:49:5-79
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:49:5-80
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:49:22-77
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:51:5-65
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:51:5-66
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:51:22-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:54:5-67
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:54:5-68
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:54:22-65
+uses-permission#com.android.launcher.permission.READ_SETTINGS
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:57:5-84
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:57:5-85
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:57:22-82
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:58:5-67
+MERGED from [android_studio_checker:ffmpeg:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/ffmpeg/unspecified/AndroidManifest.xml:12:5-68
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:58:5-68
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:58:22-65
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:61:5-70
+MERGED from [android_studio_checker:mp3recorder:1.0.2] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/mp3recorder/1.0.2/AndroidManifest.xml:11:5-71
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:64:5-71
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:61:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:62:5-79
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:67:5-80
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:62:22-77
+uses-permission#android.permission.CAPTURE_AUDIO_OUTPUT
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:63:5-78
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:63:22-76
+application
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:65:5-727:19
+MERGED from [android_studio_checker:qiniu:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/qiniu/unspecified/AndroidManifest.xml:14:5-53
+MERGED from [com.android.support:appcompat-v7:22.2.0] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:22.2.0] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/design/22.2.0/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:21.0.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.3/AndroidManifest.xml:16:5-19
+MERGED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:69:5-114:19
+MERGED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:29:5-87:19
+MERGED from [in.srain.cube:ultra-ptr:1.0.10] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/in.srain.cube/ultra-ptr/1.0.10/AndroidManifest.xml:11:5-20
+MERGED from [com.jungly:gridPasswordView:0.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.jungly/gridPasswordView/0.3/AndroidManifest.xml:12:5-20
+MERGED from [org.xutils:xutils:3.3.36] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/org.xutils/xutils/3.3.36/AndroidManifest.xml:12:5-20
+MERGED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:24:5-46:19
+	android:label
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:69:9-41
+	android:allowBackup
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:67:9-35
+	android:icon
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:68:9-45
+	android:largeHeap
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:70:9-33
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:71:9-40
+		REJECTED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:72:9-40
+	tools:replace
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:72:9-51
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:66:9-43
+activity#com.haoche51.checker.activity.user.LoginActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:75:9-81:57
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:79:13-49
+	android:label
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:77:13-45
+	android:launchMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:78:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:81:13-55
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:80:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:76:13-56
+activity#com.haoche51.checker.activity.HomePageActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:85:9-98:20
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:88:13-45
+	android:launchMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:89:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:92:13-52
+	android:icon
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:87:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:91:13-53
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:86:13-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:93:13-97:29
+action#android.intent.action.MAIN
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:94:17-68
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:94:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:96:17-76
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:96:27-74
+activity#com.haoche51.checker.activity.evaluate.FillExamReportActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:101:9-106:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:104:13-55
+	android:icon
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:103:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:106:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:102:13-69
+activity#com.haoche51.checker.activity.evaluate.CheckTaskDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:110:9-113:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:112:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:113:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:111:13-70
+activity#com.haoche51.checker.activity.evaluate.ModifyCheckAddressActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:114:9-117:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:116:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:117:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:115:13-73
+activity#com.haoche51.checker.activity.evaluate.UploadTaskDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:118:9-121:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:120:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:121:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:119:13-71
+activity#com.haoche51.checker.activity.user.ChangePwdActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:122:9-126:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:124:13-47
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:126:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:123:13-60
+activity#com.haoche51.checker.activity.HCWebViewActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:127:9-130:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:129:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:130:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:128:13-55
+activity#com.haoche51.checker.activity.CRMWebViewActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:132:9-135:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:134:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:135:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:133:13-56
+activity#com.haoche51.checker.test.TestActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:138:9-140:62
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:140:13-60
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:139:13-46
+activity#com.haoche51.checker.activity.evaluate.CancelTaskActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:141:9-145:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:144:13-49
+	android:label
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:143:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:145:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:142:13-65
+activity#com.haoche51.checker.activity.evaluate.HelpCheckDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:146:9-150:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:149:13-49
+	android:label
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:148:13-45
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:150:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:147:13-70
+activity#com.haoche51.checker.activity.evaluate.LiYangVehicleFilterActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:153:9-156:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:155:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:156:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:154:13-74
+activity#com.haoche51.checker.activity.user.SettingActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:157:9-160:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:159:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:160:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:158:13-58
+activity#com.haoche51.checker.activity.user.QRShareActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:161:9-164:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:163:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:164:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:162:13-58
+activity#com.haoche51.checker.activity.notice.PushMessageActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:165:9-169:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:168:13-49
+	android:launchMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:167:13-44
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:169:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:166:13-64
+receiver#com.haoche51.checker.HCPushMessageReceiver
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:174:9-183:20
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:174:19-56
+intent-filter#com.baidu.android.pushservice.action.MESSAGE+com.baidu.android.pushservice.action.RECEIVE+com.baidu.android.pushservice.action.notification.CLICK
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:175:13-182:29
+action#com.baidu.android.pushservice.action.MESSAGE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:178:17-86
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:178:25-84
+action#com.baidu.android.pushservice.action.RECEIVE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:180:17-86
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:180:25-84
+action#com.baidu.android.pushservice.action.notification.CLICK
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:181:17-97
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:181:25-95
+receiver#com.baidu.android.pushservice.PushServiceReceiver
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:186:9-200:20
+	android:process
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:188:13-44
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:187:13-77
+intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.ACTION_POWER_DISCONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.MEDIA_MOUNTED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE+com.baidu.android.pushservice.action.media.CLICK+com.baidu.android.pushservice.action.notification.SHOW
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:189:13-199:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:190:17-78
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:190:25-76
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:191:17-78
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:191:25-76
+action#com.baidu.android.pushservice.action.notification.SHOW
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:192:17-96
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:192:25-94
+action#com.baidu.android.pushservice.action.media.CLICK
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:193:17-90
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:193:25-88
+action#android.intent.action.MEDIA_MOUNTED
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:195:17-77
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:195:25-75
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:196:17-76
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:196:25-74
+action#android.intent.action.ACTION_POWER_CONNECTED
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:197:17-86
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:197:25-84
+action#android.intent.action.ACTION_POWER_DISCONNECTED
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:198:17-89
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:198:25-87
+receiver#com.baidu.android.pushservice.RegistrationReceiver
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:201:9-213:20
+	android:process
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:203:13-44
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:202:13-78
+intent-filter#com.baidu.android.pushservice.action.BIND_SYNC+com.baidu.android.pushservice.action.METHOD
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:204:13-207:29
+action#com.baidu.android.pushservice.action.METHOD
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:205:17-85
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:205:25-83
+action#com.baidu.android.pushservice.action.BIND_SYNC
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:206:17-88
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:206:25-86
+intent-filter#android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:208:13-212:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:209:17-79
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:209:25-77
+data
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:211:17-49
+	android:scheme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:211:23-47
+service#com.baidu.android.pushservice.PushService
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:215:9-222:19
+	android:process
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:218:13-44
+	android:exported
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:217:13-36
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:216:13-69
+intent-filter#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:219:13-221:29
+action#com.baidu.android.pushservice.action.PUSH_SERVICE
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:220:17-91
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:220:25-89
+service#com.baidu.android.pushservice.CommandService
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:225:9-227:38
+	android:exported
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:227:13-36
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:226:13-72
+uses-library#android.test.runner
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:229:9-59
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:229:23-57
+meta-data#UMENG_APPKEY
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:233:9-235:55
+	android:value
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:235:13-53
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:234:13-40
+meta-data#UMENG_CHANNEL
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:237:9-239:36
+	android:value
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:239:13-34
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:238:13-41
+service#com.umeng.update.net.DownloadingService
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:241:9-243:52
+	android:process
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:243:13-50
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:242:13-67
+activity#com.umeng.update.UpdateDialogActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:245:9-247:74
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:247:13-72
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:246:13-65
+service#com.baidu.location.f
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:249:9-256:19
+	android:enabled
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:251:13-35
+	android:process
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:252:13-38
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:250:13-48
+intent-filter#com.baidu.location.service_v2.2
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:253:13-255:29
+action#com.baidu.location.service_v2.2
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:254:17-73
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:254:25-71
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:260:9-262:55
+	android:value
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:262:13-53
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:261:13-52
+service#com.haoche51.checker.service.LocationService
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:264:9-59
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:264:18-57
+activity#com.haoche51.checker.activity.evaluate.ImageUploadActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:266:9-269:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:268:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:269:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:267:13-66
+activity#me.iwf.photopicker.PhotoPickerActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:270:9-272:48
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:272:13-46
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:271:13-66
+activity#me.iwf.photopicker.PhotoPagerActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:273:9-275:65
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:275:13-63
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:274:13-65
+activity#com.haoche51.checker.activity.evaluate.CheckMainActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:276:9-286:20
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:279:13-49
+	android:launchMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:278:13-44
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:280:13-64
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:277:13-64
+intent-filter#android.intent.category.DEFAULT+com.haoche51.checker.action.CHECK_MAIN
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:282:13-285:29
+action#com.haoche51.checker.action.CHECK_MAIN
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:283:17-80
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:283:25-78
+category#android.intent.category.DEFAULT
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:284:17-75
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:284:27-73
+activity#com.haoche51.checker.activity.evaluate.TransmitCheckTaskActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:287:9-290:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:289:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:290:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:288:13-72
+activity#com.haoche51.checker.activity.purchase.PurchaseMainActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:294:9-298:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:296:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:297:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:295:13-67
+activity#com.haoche51.checker.activity.purchase.PurchaseTaskPendingDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:299:9-303:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:301:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:302:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:300:13-80
+activity#com.haoche51.checker.activity.hostling.HostlingMainActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:306:9-309:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:308:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:309:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:307:13-67
+activity#com.haoche51.checker.activity.hostling.SubmitHostlingActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:311:9-316:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:313:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:315:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:314:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:312:13-69
+activity#com.haoche51.checker.activity.offlinesold.OfflineSoldMainActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:319:9-322:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:321:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:322:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:320:13-73
+activity#com.haoche51.checker.activity.purchase.PurchaseAddClueActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:325:9-329:69
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:327:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:329:13-67
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:328:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:326:13-70
+activity#com.haoche51.checker.activity.purchase.PurchaseFailedActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:332:9-336:69
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:334:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:336:13-67
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:335:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:333:13-69
+activity#com.haoche51.checker.activity.purchase.OrderToDoorActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:340:9-344:69
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:342:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:344:13-67
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:343:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:341:13-66
+activity#com.haoche51.checker.activity.evaluate.AddTempTaskActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:347:9-351:69
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:349:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:351:13-67
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:350:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:348:13-66
+activity#com.haoche51.checker.activity.purchase.PurchaseSuccessActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:354:9-359:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:357:13-49
+	android:launchMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:356:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:359:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:358:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:355:13-70
+activity#com.haoche51.checker.activity.purchase.GetRecheckPersonActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:362:9-365:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:364:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:365:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:363:13-71
+activity#com.haoche51.checker.activity.vehicle.VehicleBrandActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:370:9-374:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:372:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:374:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:373:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:371:13-66
+activity#com.haoche51.checker.activity.vehicle.VehicleClassActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:377:9-381:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:379:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:381:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:380:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:378:13-66
+activity#com.haoche51.checker.activity.vehicle.VehicleYearActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:384:9-388:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:386:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:388:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:387:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:385:13-65
+activity#com.haoche51.checker.activity.vehicle.VehicleTypeActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:391:9-395:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:393:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:395:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:394:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:392:13-65
+activity#com.haoche51.checker.activity.offlinesold.OfflineSoldCommitActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:397:9-401:69
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:399:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:401:13-67
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:400:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:398:13-75
+activity#com.haoche51.checker.activity.purchase.TransmitPurchaseTaskActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:404:9-408:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:406:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:408:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:407:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:405:13-75
+activity#com.haoche51.checker.activity.offlinesold.OfflineSoldConfirmTransferActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:412:9-416:69
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:414:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:416:13-67
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:415:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:413:13-84
+activity#com.haoche51.checker.activity.offlinesold.OfflineSoldSaleDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:419:9-423:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:421:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:423:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:422:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:420:13-79
+activity#com.haoche51.checker.activity.offlinesold.OfflineSoldStockDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:427:9-431:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:429:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:431:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:430:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:428:13-80
+activity#com.haoche51.checker.activity.hostling.HostlingDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:434:9-437:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:436:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:437:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:435:13-69
+activity#com.haoche51.checker.activity.hostling.HostlingCompleteActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:440:9-444:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:442:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:444:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:443:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:441:13-71
+service#com.haoche51.checker.upload.UploadService
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:447:9-56
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:447:18-54
+activity#com.haoche51.checker.activity.widget.WebPermissoinBaseActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:450:9-453:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:452:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:453:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:451:13-70
+activity#com.haoche51.checker.activity.notice.QujiVehicleActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:455:9-458:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:457:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:458:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:456:13-64
+activity#com.haoche51.checker.activity.channel.ChannelMainActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:460:9-464:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:462:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:463:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:461:13-65
+activity#com.haoche51.checker.activity.channel.AddDealerActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:466:9-470:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:468:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:469:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:467:13-63
+activity#com.haoche51.checker.activity.channel.AddVehicleSourceActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:472:9-477:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:475:13-49
+	android:launchMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:474:13-44
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:476:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:473:13-70
+activity#com.haoche51.checker.activity.channel.MerchantDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:479:9-482:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:481:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:482:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:480:13-68
+activity#com.haoche51.checker.activity.channel.VehicleSourceDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:485:9-488:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:487:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:488:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:486:13-73
+activity#com.haoche51.checker.activity.channel.UpdateMaintainerActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:491:9-494:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:493:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:494:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:492:13-70
+activity#com.haoche51.checker.activity.channel.MerchantVehicleSourceActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:496:9-499:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:498:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:499:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:497:13-75
+activity#com.haoche51.checker.activity.media.VideoPickerActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:501:9-504:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:503:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:504:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:502:13-63
+activity#com.haoche51.checker.activity.media.AudioPickerActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:507:9-510:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:509:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:510:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:508:13-63
+activity#com.haoche51.checker.activity.media.AudioRecordActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:512:9-515:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:514:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:515:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:513:13-63
+activity#com.haoche51.checker.activity.purchase.VehicleOnlineActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:518:9-523:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:521:13-49
+	android:launchMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:520:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:523:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:522:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:519:13-68
+activity#com.haoche51.checker.activity.purchase.BreakContractActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:526:9-530:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:528:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:530:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:529:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:527:13-68
+activity#com.haoche51.checker.activity.vehicle.VehicleSubBrandAddActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:532:9-535:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:534:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:535:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:533:13-72
+activity#com.haoche51.checker.activity.vehicle.VehicleSubScribeConditionActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:537:9-541:66
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:539:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:541:13-64
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:540:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:538:13-79
+activity#com.haoche51.checker.activity.evaluate.PhoneRecorListdActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:543:9-546:71
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:545:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:546:13-69
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:544:13-70
+activity#com.haoche51.checker.activity.evaluate.AddTaskActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:548:9-553:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:551:13-49
+	android:launchMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:550:13-44
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:552:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:549:13-62
+activity#com.haoche51.checker.activity.vehicle.QueryReportActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:555:9-559:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:557:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:558:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:556:13-65
+activity#com.haoche51.checker.activity.offlinesold.C2CSoldActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:562:9-566:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:564:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:566:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:565:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:563:13-65
+activity#com.haoche51.checker.activity.purchase.GetSalerActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:569:9-573:54
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:571:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:573:13-52
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:572:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:570:13-63
+activity#com.haoche51.checker.activity.purchase.PurchaseBuyBackDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:576:9-580:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:578:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:579:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:577:13-76
+activity#com.haoche51.checker.activity.purchase.ApplyPaymentActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:583:9-587:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:585:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:586:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:584:13-67
+activity#com.haoche51.checker.activity.purchase.PaymentRecordActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:590:9-594:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:592:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:593:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:591:13-68
+activity#com.zbar.lib.CaptureActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:597:9-602:20
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:599:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:600:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:598:13-56
+activity#com.haoche51.checker.activity.stocking.VehicleResultActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:604:9-607:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:606:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:607:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:605:13-68
+activity#com.haoche51.checker.activity.stocking.ErrorResultActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:608:9-611:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:610:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:611:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:609:13-66
+activity#com.haoche51.checker.activity.offlinesold.StockAttentionActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:614:9-617:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:616:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:617:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:615:13-72
+activity#com.haoche51.checker.activity.purchase.RevisitRecordActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:620:9-623:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:622:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:623:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:621:13-68
+activity#com.haoche51.checker.activity.purchase.AddRevisitRecordActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:626:9-629:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:628:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:629:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:627:13-71
+activity#com.haoche51.checker.activity.approve.ApproveMainActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:632:9-636:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:634:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:635:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:633:13-65
+activity#com.haoche51.checker.activity.offerrefer.OfferReferActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:639:9-645:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:642:13-49
+	android:launchMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:641:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:644:13-67
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:643:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:640:13-67
+activity#com.haoche51.checker.activity.offerrefer.SecondHandCarOfferActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:648:9-652:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:650:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:651:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:649:13-75
+activity#com.haoche51.checker.activity.offerrefer.MarketConditionActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:655:9-659:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:657:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:658:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:656:13-72
+activity#com.haoche51.checker.activity.offerrefer.GetCityActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:662:9-666:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:664:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:665:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:663:13-64
+activity#com.haoche51.checker.activity.offerrefer.NewCarOfferActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:669:9-673:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:671:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:672:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:670:13-68
+activity#com.haoche51.checker.activity.UpdateConfirmDialogActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:676:9-680:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:678:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:679:13-51
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:677:13-65
+activity#com.haoche51.checker.activity.DownloadDialogActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:683:9-687:15
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:685:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:686:13-51
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:684:13-60
+activity#com.haoche51.checker.activity.recommend.BuyerAddCluesActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:690:9-692:51
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:691:19-55
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:692:19-49
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:690:19-75
+activity#com.haoche51.checker.activity.recommend.CheckAddCluesActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:695:9-697:51
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:696:19-55
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:697:19-49
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:695:19-75
+activity#com.haoche51.checker.activity.recommend.RecommendMainActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:700:9-702:51
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:701:19-55
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:702:19-49
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:700:19-75
+activity#com.intsig.ccrengine.ISCardScanActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:705:9-706:70
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:706:13-67
+activity#com.haoche51.checker.activity.purchase.RecogResultActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:709:9-712:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:711:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:712:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:710:13-66
+activity#com.haoche51.checker.activity.channel.FindCarDetailActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:715:9-717:51
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:716:19-55
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:717:19-49
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:715:19-73
+activity#com.haoche51.checker.activity.purchase.CheckerAddClueActivity
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:720:9-723:45
+	android:screenOrientation
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:722:13-49
+	android:theme
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:723:13-43
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:721:13-69
+service#com.haoche51.checker.service.AutoUpdateVersionService
+ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:726:9-68
+	android:name
+		ADDED from /Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/AndroidManifest.xml:726:18-66
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:61:5-72
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:61:22-69
+uses-permission#android.permission.WRITE_CALL_LOG
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:62:5-73
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:62:22-70
+uses-permission#android.permission.PROCESS_OUTGOING_CALLS
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:66:5-81
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:66:22-78
+activity#com.haoche51.settlement.cashiers.SettlementDetailActivity
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:73:9-78:57
+	android:screenOrientation
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:76:13-49
+	android:windowSoftInputMode
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:78:13-54
+	android:configChanges
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:75:13-63
+	android:theme
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:77:13-48
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:74:13-85
+activity#com.haoche51.settlement.cashiers.SettlementPospayActivity
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:79:9-82:51
+	android:screenOrientation
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:81:13-49
+	android:theme
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:82:13-48
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:80:13-85
+activity#com.haoche51.settlement.onlinepay.PayListActivity
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:85:9-88:51
+	android:screenOrientation
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:87:13-49
+	android:theme
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:88:13-48
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:86:13-77
+activity#com.haoche51.settlement.onlinepay.AddPayActivity
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:90:9-93:51
+	android:screenOrientation
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:92:13-49
+	android:theme
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:93:13-48
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:91:13-76
+activity#com.haoche51.settlement.onlinepay.PayInfoActivity
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:95:9-98:51
+	android:screenOrientation
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:97:13-49
+	android:theme
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:98:13-48
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:96:13-77
+activity#com.haoche51.settlement.onlinepay.BalanceQueryActivity
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:100:9-103:51
+	android:screenOrientation
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:102:13-49
+	android:theme
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:103:13-48
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:101:13-82
+activity#com.haoche51.settlement.onlinepay.BalanceDetailActivity
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:105:9-108:51
+	android:screenOrientation
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:107:13-49
+	android:theme
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:108:13-48
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:106:13-83
+activity#com.haoche51.settlement.onlinepay.ApplyRefundActivity
+ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:110:9-113:51
+	android:screenOrientation
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:112:13-49
+	android:theme
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:113:13-48
+	android:name
+		ADDED from [android_studio_checker:settlement:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/settlement/unspecified/AndroidManifest.xml:111:13-81
+uses-permission#android.permission.READ_SMS
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:13:22-64
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:14:5-70
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:14:22-67
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:23:5-74
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:23:22-71
+uses-permission#android.permission.BLUETOOTH_PRIVILEGED
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:25:22-76
+activity#com.yintong.activity.SwipingCardNFC
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:32:9-36:75
+	android:screenOrientation
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:34:13-45
+	android:theme
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:36:13-72
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:33:13-63
+activity#com.yintong.activity.ReprintOrder
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:37:9-41:75
+	android:screenOrientation
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:40:13-49
+	android:label
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:39:13-45
+	android:theme
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:41:13-72
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:38:13-61
+activity#com.yintong.activity.IndexActivity
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:42:9-47:20
+	android:screenOrientation
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:45:13-49
+	android:label
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:44:13-45
+	android:theme
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:46:13-46
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:43:13-62
+activity#com.yintong.activity.BindBlueTooth
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:48:9-53:20
+	android:screenOrientation
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:51:13-49
+	android:label
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:50:13-45
+	android:theme
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:52:13-46
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:49:13-62
+activity#com.yintong.activity.SelectPayState
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:54:9-59:20
+	android:screenOrientation
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:57:13-49
+	android:label
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:56:13-45
+	android:theme
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:58:13-46
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:55:13-63
+activity#com.yintong.activity.CasherQrCode
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:60:9-65:20
+	android:screenOrientation
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:62:13-45
+	android:theme
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:64:13-46
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:61:13-61
+activity#com.yintong.activity.CardConsumeSuccess
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:66:9-71:20
+	android:screenOrientation
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:69:13-49
+	android:label
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:68:13-45
+	android:theme
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:70:13-46
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:67:13-67
+activity#com.yintong.activity.SwipingCard
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:72:9-77:20
+	android:screenOrientation
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:75:13-49
+	android:label
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:74:13-45
+	android:theme
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:76:13-46
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:73:13-60
+activity#com.yintong.activity.UnBindpos
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:78:9-83:20
+	android:screenOrientation
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:81:13-49
+	android:label
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:80:13-45
+	android:theme
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:82:13-46
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:79:13-58
+service#com.yintong.llservice.PayService
+ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:85:9-86:19
+	android:name
+		ADDED from [android_studio_checker:o2osdk:unspecified] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/android_studio_checker/o2osdk/unspecified/AndroidManifest.xml:85:18-65
+service#com.squareup.leakcanary.internal.HeapAnalyzerService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:25:9-28:45
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:27:13-36
+	android:process
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:28:13-42
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:26:13-80
+service#com.squareup.leakcanary.DisplayLeakService
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:29:9-31:39
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:30:13-70
+activity#com.squareup.leakcanary.internal.DisplayLeakActivity
+ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:33:9-45:20
+	android:enabled
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:35:13-36
+	android:label
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:37:13-73
+	android:icon
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:36:13-56
+	android:theme
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:39:13-53
+	android:taskAffinity
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:38:13-59
+	android:name
+		ADDED from [com.squareup.leakcanary:leakcanary-android:1.3] /Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/AndroidManifest.xml:34:13-80

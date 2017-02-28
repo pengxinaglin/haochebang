@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@color/self_white">
+
+    <TextView
+        android:id="@+id/tv_title"
+        style="@style/hc_tv_name"
+        android:layout_width="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/tv_status"
+        android:padding="@dimen/margin_15dp"
+        android:text="---"
+        android:textSize="@dimen/margin_18dp"
+        />
+
+    <TextView
+        android:id="@+id/tv_status"
+        style="@style/hc_tv_name"
+        android:layout_width="wrap_content"
+        android:layout_alignParentRight="true"
+        android:paddingBottom="@dimen/margin_15dp"
+        android:paddingRight="@dimen/margin_15dp"
+        android:paddingTop="@dimen/margin_15dp"
+        android:text="---"
+        android:textColor="@color/hc_self_red"
+        android:textSize="@dimen/margin_18dp"
+        android:visibility="gone"
+        />
+</RelativeLayout>

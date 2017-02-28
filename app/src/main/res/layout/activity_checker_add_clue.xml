@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:focusableInTouchMode="true">
+
+    <LinearLayout
+        android:id="@+id/ll_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/self_white"
+        android:orientation="vertical">
+
+        <TextView
+            style="@style/hc_ll_transfer_info"
+            android:layout_marginBottom="5dp"
+            android:gravity="left|center_vertical"
+            android:text="@string/hc_task_remark"
+            android:textColor="@color/hc_self_gray_hint"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <EditText
+            android:id="@+id/ed_remark"
+            style="@style/hc_ed_remark"
+            android:layout_height="@dimen/margin_100dp"
+            android:hint="@string/hc_remark_content"
+            android:padding="@dimen/margin_10dp"
+            />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tv_task_note"
+        style="@style/HCTheme.TextHint.Lable"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_content"
+        android:layout_marginLeft="20dp"
+        android:text="@string/hc_check_task_note"/>
+
+    <Button
+        android:id="@+id/btn_commit_clue"
+        style="@style/hc_transfer_bottom_1"
+        android:layout_height="55dp"
+        android:layout_alignParentBottom="true"
+        android:background="@color/hc_self_red"
+        android:padding="@dimen/margin_15dp"
+        android:text="@string/hc_commit_clue"
+        android:textColor="@color/self_white"
+        android:textSize="@dimen/font_16"/>
+</RelativeLayout>

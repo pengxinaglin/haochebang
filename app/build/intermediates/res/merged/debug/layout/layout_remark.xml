@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@color/self_white"
+        android:orientation="vertical">
+        <TextView
+            style="@style/tv_remark_lable"
+            android:text="@string/hc_task_remark"/>
+
+        <EditText
+            android:id="@+id/ed_remark"
+            style="@style/hc_ed_remark"
+            android:hint="@string/hc_remark_content" />
+</LinearLayout>

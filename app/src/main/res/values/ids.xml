@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="drag_handle" type="id"/>
+    <item name="click_remove" type="id"/>
+
+    <item name="auto_focus" type="id"/>
+    <item name="decode" type="id"/>
+    <item name="decode_failed" type="id"/>
+    <item name="decode_succeeded" type="id"/>
+    <item name="launch_product_query" type="id"/>
+    <item name="quit" type="id"/>
+    <item name="restart_preview" type="id"/>
+    <item name="return_scan_result" type="id"/>
+
+    <item name="mcv_pager" type="id"/>
+
+    <item name="one_hcgv_id" type="id"/>
+    <item name="brand_hot_brand_tv_id" type="id"/>
+    <item name="hotcar_parentview" type="id"/>
+    <item name="hotcar_content" type="id"/>
+    <item name="brand_convert_tag" type="id"/>
+    <item name="for_brand_pos" type="id"/>
+    <item name="sp_sale_channel" type="id"/>
+    <item name="rb_has" type="id"/>
+    <item name="rb_none" type="id"/>
+    <item name="rg_tbsy" type="id"/>
+    <item name="tv_bxdq_time" type="id"/>
+    <item name="ll_bxdq_time" type="id"/>
+    <item name="cgv_deal_photo" type="id"/>
+    <item name="cgv_post_photo" type="id"/>
+    <item name="riv_purchase_photo" type="id"/>
+    <item name="tv_photo_tag" type="id"/>
+    <item name="tv_photo_tag_new" type="id"/>
+    <item name="iv_delete" type="id"/>
+    <item name="view_mask" type="id"/>
+
+</resources>

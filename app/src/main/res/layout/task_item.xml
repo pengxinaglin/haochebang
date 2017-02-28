@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            android:id="@+id/task_status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="[帮检]"
+            android:textColor="@color/orange"
+            android:visibility="gone" />
+
+        <TextView
+            android:id="@+id/tasks_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/task_status"
+            android:singleLine="true"
+            android:text="车主姓名"
+            android:textColor="#303030"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+    <com.haoche51.checker.widget.DashedLine
+        android:id="@+id/broken_line"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="8dp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_task_date_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="2dp"
+            android:text="预约时间:"
+            android:textColor="#949FAB"
+            android:textSize="15sp" />
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="18dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_height="15dp"
+                android:enabled="false"
+                android:visibility="gone"
+                android:src="@drawable/select_tasklistcall" />
+
+            <ImageView
+                android:layout_width="15dp"
+                android:layout_marginLeft="3dp"
+                android:layout_height="15dp"
+                android:visibility="gone"
+                android:src="@drawable/select_tasklistcall"/>
+
+            <TextView
+                android:id="@+id/tasks_date"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:text="1小时后"
+                android:gravity="center_vertical"
+                android:layout_gravity="center_vertical"
+                android:textColor="#949FAB" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/task_apdate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="22dp"
+            android:layout_toRightOf="@+id/tv_task_date_label"
+            android:text="——"
+            android:textColor="#949FAB" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_task_address_label"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="2dp"
+            android:paddingBottom="5dp"
+            android:text="预约地点:"
+            android:textColor="#949FAB" />
+
+        <TextView
+            android:id="@+id/taks_apaddress"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/tv_task_address_label"
+            android:layout_alignBottom="@+id/tv_task_address_label"
+            android:layout_marginLeft="23dp"
+            android:layout_toRightOf="@+id/tv_task_address_label"
+            android:singleLine="true"
+            android:text="——"
+            android:textColor="#949FAB" />
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.2dp"
+        android:layout_marginTop="5dp"
+        android:background="#949FAB" />
+
+</LinearLayout>

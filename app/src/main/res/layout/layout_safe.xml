@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <TextView
+        style="@style/tv_fill_exam_report"
+        android:text="安全配置"/>
+
+    <View style="@style/view_normal"/>
+
+    <com.haoche51.checker.custom.CheckListView
+        android:id="@+id/safty_list"
+        style="@style/check_listview_normal">
+    </com.haoche51.checker.custom.CheckListView>
+
+    <View
+        style="@style/view_normal"
+        android:layout_height="10dp"/>
+</LinearLayout>

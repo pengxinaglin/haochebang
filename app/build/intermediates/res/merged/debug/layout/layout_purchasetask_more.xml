@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_mw"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/self_white"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_15dp">
+
+    <RadioGroup
+        style="@style/wh_mw"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_purchase_query_vinrecord"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_report"
+            android:text="@string/hc_see_report"
+            />
+
+        <RadioButton
+            android:id="@+id/rb_purchase_transmit"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_transmit_task"
+            android:text="@string/p_transmit"
+            />
+        <RadioButton
+            android:id="@+id/rb_revisit_record"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_revisit"
+            android:text="@string/revisit_record"
+            />
+    </RadioGroup>
+
+    <RadioGroup
+        style="@style/wh_mw"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_purchase_query_maintenance"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_vehicle_revisit"
+            android:text="@string/hc_check_vehicle_maintenance_record"
+            />
+
+        <RadioButton
+            android:id="@+id/rb_offer"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_offer"
+            android:text="@string/hc_offer_refer"
+            />
+
+        <RadioButton
+            style="@style/hc_tv_transaction_detail"
+            android:visibility="invisible"
+            />
+    </RadioGroup>
+</LinearLayout>

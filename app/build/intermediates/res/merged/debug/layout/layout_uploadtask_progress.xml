@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_match"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/self_white"
+    android:orientation="vertical"
+    android:padding="@dimen/margin_15dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/margin_20dp">
+
+        <ProgressBar
+            android:id="@+id/pb_progress"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:indeterminateDrawable="@color/hc_self_gray"
+            android:max="100"
+            android:progress="60"
+            android:progressDrawable="@drawable/progressbar_blue"
+            />
+
+        <LinearLayout
+            style="@style/wh_wm"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="@dimen/margin_5dp"
+            >
+
+            <TextView
+                android:id="@+id/tv_upload_progress"
+                style="@style/wh_wrap"
+                android:text="--"
+                android:textColor="@color/hc_self_white"
+                android:textSize="@dimen/hc_text_size_normal"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:text="/"
+                android:textColor="@color/hc_self_white"
+                android:textSize="@dimen/hc_text_size_normal"/>
+
+            <TextView
+                android:id="@+id/tv_upload_max"
+                style="@style/wh_wrap"
+                android:text="--"
+                android:textColor="@color/hc_self_white"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/height_10dp"
+        >
+
+        <TextView
+            android:id="@+id/tv_upload_status"
+            style="@style/wh_wrap"
+            android:text="--"
+            android:textColor="@color/letter_toast"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginLeft="@dimen/height_10dp"
+            android:layout_marginRight="@dimen/height_10dp"
+            android:text="|"
+            android:textColor="@color/letter_toast"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <TextView
+            style="@style/wh_wrap"
+            android:text="@string/hc_check_uploading_speed"
+            android:textColor="@color/letter_toast"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+
+        <TextView
+            android:id="@+id/tv_upload_speed"
+            style="@style/wh_wrap"
+            android:text="----"
+            android:textColor="@color/letter_toast"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <TextView
+            style="@style/wh_wrap"
+            android:layout_marginLeft="@dimen/height_10dp"
+            android:layout_marginRight="@dimen/height_10dp"
+            android:text="|"
+            android:textColor="@color/letter_toast"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <TextView
+            style="@style/wh_wrap"
+            android:text="@string/hc_check_consuming_length"
+            android:textColor="@color/letter_toast"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <TextView
+            android:id="@+id/tv_upload_used_times"
+            style="@style/wh_wrap"
+            android:text="----"
+            android:textColor="@color/letter_toast"
+            android:textSize="@dimen/hc_text_size_normal"/>
+    </LinearLayout>
+</LinearLayout>

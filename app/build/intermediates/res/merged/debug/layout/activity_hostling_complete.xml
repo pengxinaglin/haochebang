@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/wh_match"
+              xmlns:android="http://schemas.android.com/apk/res/android"
+              android:background="@color/hc_self_gray_bg"
+              android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_no_data"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <TextView
+            android:id="@+id/tv_no_data"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="整备列表为空"
+            android:textSize="16dp"/>
+    </RelativeLayout>
+
+    <ScrollView
+        android:id="@+id/sv_hostling_complete"
+        style="@style/wh_match"
+        android:layout_weight="10"
+        >
+
+        <com.haoche51.checker.custom.CheckListView
+            android:id="@+id/lv_hostling_complete"
+            android:dividerHeight="10dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+    </ScrollView>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:layout_weight="0.1">
+
+        <Button
+            android:id="@+id/btn_commit"
+            style="@style/hc_transfer_bottom_1"
+            android:background="@color/hc_self_red"
+            android:padding="@dimen/margin_15dp"
+            android:text="@string/hc_hostling_complete"
+            android:textColor="@color/self_white"
+            android:textSize="@dimen/font_16"/>
+    </LinearLayout>
+
+</LinearLayout>

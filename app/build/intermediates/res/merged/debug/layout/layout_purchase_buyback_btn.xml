@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/self_white"
+    android:orientation="vertical">
+
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_break_contract"
+            style="@style/rb_group"
+            android:drawableTop="@drawable/ic_break"
+            android:text="@string/break_contract"/>
+
+        <RadioButton
+            android:id="@+id/rb_car_online"
+            style="@style/rb_group"
+            android:drawableTop="@drawable/ic_car_online"
+            android:text="@string/car_online"/>
+
+        <RadioButton
+            android:id="@+id/rb_pay_records"
+            style="@style/rb_group"
+            android:drawableTop="@drawable/ic_bill"
+            android:text="@string/pay_records"/>
+    </RadioGroup>
+</LinearLayout>

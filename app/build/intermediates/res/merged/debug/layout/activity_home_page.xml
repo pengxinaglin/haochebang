@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/hc_self_gray_bg"
+    android:orientation="vertical"
+    tools:context=".activity.HomePageActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/margin_40dp"
+        >
+
+        <TextView
+            android:id="@+id/tv_common_title"
+            style="@style/hc_styel_titlebar_view_title"
+            android:layout_centerInParent="true"
+            android:textColor="@color/hc_self_gray_hint"
+            />
+
+        <TextView
+            android:id="@+id/tv_right_fuction"
+            style="@style/hc_styel_titlebar_view_right_fuction"
+            android:background="@color/hc_self_gray_bg"
+            android:drawableLeft="@drawable/ic_top_more"
+            android:visibility="visible"/>
+    </RelativeLayout>
+    <include
+        layout="@layout/layout_personal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        />
+    <android.support.v4.widget.SwipeRefreshLayout
+        android:id="@+id/swipe_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/my_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/hc_titlebar_black"
+            android:scrollbars="vertical"/>
+    </android.support.v4.widget.SwipeRefreshLayout>
+</LinearLayout>

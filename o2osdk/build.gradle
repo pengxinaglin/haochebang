@@ -1,0 +1,26 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '23.0.0'
+
+    defaultConfig {
+        minSdkVersion 17
+        targetSdkVersion 22
+    }
+
+    buildTypes {
+        debug {
+            minifyEnabled false
+            proguardFiles 'proguard.pro'
+        }
+        release {
+            minifyEnabled false
+            proguardFiles 'proguard.pro'
+        }
+    }
+}
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+}

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/self_white"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/feature_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/self_background"
+            android:gravity="center"
+            android:padding="15dp"
+            android:text="功能件"
+            android:textColor="@color/self_gray"
+            android:textSize="@dimen/hc_text_size_xlarge"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/self_common"
+            android:gravity="center_vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="状态"
+                android:textColor="@color/self_gray"
+                android:textSize="@dimen/hc_text_size_large"/>
+
+            <RadioGroup
+                android:id="@+id/feature_status"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="15dp"
+                android:layout_weight="2"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@+id/feature_normal"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:button="@drawable/radio_button_selector"
+                    android:checked="true"
+                    android:text="正常"
+                    android:textSize="@dimen/hc_text_size_large"/>
+
+                <RadioButton
+                    android:id="@+id/feature_exception"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:button="@drawable/radio_button_selector"
+                    android:text="异常"
+                    android:textSize="@dimen/hc_text_size_large"/>
+            </RadioGroup>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/self_background"
+            android:orientation="vertical"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="说明"
+                android:textColor="@color/self_gray"
+                android:textSize="@dimen/hc_text_size_large"/>
+
+            <EditText
+                android:id="@+id/exception_desc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/edittext_selector"
+                android:ems="10"
+                android:textColor="@color/self_black"
+                android:textColorHint="@color/hc_self_gray_hint"
+                android:textSize="@dimen/hc_text_size_middle">
+            </EditText>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:orientation="horizontal"
+                android:paddingBottom="10dp"
+                android:paddingTop="10dp">
+
+                <Button
+                    android:id="@+id/cancel_btn"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:background="@drawable/btn_bg_selector"
+                    android:text="取消"
+                    android:textColor="@color/hc_indicator"/>
+
+                <Button
+                    android:id="@+id/confirm_btn"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_marginLeft="20dp"
+                    android:layout_weight="1"
+                    android:background="@drawable/selector_upload_report"
+                    android:text="确定"
+                    android:textColor="@color/self_white"/>
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

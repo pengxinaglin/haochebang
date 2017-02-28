@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/hctimepicker/build/intermediates/res/merged/androidTest/debug/layout/week.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/hctimepicker/build/intermediates/bundles/debug/res/layout/week.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/hctimepicker/build/intermediates/res/merged/androidTest/debug/layout/month.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/hctimepicker/build/intermediates/bundles/debug/res/layout/month.xml"
+    }
+]

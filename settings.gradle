@@ -1,0 +1,1 @@
+include ':app', ':qiniu', ':photospicker', ':hctimepicker', ':ffmpeg', ':mp3recorder', ':o2osdk', ':settlement'

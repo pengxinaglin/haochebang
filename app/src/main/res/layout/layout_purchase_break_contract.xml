@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/self_white"
+    android:orientation="vertical"
+    android:visibility="visible">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/tv_fail"
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_back_money"
+            />
+
+        <TextView
+            android:id="@+id/tv_back_money"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentRight="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_real_back_money"
+            />
+
+        <TextView
+            android:id="@+id/tv_real_back_money"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentRight="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_break_remark"
+            />
+
+        <TextView
+            android:id="@+id/tv_break_remark"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentRight="true"
+            android:text="------"/>
+    </RelativeLayout>
+</LinearLayout>

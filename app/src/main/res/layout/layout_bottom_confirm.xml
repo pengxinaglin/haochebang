@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_mw"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/btn_positive"
+        style="@style/hc_transfer_bottom_1"
+        android:background="@color/hc_self_red"
+        android:padding="@dimen/margin_15dp"
+        android:text="----"
+        android:textColor="@color/self_white"
+        android:textSize="@dimen/font_16"/>
+
+</LinearLayout>

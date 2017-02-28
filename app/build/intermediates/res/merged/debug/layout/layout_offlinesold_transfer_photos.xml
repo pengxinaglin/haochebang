@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:orientation="vertical"
+              android:paddingBottom="20dp"
+              android:paddingTop="20dp">
+
+    <!--第1行-->
+    <LinearLayout
+        style="@style/hc_purchase_photo"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/ll_photo_default"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="@drawable/photo_shape"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:text="@string/hc_offlinesold_transfer_photo"
+                    android:textColor="@color/hc_dark_blue"
+                    android:textSize="14dp"/>
+            </FrameLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/ll_photo_add"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp">
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="80dp"
+                    android:background="@drawable/photo_shape"/>
+
+                <ImageView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/dash_plus_sign"
+                    android:layerType="software"/>
+            </FrameLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp">
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <!--第2行-->
+    <com.haoche51.checker.custom.CGridView
+        android:id="@+id/cgv_photo"
+        style="@style/hc_purchase_photo"
+        android:layout_marginTop="@dimen/margin_20dp"
+        android:horizontalSpacing="@dimen/margin_5dp"
+        android:verticalSpacing="5dp"
+        android:numColumns="3"
+        android:scrollbars="none"
+        />
+</LinearLayout>

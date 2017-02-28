@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/self_white"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/wh_match"
+        android:layout_weight="15"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            style="@style/hc_ll_transfer_info"
+            android:layout_height="@dimen/height_35dp"
+            android:layout_marginTop="@dimen/margin_15dp"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/HCTheme.TextHint.Lable"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:text="@string/hc_channel_business_name"/>
+
+            <EditText
+                android:id="@+id/et_name"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="6"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/hc_ll_transfer_info"
+            android:layout_height="@dimen/height_35dp"
+            android:layout_marginTop="@dimen/margin_15dp"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/HCTheme.TextHint.Lable"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:text="所在城市"/>
+
+            <TextView
+                android:id="@+id/tv_city"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="6"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/hc_ll_transfer_info"
+            android:layout_height="@dimen/height_35dp"
+            android:layout_marginTop="@dimen/margin_15dp"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/HCTheme.TextHint.Lable"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:text="@string/hc_channel_business_address"/>
+
+            <EditText
+                android:id="@+id/et_address"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="6"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/hc_ll_transfer_info"
+            android:layout_height="@dimen/height_35dp"
+            android:layout_marginTop="@dimen/margin_15dp"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/HCTheme.TextHint.Lable"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:text="@string/hc_channel_contact_person"/>
+
+            <EditText
+                android:id="@+id/et_contact_name"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="6"/>
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/hc_ll_transfer_info"
+            android:layout_height="@dimen/height_35dp"
+            android:layout_marginTop="@dimen/margin_15dp"
+            android:orientation="horizontal">
+
+            <TextView
+                style="@style/HCTheme.TextHint.Lable"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="4"
+                android:text="@string/hc_channel_contact_phone"/>
+
+            <EditText
+                android:id="@+id/et_contact_phone"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="6"
+                android:inputType="phone"/>
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_weight="1">
+
+        <include layout="@layout/layout_bottom_confirm"/>
+    </LinearLayout>
+
+</LinearLayout>

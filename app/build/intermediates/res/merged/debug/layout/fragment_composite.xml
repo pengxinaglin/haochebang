@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ScrollView
+        style="@style/wh_match">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="5dp"
+                android:background="@color/hc_self_gray_bg"/>
+
+            <TextView
+                style="@style/tv_fill_exam_report"
+                android:text="轻微事故"/>
+
+            <View style="@style/view_normal"/>
+
+            <com.haoche51.checker.custom.CheckListView
+                android:id="@+id/compre_minor_accident"
+                style="@style/check_listview_normal">
+            </com.haoche51.checker.custom.CheckListView>
+
+            <View
+                style="@style/view_normal"
+                android:layout_height="10dp"/>
+
+            <TextView
+                style="@style/tv_fill_exam_report"
+                android:text="机械相关"/>
+
+            <View style="@style/view_normal"/>
+
+            <com.haoche51.checker.custom.CheckListView
+                android:id="@+id/compre_mechanical_related"
+                style="@style/check_listview_normal">
+            </com.haoche51.checker.custom.CheckListView>
+
+            <View
+                style="@style/view_normal"
+                android:layout_height="10dp"/>
+
+            <TextView
+                style="@style/tv_fill_exam_report"
+                android:text="手续相关"/>
+
+            <View style="@style/view_normal"/>
+
+            <com.haoche51.checker.custom.CheckListView
+                android:id="@+id/compre_relevant_formalities"
+                style="@style/check_listview_normal">
+            </com.haoche51.checker.custom.CheckListView>
+
+            <View
+                style="@style/view_normal"
+                android:layout_height="10dp"/>
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

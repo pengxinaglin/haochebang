@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_match"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/hc_self_gray_bg"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_common_titlebar"/>
+
+    <ScrollView
+        style="@style/wh_match"
+        android:layout_weight="10">
+
+        <include layout="@layout/layout_cancel_task"/>
+    </ScrollView>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:layout_weight="0.1">
+
+        <include layout="@layout/layout_bottom_confirm_cancel"/>
+    </LinearLayout>
+</LinearLayout>

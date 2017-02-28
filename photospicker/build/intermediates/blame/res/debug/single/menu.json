@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/res/merged/debug/menu/menu_preview.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/src/main/res/menu/menu_preview.xml"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/build/intermediates/res/merged/debug/menu/menu_picker.xml",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/photospicker/src/main/res/menu/menu_picker.xml"
+    }
+]

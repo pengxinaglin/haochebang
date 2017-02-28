@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/self_white"
+              android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        android:background="@drawable/bottom_line_light_blue"
+        android:gravity="center"
+        android:text="@string/hc_modify_transfer"
+        android:textColor="@color/self_black"
+        android:textSize="18sp"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/tv_lable_transfer_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:ems="5"
+            android:text="@string/hc_transfer_time"
+            android:textColor="@color/self_black"
+            android:textSize="15sp"/>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_lable_transfer_time"
+            android:orientation="horizontal">
+
+            <include layout="@layout/timepicker"/>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp">
+
+        <TextView
+            android:id="@+id/tv_lable_transfer_address"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:ems="5"
+            android:text="@string/hc_transfer_address"
+            android:textColor="@color/self_black"
+            android:textSize="15sp"/>
+
+        <EditText
+            android:id="@+id/et_transfer_address"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/tv_lable_transfer_address"
+            android:maxLines="2"
+            android:textColor="@color/BLACK"/>
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/btn_modify_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@android:string/ok"
+        android:textColor="@color/BLACK"/>
+
+</LinearLayout>

@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:orientation="vertical">
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_vehicle_vin"/>
+
+        <EditText
+            android:id="@+id/ed_vehicle_vin"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:inputType="textFilter"
+            android:singleLine="true"
+            android:textColorHint="@color/hc_self_gray_hint"
+            android:maxLength="17"
+            android:paddingRight="@dimen/margin_25dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_vehicle_type"/>
+
+        <TextView
+            android:id="@+id/tv_vehicle_type"
+            style="@style/HCTheme.VehicleSubBlock.Input"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:inputType="text"
+            android:textColorHint="@color/hc_self_gray_hint"
+            android:paddingRight="@dimen/margin_25dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_registration_time"/>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="center_vertical|left">
+
+            <TextView
+                android:id="@+id/tv_registration_time"
+                style="@style/HCTheme.VehicleSubBlock.Spinner"
+                android:gravity="center"
+                />
+
+            <ImageView
+                style="@style/wh_wrap"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:src="@drawable/ic_hc_spinner_arrow"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_show_mile"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_show_mile"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="numberDecimal"
+                android:maxLength="20"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:textColor="@color/hc_self_gray_hint"
+                android:text="@string/hc_unit_wan_km"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/hc_transfer_times"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_transfer_times"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="number"
+                android:maxLength="2"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:inputType="numberDecimal"
+                android:textColor="@color/hc_self_gray_hint"
+                android:text="@string/hc_unit_ci"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="@string/tbsy"/>
+
+            <RadioGroup
+                android:id="@id/rg_tbsy"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:layout_gravity="center_vertical"
+                android:checkedButton="@id/rb_has"
+                android:orientation="horizontal">
+
+                <RadioButton
+                    android:id="@id/rb_has"
+                    style="@style/rb_normal"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:button="@drawable/radio_button_selector"
+                    android:text="有"/>
+
+                <RadioButton
+                    android:id="@id/rb_none"
+                    style="@style/rb_normal"
+                    android:layout_width="0dp"
+                    android:layout_weight="1"
+                    android:button="@drawable/radio_button_selector"
+                    android:text="无"/>
+            </RadioGroup>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@id/ll_bxdq_time"
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextHint.Lable"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/bxdq"/>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="center_vertical|left">
+
+            <TextView
+                android:id="@id/tv_bxdq_time"
+                style="@style/HCTheme.VehicleSubBlock.Spinner"
+                android:hint="@string/select_bxdq_time"
+                android:textColorHint="@color/hc_self_gray_hint"
+                android:gravity="center"
+                />
+
+            <ImageView
+                style="@style/wh_wrap"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:src="@drawable/ic_hc_spinner_arrow"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

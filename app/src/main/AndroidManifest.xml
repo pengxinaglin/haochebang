@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="com.haoche51.checker"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:installLocation="internalOnly">
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22"/>
+
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"/>
+    <uses-permission android:name="android.permission.ACCESS_DOWNLOAD_MANAGER"/>
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"/>
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+
+    <!-- 这个权限用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <!-- 这个权限用于访问GPS定位 -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <!-- 用于访问wifi网络信息，wifi信息会用于进行网络定位 -->
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <!-- 获取运营商信息，用于支持提供运营商信息相关的接口 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <!-- 这个权限用于获取wifi的获取权限，wifi信息会用来进行网络定位 -->
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <!-- 用于读取手机当前的状态 -->
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <!-- 写入扩展存储，向扩展卡写入数据，用于写入离线定位数据 -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <!-- 访问网络，网络定位需要上网 -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <!-- SD卡读取权限，用户写入离线定位数据 -->
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS"/>
+    <!-- 允许应用读取低级别的系统日志文件 -->
+    <uses-permission android:name="android.permission.READ_LOGS"/>
+    <!-- 允许操作通讯录 -->
+    <uses-permission android:name="android.permission.READ_CONTACTS"/>
+    <uses-permission android:name="android.permission.WRITE_CONTACTS"/>
+
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-feature android:name="android.hardware.camera.autofocus"/>
+
+    <uses-permission android:name="android.permission.FLASHLIGHT"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <!-- 加入手机震动，一定要在manifest.xml中加入权限-->
+    <uses-permission android:name="android.permission.VIBRATE"/>
+
+    <!-- 加入蓝牙，一定要在manifest.xml中加入权限-->
+    <uses-permission android:name="android.permission.BLUETOOTH"/>
+
+    <!-- 百度地图额外需要的权限 -->
+    <uses-permission android:name="com.android.launcher.permission.READ_SETTINGS"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+
+    <!-- 录音相关权限 -->
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT"/>
+
+    <application
+        android:name=".CheckerApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme"
+        tools:replace="android:icon,android:theme">
+
+        <!-- 登陆页面 -->
+        <activity
+            android:name=".activity.user.LoginActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowSoftInputMode="adjustResize"/>
+
+        <!-- 任务列表 -->
+
+        <activity
+            android:name=".activity.HomePageActivity"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme.MainPager"
+            android:windowSoftInputMode="adjustPan">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <!-- 基本手续，车型检查 -->
+        <activity
+            android:name=".activity.evaluate.FillExamReportActivity"
+            android:icon="@drawable/ic_launcher"
+            android:label="@string/evaluate_procedure"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <!-- 卖家信息页面 -->
+
+        <activity
+            android:name=".activity.evaluate.CheckTaskDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+        <activity
+            android:name=".activity.evaluate.ModifyCheckAddressActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+        <activity
+            android:name=".activity.evaluate.UploadTaskDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+        <activity
+            android:name=".activity.user.ChangePwdActivity"
+            android:label="@string/change_pwd"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity
+            android:name=".activity.HCWebViewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <activity
+            android:name=".activity.CRMWebViewActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <!-- for test -->
+        <activity
+            android:name=".test.TestActivity"
+            android:theme="@android:style/Theme.NoTitleBar"/>
+        <activity
+            android:name=".activity.evaluate.CancelTaskActivity"
+            android:label="@string/p_canceltask"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity
+            android:name=".activity.evaluate.HelpCheckDetailActivity"
+            android:label="@string/p_return"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <!-- yangming -->
+        <activity
+            android:name=".activity.evaluate.LiYangVehicleFilterActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity
+            android:name=".activity.user.SettingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity
+            android:name=".activity.user.QRShareActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity
+            android:name=".activity.notice.PushMessageActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- yangming end -->
+
+        <!-- 百度推送 设定 -->
+        <receiver android:name=".HCPushMessageReceiver">
+            <intent-filter>
+
+                <!-- 接收push消息 -->
+                <action android:name="com.baidu.android.pushservice.action.MESSAGE"/>
+                <!-- 接收bind,unbind,fetch,delete等反馈消息 -->
+                <action android:name="com.baidu.android.pushservice.action.RECEIVE"/>
+                <action android:name="com.baidu.android.pushservice.action.notification.CLICK"/>
+            </intent-filter>
+        </receiver>
+
+        <!-- push必须的receviver和service声明 -->
+        <receiver
+            android:name="com.baidu.android.pushservice.PushServiceReceiver"
+            android:process=":bdservice_v1">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+                <action android:name="com.baidu.android.pushservice.action.notification.SHOW"/>
+                <action android:name="com.baidu.android.pushservice.action.media.CLICK"/>
+                <!-- 以下四项为可选的action声明，可大大提高service存活率和消息到达速度 -->
+                <action android:name="android.intent.action.MEDIA_MOUNTED"/>
+                <action android:name="android.intent.action.USER_PRESENT"/>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED"/>
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.baidu.android.pushservice.RegistrationReceiver"
+            android:process=":bdservice_v1">
+            <intent-filter>
+                <action android:name="com.baidu.android.pushservice.action.METHOD"/>
+                <action android:name="com.baidu.android.pushservice.action.BIND_SYNC"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED"/>
+
+                <data android:scheme="package"/>
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.baidu.android.pushservice.PushService"
+            android:exported="true"
+            android:process=":bdservice_v1">
+            <intent-filter>
+                <action android:name="com.baidu.android.pushservice.action.PUSH_SERVICE"/>
+            </intent-filter>
+        </service>
+
+        <!-- 4.4版本新增的CommandService声明，提升小米和魅族手机上的实际推送到达率 -->
+        <service
+            android:name="com.baidu.android.pushservice.CommandService"
+            android:exported="true"/>
+
+        <uses-library android:name="android.test.runner"/>
+        <!-- 友盟自动升级 -->
+        <!-- Caution! Do not change this app key. It is only for demo usage. -->
+        <!-- 正式环境 -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="54865a71fd98c5eb5a0014c7"/>
+
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="Umeng"/>
+
+        <service
+            android:name="com.umeng.update.net.DownloadingService"
+            android:process=":DownloadingService"/>
+
+        <activity
+            android:name="com.umeng.update.UpdateDialogActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote">
+            <intent-filter>
+                <action android:name="com.baidu.location.service_v2.2"/>
+            </intent-filter>
+        </service>
+
+        <!-- meta-data需要写在application中 -->
+        <!-- 正式环境 -->
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="iGtuYueRKEl55Y8qC3E6IhKH"/>
+
+        <service android:name=".service.LocationService"/>
+
+        <activity
+            android:name=".activity.evaluate.ImageUploadActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <activity
+            android:name="me.iwf.photopicker.PhotoPickerActivity"
+            android:theme="@style/AlbumTheme"/>
+        <activity
+            android:name="me.iwf.photopicker.PhotoPagerActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar"/>
+        <activity
+            android:name=".activity.evaluate.CheckMainActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme.FloatingActionButton"
+            >
+            <intent-filter>
+                <action android:name="com.haoche51.checker.action.CHECK_MAIN"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".activity.evaluate.TransmitCheckTaskActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+        <!-- 收车—任务库—客户详情页—编辑资料 -->
+
+        <!-- 收车模块主入口 -->
+        <activity
+            android:name=".activity.purchase.PurchaseMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+        <activity
+            android:name=".activity.purchase.PurchaseTaskPendingDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!-- 整备模块主入口 -->
+        <activity
+            android:name=".activity.hostling.HostlingMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <activity
+            android:name=".activity.hostling.SubmitHostlingActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"
+            />
+
+        <!-- 回购车辆模块主入口 -->
+        <activity
+            android:name=".activity.offlinesold.OfflineSoldMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- 添加收车线索 -->
+        <activity
+            android:name=".activity.purchase.PurchaseAddClueActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="stateHidden|adjustResize"/>
+
+        <!-- 收车失败界面 -->
+        <activity
+            android:name=".activity.purchase.PurchaseFailedActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="stateHidden|adjustResize"/>
+
+
+        <!-- 预约上门界面 -->
+        <activity
+            android:name=".activity.purchase.OrderToDoorActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="stateHidden|adjustResize"/>
+
+        <!-- 添加临时任务界面 -->
+        <activity
+            android:name=".activity.evaluate.AddTempTaskActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="stateHidden|adjustResize"/>
+
+        <!-- 收车成功界面 -->
+        <activity
+            android:name=".activity.purchase.PurchaseSuccessActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <!--收车获取复检人员界面-->
+        <activity
+            android:name=".activity.purchase.GetRecheckPersonActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <!--收车复检界面-->
+
+        <!--车源品牌界面-->
+        <activity
+            android:name=".activity.vehicle.VehicleBrandActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <!--车系界面-->
+        <activity
+            android:name=".activity.vehicle.VehicleClassActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <!--年款界面-->
+        <activity
+            android:name=".activity.vehicle.VehicleYearActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <!--车型界面-->
+        <activity
+            android:name=".activity.vehicle.VehicleTypeActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+        <!-- 提交线下售出界面 -->
+        <activity
+            android:name=".activity.offlinesold.OfflineSoldCommitActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="stateHidden|adjustResize"/>
+
+        <!--收车转单-->
+        <activity
+            android:name=".activity.purchase.TransmitPurchaseTaskActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+
+        <!-- 线下售出确认转账界面 -->
+        <activity
+            android:name=".activity.offlinesold.OfflineSoldConfirmTransferActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="stateHidden|adjustResize"/>
+
+        <!-- 线下售出 出售中详情界面 -->
+        <activity
+            android:name=".activity.offlinesold.OfflineSoldSaleDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+
+        <!-- 线下售出 库存详情界面 -->
+        <activity
+            android:name=".activity.offlinesold.OfflineSoldStockDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <!--整备详情-->
+        <activity
+            android:name=".activity.hostling.HostlingDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- 整备 完成整备界面 -->
+        <activity
+            android:name=".activity.hostling.HostlingCompleteActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <!--验车任务后台上传服务-->
+        <service android:name=".upload.UploadService"/>
+
+        <!--服务器请求的URL展示页列表-->
+        <activity
+            android:name=".activity.widget.WebPermissoinBaseActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+        <!--渠寄车源列表-->
+        <activity
+            android:name=".activity.notice.QujiVehicleActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <activity
+            android:name=".activity.channel.ChannelMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <activity
+            android:name=".activity.channel.AddDealerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <activity
+            android:name=".activity.channel.AddVehicleSourceActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+        <!--渠寄 商家详情-->
+        <activity
+            android:name=".activity.channel.MerchantDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!--渠寄 车源详情-->
+        <activity
+            android:name=".activity.channel.VehicleSourceDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!--渠寄 变更维护人员-->
+        <activity
+            android:name=".activity.channel.UpdateMaintainerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <activity
+            android:name=".activity.channel.MerchantVehicleSourceActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+        <!--验车 本地视频列表-->
+        <activity
+            android:name=".activity.media.VideoPickerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- 选择音频-->
+        <activity
+            android:name=".activity.media.AudioPickerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+        <!-- 录音 -->
+        <activity
+            android:name=".activity.media.AudioRecordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!--收车 上架车源-->
+        <activity
+            android:name=".activity.purchase.VehicleOnlineActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <!--毁约退款-->
+        <activity
+            android:name=".activity.purchase.BreakContractActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <activity
+            android:name=".activity.vehicle.VehicleSubBrandAddActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <activity
+            android:name=".activity.vehicle.VehicleSubScribeConditionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"
+            android:windowSoftInputMode="stateHidden|adjustPan"/>
+
+        <activity
+            android:name=".activity.evaluate.PhoneRecorListdActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar"/>
+
+        <activity
+            android:name=".activity.evaluate.AddTaskActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <activity
+            android:name=".activity.vehicle.QueryReportActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!--回购售出 C2C售出-->
+        <activity
+            android:name=".activity.offlinesold.C2CSoldActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <!--回购售出 获取同城地销列表-->
+        <activity
+            android:name=".activity.purchase.GetSalerActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="adjustPan"/>
+
+        <!--收车任务 回购中详情页-->
+        <activity
+            android:name=".activity.purchase.PurchaseBuyBackDetailActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!--收车任务 申请付款-->
+        <activity
+            android:name=".activity.purchase.ApplyPaymentActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!--收车任务 付款记录-->
+        <activity
+            android:name=".activity.purchase.PaymentRecordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!--库存盘点扫码页-->
+        <activity
+            android:name="com.zbar.lib.CaptureActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme">
+
+        </activity>
+        <!--库存盘点结果页-->
+        <activity
+            android:name=".activity.stocking.VehicleResultActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+        <activity
+            android:name=".activity.stocking.ErrorResultActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- 库存关注度 -->
+        <activity
+            android:name=".activity.offlinesold.StockAttentionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- 回访记录列表 -->
+        <activity
+            android:name=".activity.purchase.RevisitRecordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- 添加回访记录 -->
+        <activity
+            android:name=".activity.purchase.AddRevisitRecordActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- 审批模块主入口 -->
+        <activity
+            android:name=".activity.approve.ApproveMainActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!-- 报价参考 -->
+        <activity
+            android:name=".activity.offerrefer.OfferReferActivity"
+            android:launchMode="singleTask"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            android:windowSoftInputMode="stateHidden|adjustResize"
+            />
+
+        <!-- 二手车报价 -->
+        <activity
+            android:name=".activity.offerrefer.SecondHandCarOfferActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!-- 市场行情 -->
+        <activity
+            android:name=".activity.offerrefer.MarketConditionActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!-- 获取城市列表 -->
+        <activity
+            android:name=".activity.offerrefer.GetCityActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!-- 新车报价 -->
+        <activity
+            android:name=".activity.offerrefer.NewCarOfferActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"
+            />
+
+        <!-- 更新确认对话框 -->
+        <activity
+            android:name=".activity.UpdateConfirmDialogActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/dialog_activity"
+            />
+
+        <!-- 下载提示对话框 -->
+        <activity
+            android:name=".activity.DownloadDialogActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/dialog_activity"
+            />
+
+        <!-- 添加买家线索-->
+        <activity android:name=".activity.recommend.BuyerAddCluesActivity"
+                  android:screenOrientation="portrait"
+                  android:theme="@style/HCTheme"/>
+
+        <!-- 添加车源推荐-->
+        <activity android:name=".activity.recommend.CheckAddCluesActivity"
+                  android:screenOrientation="portrait"
+                  android:theme="@style/HCTheme"/>
+
+        <!-- 推荐主页 -->
+        <activity android:name=".activity.recommend.RecommendMainActivity"
+                  android:screenOrientation="portrait"
+                  android:theme="@style/HCTheme"/>
+
+        <!-- 银行卡扫描 -->
+        <activity
+            android:name="com.intsig.ccrengine.ISCardScanActivity" />
+
+        <!-- 银行卡识别结果 -->
+        <activity
+            android:name=".activity.purchase.RecogResultActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- 找车需求详情页 -->
+        <activity android:name=".activity.channel.FindCarDetailActivity"
+                  android:screenOrientation="portrait"
+                  android:theme="@style/HCTheme"/>
+
+        <!-- 验车处添加收车线索 -->
+        <activity
+            android:name=".activity.purchase.CheckerAddClueActivity"
+            android:screenOrientation="portrait"
+            android:theme="@style/HCTheme"/>
+
+        <!-- 自动更新服务 -->
+        <service android:name=".service.AutoUpdateVersionService"/>
+    </application>
+
+</manifest>

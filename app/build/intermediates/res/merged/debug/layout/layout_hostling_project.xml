@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_mw"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/self_white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/wh_mw"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/height_10dp"
+        android:paddingRight="@dimen/height_10dp">
+
+        <TextView
+            android:id="@+id/tv_position"
+            style="@style/hc_hostling_add_item"
+            android:text="--"
+            />
+
+        <TextView
+            android:id="@+id/tv_project_name"
+            style="@style/wh_wrap"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/height_10dp"
+            android:layout_toRightOf="@+id/tv_position"
+            android:text="-----"
+            />
+
+        <TextView
+            android:id="@+id/tv_project_fee"
+            style="@style/wh_wrap"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="@dimen/height_10dp"
+            android:text="-----"
+            />
+
+    </RelativeLayout>
+
+    <!--放整备图片-->
+    <LinearLayout
+        android:id="@+id/ll_photos"
+        style="@style/wh_mw"
+        android:layout_marginLeft="@dimen/margin_40dp"
+        android:orientation="vertical">
+
+    </LinearLayout>
+</LinearLayout>

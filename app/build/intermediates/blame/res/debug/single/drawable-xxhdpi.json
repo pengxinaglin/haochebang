@@ -1,0 +1,902 @@
+[
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b36.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b36.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b192.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b192.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b22.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b22.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_close.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/icon_close.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_text_cursor_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_text_cursor_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b53.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b53.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b175.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b175.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b214.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b214.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b98.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b98.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b130.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b130.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b84.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b84.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b144.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b144.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b19.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b19.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_mastercard.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_mastercard.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_phone.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b70.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b70.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b113.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b113.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b51.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b51.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_report.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_report.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b34.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b34.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b101.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b101.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b48.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b48.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b10.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b10.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/delete_photo.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/delete_photo.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b67.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b67.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_salary.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_salary.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b161.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b161.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b129.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b129.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b86.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b86.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b142.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b142.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b156.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b156.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b111.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b111.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b24.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b24.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b202.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b202.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b224.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b224.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b20.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b20.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b65.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b65.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b108.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b108.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b46.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b46.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b96.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b96.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b140.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b140.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b77.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b77.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b146.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b146.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b74.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b74.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b165.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b165.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_car.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_car.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b55.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b55.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b168.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b168.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_bank_bg.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_bank_bg.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b187.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b187.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b1.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b1.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b75.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b75.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b58.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b58.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b13.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b13.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b27.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b27.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b76.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b76.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b197.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b197.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_clear.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_clear.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_offer.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_offer.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b12.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b12.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b8.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b8.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b32.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b32.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_vehicle_revisit.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_vehicle_revisit.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b199.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b199.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b120.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b120.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b56.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b56.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b80.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b80.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b203.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b203.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_approve.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_approve.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b94.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b94.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_longpressed_holo.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b47.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b47.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b95.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b95.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b50.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b50.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_jcb.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_jcb.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b116.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b116.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_visa.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_visa.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b3.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b3.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b169.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b169.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b163.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b163.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b110.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b110.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b38.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b38.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b57.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b57.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b204.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b204.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b85.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b85.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b66.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b66.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_channel.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_channel.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b154.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b154.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b60.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b60.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b173.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b173.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/alreadycall.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/alreadycall.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_hostling.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_hostling.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b41.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b41.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b100.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b100.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_focused_holo.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b114.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b114.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/__leak_canary_icon.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3/res/drawable-xxhdpi/__leak_canary_icon.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_unionpay.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_unionpay.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b35.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b35.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b49.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b49.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b54.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b54.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b174.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b174.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b213.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b213.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b40.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b40.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_refer.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_refer.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_camera.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_camera.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b112.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b112.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b37.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b37.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b97.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b97.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_amexpress.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_amexpress.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b83.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b83.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b145.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b145.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_stocking.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_stocking.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b78.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b78.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b39.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b39.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b181.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b181.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_rb_nomal.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_rb_nomal.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b64.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b64.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b11.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b11.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b133.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b133.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_car_revisit.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_car_revisit.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b42.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b42.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b87.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b87.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b155.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b155.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b102.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b102.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b81.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b81.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b124.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b124.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b208.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b208.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_work_report.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_work_report.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b99.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b99.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b143.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b143.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b93.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b93.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_sound.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_sound.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b215.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b215.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b68.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b68.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/photolist_isempty.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/photolist_isempty.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b71.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b71.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b90.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b90.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b162.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b162.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b52.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b52.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b14.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b14.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b33.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b33.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b89.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b89.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_modify.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_modify.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b92.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b92.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b206.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b206.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b122.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b122.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b119.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b119.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b152.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b152.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b62.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b62.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b221.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b221.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_top_back.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_top_back.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_transaction_prepay.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_transaction_prepay.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b43.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b43.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b185.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b185.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b15.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b15.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_call_record.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_call_record.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b196.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b196.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b26.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b26.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b45.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b45.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b91.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b91.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/icon_open.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/icon_open.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b118.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b118.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b59.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b59.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_vehicle.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_vehicle.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b150.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b150.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_revisit.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_revisit.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b72.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b72.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b103.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b103.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/notcall.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/notcall.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b109.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b109.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b141.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b141.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b73.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b73.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b69.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b69.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_recom.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_recom.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b88.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b88.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b79.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b79.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b151.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b151.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_rb_checked.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_rb_checked.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_attention.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_attention.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b82.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b82.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_edite_checkercomment.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_edite_checkercomment.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b63.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b63.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b220.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b220.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_background.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/ic_background.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b44.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b44.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/b25.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/drawable-xxhdpi/b25.png"
+    },
+    {
+        "merged": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/res/merged/debug/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/drawable-xxhdpi/abc_tab_indicator_mtrl_alpha.9.png"
+    }
+]

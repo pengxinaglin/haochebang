@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/hc_self_gray_bg"
+              android:descendantFocusability="blocksDescendants">
+    <!--我的客户列表Item-->
+    <!-- <android.support.v7.widget.CardView
+         android:layout_width="match_parent"
+         android:layout_height="wrap_content">-->
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:focusable="true"
+            android:focusableInTouchMode="true"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_buyerphone"
+                style="@style/HCTheme.TextMain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/hc_self_white"
+                android:gravity="left"
+                android:padding="@dimen/margin_20dp"
+                android:text="-----------"
+                android:textSize="@dimen/margin_14dp"
+                />
+
+            <TextView
+                android:id="@+id/tv_buyerinfo"
+                style="@style/HCTheme.TextMain"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/hc_self_white"
+                android:gravity="left"
+                android:paddingBottom="@dimen/margin_15dp"
+                android:paddingLeft="@dimen/margin_20dp"
+                android:paddingRight="@dimen/margin_20dp"
+                android:paddingTop="@dimen/margin_10dp"
+                android:text="张先生需要张先生需张先生需张先生需张先生需张先生需张先生需购买......"
+                android:textSize="@dimen/margin_12dp"/>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/hc_vehicle_model_bg">
+
+                <TextView
+                    android:id="@+id/tv_state"
+                    style="@style/HCTheme.TextHint"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:ellipsize="end"
+                    android:maxEms="12"
+                    android:padding="@dimen/margin_20dp"
+                    android:singleLine="true"
+                    android:text="无效"
+                    android:textSize="@dimen/margin_12dp"
+                    />
+
+                <TextView
+                    android:id="@+id/tv_createtime"
+                    style="@style/HCTheme.TextHint"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="right"
+                    android:padding="@dimen/margin_20dp"
+                    android:text="10:20:00"/>
+            </LinearLayout>
+        </LinearLayout>
+    <!--</android.support.v7.widget.CardView>-->
+</LinearLayout>

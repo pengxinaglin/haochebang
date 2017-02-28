@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/hc_self_white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        style="@style/ll_normal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_revisitor"
+            style="@style/tv_revist_label"
+            android:text="--"
+            android:textColor="@color/hc_self_black"
+            android:textSize="@dimen/hc_text_size_large"
+            />
+
+        <TextView
+            android:id="@+id/tv_revisit_time"
+            style="@style/tv_revist_content"
+            android:layout_toRightOf="@id/tv_revisitor"
+            android:text="--"
+            android:textSize="@dimen/hc_text_size_large"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        style="@style/ll_normal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_sell_reason_label"
+            style="@style/tv_revist_label"
+            android:text="@string/sell_reason"/>
+
+        <TextView
+            android:id="@+id/tv_sell_reason"
+            style="@style/tv_revist_content"
+            android:layout_toRightOf="@id/tv_sell_reason_label"
+            android:text="--"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        style="@style/ll_normal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_sell_time_label"
+            style="@style/tv_revist_label"
+            android:text="@string/sell_time"/>
+
+        <TextView
+            android:id="@+id/tv_sell_time"
+            style="@style/tv_revist_content"
+            android:layout_toRightOf="@id/tv_sell_time_label"
+            android:text="--"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        style="@style/ll_normal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_sell_decider_label"
+            style="@style/tv_revist_label"
+            android:text="@string/sell_decider"/>
+
+        <TextView
+            android:id="@+id/tv_sell_decider"
+            style="@style/tv_revist_content"
+            android:layout_toRightOf="@id/tv_sell_decider_label"
+            android:text="--"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        style="@style/ll_normal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_expected_price_label"
+            style="@style/tv_revist_label"
+            android:text="@string/expected_price"/>
+
+        <TextView
+            android:id="@+id/tv_expected_price"
+            style="@style/tv_revist_content"
+            android:layout_toRightOf="@id/tv_expected_price_label"
+            android:text="--"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        style="@style/ll_normal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_offer_price_label"
+            style="@style/tv_revist_label"
+            android:text="@string/offer_price"/>
+
+        <TextView
+            android:id="@+id/tv_offer_price"
+            style="@style/tv_revist_content"
+            android:layout_toRightOf="@id/tv_offer_price_label"
+            android:text="--"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        style="@style/ll_normal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_other_label"
+            style="@style/tv_revist_label"
+            android:text="@string/other"/>
+
+        <TextView
+            android:id="@+id/tv_other"
+            style="@style/tv_revist_content"
+            android:layout_toRightOf="@id/tv_other_label"
+            android:text="--"/>
+    </RelativeLayout>
+</LinearLayout>

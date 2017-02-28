@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:orientation="vertical"
+              android:paddingBottom="@dimen/height_10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_sale_method"/>
+
+        <TextView
+            android:id="@+id/tv_sale_method"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/p_vehicle_source_id"/>
+
+        <TextView
+            android:id="@+id/tv_vehicle_source_id"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_sale_price"/>
+
+        <TextView
+            android:id="@+id/tv_sale_price"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_buyer_name"/>
+
+        <TextView
+            android:id="@+id/tv_buyer_name"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_buyer_phone"/>
+
+        <TextView
+            android:id="@+id/tv_buyer_phone"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_sell"/>
+
+        <TextView
+            android:id="@+id/tv_saler"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+</LinearLayout>

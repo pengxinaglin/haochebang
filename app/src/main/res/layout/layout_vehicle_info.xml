@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/tv_fill_exam_report"
+        android:text="车辆信息"/>
+
+    <View style="@style/view_normal"/>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="品牌车系"/>
+
+        <TextView
+            android:id="@+id/vehicle_brand"
+            style="@style/tv_normal"
+            android:layout_weight="0.8"/>
+
+        <TextView
+            android:id="@+id/vehicle_class"
+            style="@style/tv_normal"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="1.2"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="年份车款"/>
+
+        <TextView
+            android:id="@+id/vehicle_model"
+            style="@style/tv_normal"
+            android:paddingLeft="3dp"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report"
+        android:layout_marginTop="5dp">
+
+        <TextView
+            style="@style/tv_normal_label"/>
+
+        <Button
+            android:id="@+id/filter_vehicle_model"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/selector_upload_report"
+            android:text="筛选车款"
+            android:textColor="@color/self_white"
+            android:textSize="14sp"/>
+
+        <Button
+            android:id="@+id/btn_vehicle_valuation"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_bg_selector"
+            android:text="车源估价"
+            android:textColor="@color/hc_indicator"
+            android:textSize="14sp"/>
+    </LinearLayout>
+
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="变速箱"/>
+
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <Spinner
+                android:id="@+id/sp_gearbox"
+                style="@style/spanner_normal"
+                android:layout_width="match_parent"
+                android:entries="@array/array_biansuqi"/>
+
+            <TextView
+                android:id="@+id/sp_gearbox_lab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@id/sp_gearbox"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="排放标准"/>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <Spinner
+                android:id="@+id/sp_emissions_standard"
+                style="@style/spanner_normal"
+                android:layout_width="match_parent"
+                android:entries="@array/emissions_standard"/>
+
+            <TextView
+                android:id="@+id/sp_emissions_standard_lab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@id/sp_emissions_standard"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="排量"/>
+
+        <EditText
+            android:id="@+id/ed_emission"
+            style="@style/ed_normal"
+            android:layout_weight="1"
+            android:hint="排量数值输入"
+            android:inputType="numberDecimal"/>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <Spinner
+                android:id="@+id/sp_emission_type"
+                style="@style/spanner_normal"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="5dp"
+                android:entries="@array/emissions_type"/>
+
+            <TextView
+                android:id="@+id/sp_emission_type_lab"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignRight="@id/sp_emission_type"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="20dp"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="表显里程"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_miles"
+                style="@style/ed_unit_normal"
+                android:hint="请输入表显里程"
+                android:inputType="numberDecimal"/>
+
+            <TextView
+                style="@style/tv_unit_normal"
+                android:text="@string/hc_unit_wan_km"/>
+        </FrameLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="驱动方式"/>
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+        <RadioGroup
+            android:id="@+id/rg_drive"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/four_drive"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@drawable/radio_button_selector"
+                android:text="四驱"/>
+
+            <RadioButton
+                android:id="@+id/front_drive"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@drawable/radio_button_selector"
+                android:text="前驱"/>
+
+            <RadioButton
+                android:id="@+id/after_drive"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:button="@drawable/radio_button_selector"
+                android:text="后驱"/>
+        </RadioGroup>
+        <TextView
+            android:id="@+id/tv_drive_lab"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/rg_drive"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:gravity="right"/>
+        </RelativeLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="座椅个数"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/edt_seatcount"
+                style="@style/ed_unit_normal"
+                android:hint="请输入座椅个数"
+                android:inputType="number"/>
+
+            <TextView
+                style="@style/tv_unit_normal"
+                android:text="个"/>
+        </FrameLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/ll_fill_exam_report"
+        android:layout_marginBottom="10dp">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="来源"/>
+
+        <CheckBox
+            android:id="@+id/ckb_iscardealer"
+            style="@style/rb_normal"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:button="@drawable/radio_button_selector"
+            android:text="疑似车商"/>
+
+        <CheckBox
+            android:id="@+id/ckb_exclusive"
+            style="@style/rb_normal"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:button="@drawable/radio_button_selector"
+            android:text="@string/exclusive"/>
+    </LinearLayout>
+
+</LinearLayout>

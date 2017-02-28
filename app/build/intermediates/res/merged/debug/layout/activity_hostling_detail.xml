@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_match"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/hc_self_gray_bg"
+    android:orientation="vertical">
+
+    <ScrollView
+        style="@style/wh_match"
+        android:layout_weight="10">
+
+        <LinearLayout
+            style="@style/wh_match"
+            android:orientation="vertical">
+
+            <include layout="@layout/layout_hostling_task_title"/>
+
+            <include layout="@layout/layout_recycling_progress"/>
+
+            <include layout="@layout/layout_hostling_baseinfo"/>
+
+            <View
+                style="@style/wh_match"
+                android:layout_height="@dimen/height_10dp"
+                />
+
+            <include layout="@layout/layout_hostling_vehicleinfo"/>
+
+
+            <LinearLayout
+                android:id="@+id/ll_hostling_layout"
+                style="@style/wh_mw"
+                android:orientation="vertical">
+
+                <!--用来放整备的图片-->
+                <LinearLayout
+                    android:id="@+id/ll_hostling_picture_layout"
+                    style="@style/wh_mw"
+                    android:orientation="vertical"
+                    android:paddingBottom="@dimen/height_10dp"
+                    android:background="@color/self_white">
+
+                </LinearLayout>
+
+                <View
+                    style="@style/wh_match"
+                    android:layout_height="@dimen/height_10dp"
+                    />
+
+                <include layout="@layout/layout_hostling_fee"/>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:id="@+id/ll_btn"
+        style="@style/wh_mw"
+        android:layout_weight="0.1">
+
+        <include layout="@layout/layout_bottom_2btn"/>
+    </LinearLayout>
+
+</LinearLayout>

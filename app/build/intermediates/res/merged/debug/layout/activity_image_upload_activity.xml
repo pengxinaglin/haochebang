@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/self_white"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/common_titlebar_height"
+        android:background="@color/hc_titlebar_black">
+
+        <TextView
+            android:id="@+id/tv_common_back"
+            style="@style/hc_styel_titlebar_view_back"/>
+
+        <TextView
+            style="@style/hc_styel_titlebar_view_title"
+            android:layout_toEndOf="@+id/tv_common_back"
+            android:layout_toRightOf="@+id/tv_common_back"
+            android:text="上传照片"/>
+
+        <TextView
+            android:id="@+id/tv_delete"
+            style="@style/hc_styel_titlebar_view_right_fuction"
+            android:onClick="deletePhotos"
+            android:text="删除照片"/>
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="15dp"
+                android:layout_marginRight="15dp"
+                android:orientation="horizontal">
+
+                <TextView
+                    android:id="@+id/tv_car"
+                    style="@style/btn_fill_exam_report"
+                    android:background="@drawable/bottom_line_light_blue"
+                    android:text="汽车照片"
+                    android:textColor="@color/hc_indicator"
+                    android:textSize="16dp"
+                    android:textStyle="bold"/>
+
+                <TextView
+                    android:id="@+id/tv_defect"
+                    style="@style/btn_fill_exam_report"
+                    android:text="瑕疵照片"/>
+
+                <TextView
+                    android:id="@+id/tv_media"
+                    style="@style/btn_fill_exam_report"
+                    android:text="视频音频"/>
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#bdbdbd"/>
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/tabpager"
+        android:layout_width="fill_parent"
+        android:layout_height="0dip"
+        android:layout_gravity="center"
+        android:layout_weight="1.0"
+        android:background="#EDEEEF"/>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="#bdbdbd"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:padding="5dp">
+
+        <CheckBox
+            android:id="@+id/cb_channel"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:button="@drawable/selector_carbody"
+            android:textSize="@dimen/hc_text_size_middle"
+            android:text="渠寄车源 "/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1.5"
+            android:background="@drawable/btn_bg_selector"
+            android:onClick="saveReport"
+            android:text="保存报告"
+            android:textSize="@dimen/hc_text_size_middle"
+            android:textColor="@color/hc_indicator"/>
+
+        <Button
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1.5"
+            android:background="@drawable/selector_upload_report"
+            android:onClick="uploadReport"
+            android:text="上传报告"
+            android:textSize="@dimen/hc_text_size_middle"
+            android:textColor="@color/self_white"/>
+    </LinearLayout>
+
+</LinearLayout>

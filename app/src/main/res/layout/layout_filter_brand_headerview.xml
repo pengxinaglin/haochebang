@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:background="@color/hc_self_white"
+              android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#e6e6e6"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp"
+        android:text="@string/hc_hotbrand"
+        android:textSize="12sp"/>
+
+    <LinearLayout
+        android:id="@+id/linear_headview_parent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="@dimen/margin_25dp"
+        android:orientation="vertical">
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#e6e6e6"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp"
+        android:text="#"
+        android:textSize="12sp"/>
+
+    <TextView
+        android:id="@+id/tv_allbrand"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/margin_40dp"
+        android:background="@drawable/selector_common_click"
+        android:clickable="true"
+        android:gravity="center_vertical"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="5dp"
+        android:text="@string/hc_allbrand"
+        android:textSize="14sp"
+        android:visibility="gone"/>
+
+</LinearLayout>

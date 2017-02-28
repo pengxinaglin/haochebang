@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.haoche51.checker.widget.ElasticListView
+            android:id="@+id/mElasticListView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:background="@color/hc_self_gray_bg"
+            android:divider="@null"
+            android:layout_above="@+id/play_view_activity_listen_record"
+            android:overScrollMode="never">
+        </com.haoche51.checker.widget.ElasticListView>
+
+        <com.haoche51.checker.widget.PlayerView
+            android:id="@+id/play_view_activity_listen_record"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:visibility="gone"/>
+    </RelativeLayout>
+</LinearLayout>

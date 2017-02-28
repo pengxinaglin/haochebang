@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/self_white"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/hc_self_gray_bg"
+        />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_registration_time"
+            />
+
+        <TextView
+            android:id="@+id/tv_plate_time"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/tv_label_transfer_status"
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_show_mile"
+            />
+
+        <TextView
+            android:id="@+id/tv_mile"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/tv_label_transfer_status"
+            android:gravity="right"
+            android:text="-----------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/tv_transaction_vehicle_label"
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_transfer_times"
+            />
+
+        <TextView
+            android:id="@+id/tv_transfer_count"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/tv_transaction_vehicle_label"
+            android:gravity="right"
+            android:text="-----------"/>
+    </RelativeLayout>
+
+</LinearLayout>

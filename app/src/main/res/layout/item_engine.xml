@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@drawable/item_selector"
+              android:focusable="false"
+              android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/engine_label"
+        style="@style/item_label_normal"
+        android:text="--"/>
+
+    <TextView
+        android:id="@+id/engine_item_status"
+        style="@style/item_content_normal"
+        android:text="--"/>
+
+</LinearLayout>

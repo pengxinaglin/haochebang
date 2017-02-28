@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_match"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/hc_self_gray_bg"
+    android:orientation="vertical">
+
+    <ScrollView
+        style="@style/wh_match"
+        android:layout_weight="10">
+
+        <LinearLayout
+            style="@style/wh_match"
+            android:orientation="vertical">
+
+            <include layout="@layout/layout_check_task_vehicle_name"/>
+
+            <include layout="@layout/layout_uploadtask_progress"/>
+
+            <include layout="@layout/layout_checktask_baseinfo"/>
+
+            <View
+                style="@style/wh_match"
+                android:layout_height="@dimen/height_10dp"
+                />
+
+            <include layout="@layout/layout_uploadtask_detail"/>
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

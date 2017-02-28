@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <include layout="@layout/layout_common_titlebar_search_more"/>
+    <FrameLayout
+        style="@style/wh_match">
+
+        <com.haoche51.checker.widget.HCSmartTabLayout
+            android:id="@+id/content_view"
+            style="@style/wh_match">
+        </com.haoche51.checker.widget.HCSmartTabLayout>
+        <View
+            android:id="@+id/view_mask"
+            style="@style/wh_match"
+            android:visibility="gone"
+            android:background="@color/hc_half_black"/>
+        <ImageButton
+            android:id="@+id/fab_show_data"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_gravity="right|bottom"
+            android:layout_marginRight="@dimen/margin_30dp"
+            android:layout_marginBottom="@dimen/margin_30dp"
+            android:background="@drawable/ic_add_recommend"
+            />
+    </FrameLayout>
+</LinearLayout>

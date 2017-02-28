@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:orientation="vertical">
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="@string/hc_city"/>
+
+        <TextView
+            android:id="@+id/tv_city"
+            style="@style/tv_normal"
+           />
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="@string/hc_vehicle_type"/>
+
+        <TextView
+            android:id="@+id/tv_vehicle_type"
+            style="@style/tv_normal"/>
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="@string/first_board"/>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2"
+            android:gravity="center_vertical|left">
+
+            <TextView
+                android:id="@+id/tv_first_board"
+                style="@style/HCTheme.VehicleSubBlock.Spinner"
+                android:gravity="center"
+                android:entries="@array/filter_vehicle_source_online"
+                />
+
+            <ImageView
+                style="@style/wh_wrap"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:src="@drawable/ic_hc_spinner_arrow"/>
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/hc_ll_transfer_info"
+        android:layout_height="@dimen/height_35dp"
+        android:layout_marginBottom="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/tv_normal_label"
+            android:text="@string/hc_show_mile"/>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="2">
+
+            <EditText
+                android:id="@+id/ed_show_mile"
+                style="@style/HCTheme.VehicleSubBlock.Input"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:inputType="numberDecimal"
+                android:maxLength="20"
+                android:paddingRight="@dimen/margin_25dp"/>
+
+            <TextView
+                style="@style/wh_wrap"
+                android:layout_gravity="center_vertical|right"
+                android:layout_marginRight="@dimen/margin_5dp"
+                android:textColor="@color/hc_self_gray_hint"
+                android:text="@string/hc_unit_wan_km"
+                android:textSize="@dimen/hc_text_size_normal"/>
+        </FrameLayout>
+    </LinearLayout>
+
+</LinearLayout>

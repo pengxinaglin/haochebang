@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_mw"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/self_white"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/margin_15dp">
+
+    <RadioGroup
+        android:id="@+id/rg_merchant"
+        style="@style/wh_mw"
+        android:layout_gravity="center_horizontal"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_modify_info"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_edite_checkercomment"
+            android:text="@string/hc_modify_info"
+            />
+
+        <RadioButton
+            android:id="@+id/rb_modify_maintain"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_transmit_task"
+            android:text="@string/hc_modify_maintain"
+            />
+
+        <RadioButton
+            android:id="@+id/rb_check_vehicle"
+            style="@style/hc_tv_transaction_detail"
+            android:drawableTop="@drawable/ic_vehicle_revisit"
+            android:text="@string/hc_check_vehicle"
+            />
+    </RadioGroup>
+
+</LinearLayout>

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/self_white"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/height_10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_purchasetask_purchase_price"
+            />
+
+        <TextView
+            android:id="@+id/tv_back_price"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_purchasetask_purchase_bookingprice"
+            />
+
+        <TextView
+            android:id="@+id/tv_deposit_amount"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_purchasetask_purchase_overprice"
+            />
+
+        <TextView
+            android:id="@+id/tv_balance_amount"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/tv_label_transfer_status"
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_purchasetask_purchase_istranfer"
+            />
+
+        <TextView
+            android:id="@+id/tv_is_transfer"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/tv_label_transfer_status"
+            android:gravity="right"
+            android:text="-----------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_purchasetask_purchase_tranfertype"
+            />
+
+        <TextView
+            android:id="@+id/tv_transfer_free_payer"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentRight="true"
+            android:gravity="right"
+            android:text="-----------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <TextView
+            android:id="@+id/tv_transaction_vehicle_label"
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_purchasetask_purchase_tranferfee"
+            />
+
+        <TextView
+            android:id="@+id/tv_transfer_free"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/tv_transaction_vehicle_label"
+            android:gravity="right"
+            android:text="-----------"/>
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/hc_self_gray_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/self_white"
+        android:orientation="horizontal"
+        android:paddingLeft="@dimen/margin_15dp">
+
+        <Spinner
+            android:id="@+id/spn_query_type"
+            android:layout_width="@dimen/margin_0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="2.8"
+            android:entries="@array/hc_query_type"/>
+
+        <LinearLayout
+            android:layout_width="@dimen/margin_0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="8">
+
+            <include layout="@layout/layout_common_input_sbmit"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/margin_15dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/self_white"
+        android:paddingBottom="@dimen/height_10dp"
+        android:paddingLeft="@dimen/margin_15dp"
+        android:paddingTop="@dimen/height_10dp"
+        android:text="@string/hc_query_history"/>
+
+    <ListView
+        android:id="@+id/lv_history"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="@dimen/margin_1dp"
+        android:background="@color/self_white">
+
+    </ListView>
+
+</LinearLayout>

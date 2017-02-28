@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_mw"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/hc_self_gray"
+        />
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/btn_offline_sold"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/hc_self_red"
+            android:padding="@dimen/margin_15dp"
+            android:text="@string/hc_right_vehicle_offlinesold"
+            android:textColor="@color/self_white"
+            android:textSize="@dimen/margin_16dp"/>
+
+        <Button
+            android:id="@+id/btn_c2c_sold"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:background="@color/self_white"
+            android:padding="15dp"
+            android:text="@string/hc_c2c_sold"
+            android:textColor="@color/hc_self_black"
+            android:textSize="@dimen/font_16"/>
+
+    </LinearLayout>
+
+</LinearLayout>

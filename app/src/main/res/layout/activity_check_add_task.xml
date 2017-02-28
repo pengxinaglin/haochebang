@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_match"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/hc_self_gray_bg"
+    android:orientation="vertical">
+
+    <ScrollView
+        style="@style/wh_match"
+        android:layout_weight="10">
+
+        <LinearLayout
+            style="@style/wh_match"
+            android:orientation="vertical"
+            android:focusableInTouchMode="true">
+
+            <include layout="@layout/layout_check_add_task_vehicle_info"/>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/margin_15dp"/>
+
+            <include layout="@layout/layout_check_add_task_check_info"></include>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:layout_weight="0.1">
+
+        <include layout="@layout/layout_bottom_confirm"/>
+    </LinearLayout>
+
+</LinearLayout>

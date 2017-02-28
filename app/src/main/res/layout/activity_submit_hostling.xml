@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/wh_match"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/hc_self_gray_bg"
+    android:orientation="vertical">
+
+    <LinearLayout
+        style="@style/wh_match"
+        android:layout_weight="20"
+        android:background="@color/self_white"
+        android:orientation="vertical">
+
+        <LinearLayout
+            style="@style/wh_mw"
+            android:layout_height="@dimen/height_45dp"
+            android:orientation="horizontal"
+            android:paddingLeft="@dimen/margin_10dp"
+            android:paddingRight="@dimen/margin_10dp"
+            android:paddingTop="@dimen/height_10dp">
+
+            <TextView
+                style="@style/HCTheme.TextHint.Lable"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:text="@string/hc_hostling_pick_up_time"/>
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="2"
+                android:gravity="center_vertical|left">
+
+                <TextView
+                    android:id="@+id/tv_repair_pick_up_time"
+                    style="@style/HCTheme.VehicleSubBlock.Spinner"
+                    android:entries="@array/filter_vehicle_source_online"
+                    android:gravity="center"
+                    />
+
+                <ImageView
+                    style="@style/wh_wrap"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="@dimen/margin_5dp"
+                    android:src="@drawable/ic_hc_spinner_arrow"/>
+            </RelativeLayout>
+        </LinearLayout>
+
+        <!--整备项目-->
+        <ListView
+            android:id="@+id/mListView"
+            style="@style/wh_mw"
+            android:dividerHeight="@dimen/margin_5dp"
+            android:divider="@color/self_white">
+        </ListView>
+
+        <!--<include layout="@layout/layout_hostling_add_item"></include>-->
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:layout_weight="0.1">
+
+        <include layout="@layout/layout_bottom_confirm"/>
+    </LinearLayout>
+
+</LinearLayout>

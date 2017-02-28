@@ -1,0 +1,70 @@
+[
+    {
+        "outputFile": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 448
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 42,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 435
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 453,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 1037
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endLine": 31,
+                        "endColumn": 12,
+                        "endOffset": 1549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1042,
+                    "endLine": 26,
+                    "endColumn": 12,
+                    "endOffset": 1516
+                },
+                "from": {
+                    "file": "/Users/mac/Documents/AndroidProject/android_studio_checker/app/src/main/res/values-v19/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endLine": 19,
+                        "endColumn": 12,
+                        "endOffset": 937
+                    }
+                }
+            }
+        ]
+    }
+]

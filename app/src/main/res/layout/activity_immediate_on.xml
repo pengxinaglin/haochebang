@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical">
+
+    <ScrollView
+        style="@style/wh_match"
+        android:layout_weight="20">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@color/self_white"
+                android:orientation="vertical">
+
+                <LinearLayout
+                    style="@style/hc_ll_transfer_info"
+                    android:layout_height="@dimen/height_35dp"
+                    android:orientation="horizontal"
+                    >
+
+                    <TextView
+                        style="@style/HCTheme.TextHint.Lable"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:text="@string/hc_online_way"/>
+
+                    <RadioGroup
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:checkedButton="@+id/rb_recheck"
+                        android:gravity="center_vertical"
+                        android:orientation="horizontal">
+
+                        <RadioButton
+                            android:id="@id/rb_recheck"
+                            style="@style/cb_carbody"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="@string/hc_recheck"/>
+
+                        <RadioButton
+                            android:id="@+id/rb_immediate_on"
+                            style="@style/cb_carbody"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:text="@string/hc_immediate_on"/>
+                    </RadioGroup>
+                </LinearLayout>
+
+                <include layout="@layout/layout_seller_info"/>
+
+                <include
+                    android:id="@+id/ll_recheck"
+                    layout="@layout/layout_recheck"/>
+                <LinearLayout
+                    style="@style/hc_ll_transfer_info"
+                    android:layout_height="@dimen/height_35dp"
+                    android:layout_marginBottom="20dp"
+                    android:orientation="horizontal">
+
+                    <TextView
+                        style="@style/HCTheme.TextHint.Lable"
+                        android:layout_height="wrap_content"
+                        android:text="@string/hc_online_note"/>
+                </LinearLayout>
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        style="@style/wh_mw"
+        android:layout_weight="0.1">
+
+        <Button
+            android:id="@+id/btn_commit_online"
+            style="@style/hc_transfer_bottom_1"
+            android:background="@color/hc_self_red"
+            android:padding="@dimen/margin_15dp"
+            android:text="@string/hc_commit_online"
+            android:textColor="@color/self_white"
+            android:textSize="@dimen/font_16"/>
+    </LinearLayout>
+</LinearLayout>

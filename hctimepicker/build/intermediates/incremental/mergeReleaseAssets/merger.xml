@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/mac/Documents/AndroidProject/android_studio_checker/hctimepicker/src/main/assets"/><source path="/Users/mac/Documents/AndroidProject/android_studio_checker/hctimepicker/build/generated/assets/shaders/release"/></dataSet><dataSet config="release"><source path="/Users/mac/Documents/AndroidProject/android_studio_checker/hctimepicker/src/release/assets"/></dataSet></merger>

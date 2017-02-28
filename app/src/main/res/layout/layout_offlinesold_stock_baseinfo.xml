@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:background="@color/self_white"
+              android:orientation="vertical"
+              android:paddingBottom="@dimen/height_10dp">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/hc_self_gray_bg"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_receive_user"
+            style="@style/hc_tv_name"
+            android:layout_alignParentLeft="true"
+            android:padding="@dimen/margin_15dp"
+            android:text="---"/>
+
+        <TextView
+            android:id="@+id/tv_receive_user_phone"
+            style="@style/hc_tv_phone"
+            android:layout_alignParentRight="true"
+            android:padding="@dimen/margin_15dp"
+            android:text="----"/>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_check_task_id"/>
+
+        <TextView
+            android:id="@+id/tv_task_num"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_transfer_plate"/>
+
+        <TextView
+            android:id="@+id/tv_plate_number"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_vehicle_offer"/>
+
+        <TextView
+            android:id="@+id/tv_price"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:text="------"/>
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv_label_transfer_status"
+            style="@style/hc_tv_title"
+            android:layout_alignParentLeft="true"
+            android:text="@string/hc_vehicle_low_price"/>
+
+        <TextView
+            android:id="@+id/tv_cheap_price"
+            style="@style/hc_tv_desc"
+            android:layout_alignParentRight="true"
+            android:layout_toRightOf="@+id/tv_label_transfer_status"
+            android:gravity="right"
+            android:text="-----------"/>
+    </RelativeLayout>
+
+</LinearLayout>

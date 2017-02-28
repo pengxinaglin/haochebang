@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/hc_self_white"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_filter_title"/>
+
+    <LinearLayout
+        android:id="@+id/ll_brand"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/margin_50dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextMain"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/margin_50dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/margin_12dp"
+            android:paddingRight="@dimen/margin_15dp"
+            android:text="品牌车系"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <TextView
+            android:id="@+id/tv_brand_name"
+            style="@style/HCTheme.TextHint"
+            android:textColor="@color/hc_indicator"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <TextView
+            style="@style/HCTheme.TextMain"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:drawableRight="@drawable/ic_setting_arrow"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/margin_12dp"
+            android:paddingRight="@dimen/margin_15dp"
+            android:textSize="@dimen/margin_12dp"/>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="@color/hc_self_gray_bg"/>
+
+    <LinearLayout
+        android:id="@+id/ll_maintenance"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/margin_50dp"
+        android:orientation="horizontal">
+
+        <TextView
+            style="@style/HCTheme.TextMain"
+            android:layout_width="0dp"
+            android:layout_height="@dimen/margin_50dp"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/margin_12dp"
+            android:paddingRight="@dimen/margin_15dp"
+            android:text="@string/hc_channel_maintenance"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <TextView
+            android:id="@+id/tv_maintenance_name"
+            style="@style/HCTheme.TextHint"
+            android:textColor="@color/hc_indicator"
+            android:textSize="@dimen/hc_text_size_normal"/>
+
+        <TextView
+            style="@style/HCTheme.TextMain"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:drawableRight="@drawable/ic_setting_arrow"
+            android:gravity="center_vertical"
+            android:paddingLeft="@dimen/margin_12dp"
+            android:paddingRight="@dimen/margin_15dp"
+            android:textSize="@dimen/margin_12dp"/>
+    </LinearLayout>
+
+</LinearLayout>

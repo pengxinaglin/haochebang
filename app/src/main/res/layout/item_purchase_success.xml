@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/rl_photo_item">
+
+    <com.haoche51.checker.custom.RoundImageView
+        android:id="@id/riv_purchase_photo"
+        style="@style/riv_photo"
+        app:borderRadius="5dp"
+        app:type="round"/>
+
+    <TextView
+        android:id="@id/tv_photo_tag"
+        style="@style/tv_center_tag"/>
+
+    <TextView
+        android:id="@id/tv_photo_tag_new"
+        style="@style/tv_bottom_tag"
+        android:layout_below="@id/riv_purchase_photo"/>
+</RelativeLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android_studio_checker.iml" filepath="$PROJECT_DIR$/android_studio_checker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ffmpeg/ffmpeg.iml" filepath="$PROJECT_DIR$/ffmpeg/ffmpeg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hctimepicker/hctimepicker.iml" filepath="$PROJECT_DIR$/hctimepicker/hctimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MP3Recorder/mp3recorder.iml" filepath="$PROJECT_DIR$/MP3Recorder/mp3recorder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/o2osdk/o2osdk.iml" filepath="$PROJECT_DIR$/o2osdk/o2osdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/photospicker/photospicker.iml" filepath="$PROJECT_DIR$/photospicker/photospicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qiniu/qiniu.iml" filepath="$PROJECT_DIR$/qiniu/qiniu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/settlement/settlement.iml" filepath="$PROJECT_DIR$/settlement/settlement.iml" />
+    </modules>
+  </component>
+</project>
